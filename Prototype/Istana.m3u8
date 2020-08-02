@@ -41,6 +41,8 @@ http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Hello
 https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-ID="HIT.MY" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Malaysia",Hits
+http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
 #EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="Malaysia",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
@@ -156,6 +158,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 https://e10.cdn4.us/ingest666/fs1/f.m3u8|Referer=https://espn-live.stream/stream/45459.html
 #EXTINF:-1 tvg-id="FS2.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Sports",FS2 USA
 https://e10.cdn4.us/ingest666/fs2/f.m3u8|Referer=https://espn-live.stream/stream/45460.html
+#EXTINF:-1 tvg-id="Fig.Int" tvg-logo="hhttps://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg group-title="Sports",Fight Sports
+http://103.47.132.164/PLTV/88888888/224/3221227065/index.m3u8
 #EXTINF:-1 tvg-id="FDP.US" tvg-logo="https://static.epg.best/us/FoxDeportes.us.png" group-title="Sports",Fox Deportes
 https://e10.cdn4.us/ingest666/foxdep/f.m3u8|Referer=https://espn-live.stream/stream/45529.html
 #EXTINF:-1 tvg-id="FXS.US" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="Sports",Fox Soccer Plus
@@ -218,6 +222,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227537/index.m3u8
 
 #EXTINF:-1 tvg-ID="AB3.AU" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="Family",ABC ME
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="Family",Animax
+http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
 #EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Family",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Family",Animal Planet
@@ -432,6 +438,8 @@ https://e10.cdn4.us/ingest666/accn/c.m3u8|Referer=https://espn-live.stream/strea
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-ID="AHC.US" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" group-title="USA",AHC
 https://e10.cdn4.us/ingest666/ahc/d.m3u8|Referer=https://espn-live.stream/stream/70077.html
+#EXTINF:-1 tvg-id="AXN.Int" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="美国",AXN
+http://103.47.132.164/PLTV/88888888/224/3221227159/index.m3u8
 #EXTINF:-1 tvg-ID="BET.US" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="USA",BET
 https://e10.cdn4.us/ingest666/bet/d.m3u8|Referer=https://espn-live.stream/stream/68076.html
 #EXTINF:-1 tvg-id="BAE.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rtl_cbs_entertainment_hd.png/400px-Rtl_cbs_entertainment_hd.png" group-title="USA",Blue Ant Entertainment
