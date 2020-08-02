@@ -1,5 +1,120 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/naura.png",Naura
+https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/hello.png",Hello
+https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/bernama.png",BERNAMA 
+https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
+
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tvah.png",TV Alhijrah
+https://fvtv.mywire.org/playlist/nujj7qrkcz-u0wjkpejqa.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Channel V
+http://103.47.132.164/PLTV/88888888/224/3221227133/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",AFN
+http://103.47.132.164/PLTV/88888888/224/3221227191/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",AXN
+http://103.47.132.164/PLTV/88888888/224/3221227159/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Animal Planet
+http://103.47.132.164/PLTV/88888888/224/3221227173/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Animax
+http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",BBC CBeebies
+http://103.47.132.164/PLTV/88888888/224/3221227353/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",BBC Lifestyle
+http://103.47.132.164/PLTV/88888888/224/3221227115/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",BBC World News
+http://103.47.132.164/PLTV/88888888/224/3221227171/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Blue Ant Entertainment
+http://103.47.132.164/PLTV/88888888/224/3221227333/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Blue Ant Extreme
+http://103.47.132.164/PLTV/88888888/224/3221227319/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Crime+ Investigation
+http://103.47.132.164/PLTV/88888888/224/3221227341/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Discovery
+http://103.47.132.164/PLTV/88888888/224/3221227169/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Discovery Asia
+http://103.47.132.164/PLTV/88888888/224/3221227161/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Disney
+http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FIGHT
+http://103.47.132.164/PLTV/88888888/224/3221227065/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX
+http://103.47.132.164/PLTV/88888888/224/3221227137/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX Crime
+http://103.47.132.164/PLTV/88888888/224/3221227165/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX Family Movies
+http://103.47.132.164/PLTV/88888888/224/3221227117/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX Life
+http://103.47.132.164/PLTV/88888888/224/3221227277/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX Sports 2
+http://103.47.132.164/PLTV/88888888/224/3221227175/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX Sports
+http://103.47.132.164/PLTV/88888888/224/3221227125/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",GEM TV Asia
+http://103.47.132.164/PLTV/88888888/224/3221227187/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",HGTV
+http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",History
+http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Hit Movies
+http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Hits
+http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Lifetime
+http://103.47.132.164/PLTV/88888888/224/3221227337/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Love Nature 4K
+http://103.47.132.164/PLTV/88888888/224/3221227339/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Nat Geo People
+http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Nat Geo Wild
+http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",National Geographic
+http://103.47.132.164/PLTV/88888888/224/3221227177/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",ONE
+http://103.47.132.164/PLTV/88888888/224/3221227143/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Salam TV
+http://103.47.132.164/PLTV/88888888/224/3221227107/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",TLC
+http://103.47.132.164/PLTV/88888888/224/3221227113/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",ZooMoo
+http://103.47.132.164/PLTV/88888888/224/3221227323/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221227539/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX Sports 3
+http://103.47.132.164/PLTV/88888888/224/3221227219/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Indonesia Maju
+http://103.47.132.164/PLTV/88888888/224/3221227285/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Inspirasi
+http://103.47.132.164/PLTV/88888888/224/3221227235/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",JAKTV
+http://103.47.132.164/PLTV/88888888/224/3221227237/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",JTV
+http://103.47.132.164/PLTV/88888888/224/3221227243/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Metr TV
+http://103.47.132.164/PLTV/88888888/224/3221227343/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Persija TV
+http://103.47.132.164/PLTV/88888888/224/3221227429/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Rodja TV
+http://103.47.132.164/PLTV/88888888/224/3221227225/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Sinema Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221227233/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Smithsonian
+http://103.47.132.164/PLTV/88888888/224/3221227321/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",ZEE Bioskop
+http://103.47.132.164/PLTV/88888888/224/3221227537/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",eyePLUS
+http://103.47.132.164/PLTV/88888888/224/3221227231/index.m3u8
+
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5频道
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="新马",亚洲新闻台
