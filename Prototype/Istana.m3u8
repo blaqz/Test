@@ -201,7 +201,7 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-ID="SBM.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/3374ed8c-8b84-4703-8449-7142e3bd838e.png" group-title="Movies",SBS World Movies
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="SIN.ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="Indonesia",Sinema Indonesia
+#EXTINF:-1 tvg-id="SIN.ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="Movies",Sinema Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221227233/index.m3u8
 #EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="Movies",Sony Movies Action
 http://51.52.156.22:8888/http/009
@@ -448,6 +448,8 @@ https://e10.cdn4.us/ingest666/espn_news/d.m3u8|Referer=https://espn-live.stream/
 https://e10.cdn4.us/ingest666/espn_u/f.m3u8|Referer=https://espn-live.stream/stream/45457.html
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="USA",Fox
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="FXC.Asia" tvg-logo="https://static.epg.best/qa/FoxCrime.qa.png" group-title="USA",FOX Crime
+http://103.47.132.164/PLTV/88888888/224/3221227165/index.m3u8
 #EXTINF:-1 tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="USA",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="USA",Fashion TV
