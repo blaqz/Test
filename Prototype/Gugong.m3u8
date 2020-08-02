@@ -3,30 +3,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Channel V
 http://103.47.132.164/PLTV/88888888/224/3221227133/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",AFN
-http://103.47.132.164/PLTV/88888888/224/3221227191/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",AXN
-http://103.47.132.164/PLTV/88888888/224/3221227159/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Animal Planet
-http://103.47.132.164/PLTV/88888888/224/3221227173/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Animax
-http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",BBC CBeebies
-http://103.47.132.164/PLTV/88888888/224/3221227353/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",BBC Lifestyle
-http://103.47.132.164/PLTV/88888888/224/3221227115/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",BBC World News
-http://103.47.132.164/PLTV/88888888/224/3221227171/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Blue Ant Entertainment
-http://103.47.132.164/PLTV/88888888/224/3221227333/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Blue Ant Extreme
-http://103.47.132.164/PLTV/88888888/224/3221227319/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Crime+ Investigation
 http://103.47.132.164/PLTV/88888888/224/3221227341/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FIGHT
-http://103.47.132.164/PLTV/88888888/224/3221227065/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",National Geographic
 http://103.47.132.164/PLTV/88888888/224/3221227177/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png" group-title="Motor Sports",ZooMoo
@@ -336,6 +314,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 
 #EXTINF:-1 tvg-ID="AB3.AU" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="家庭娱乐",ABC ME
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="家庭娱乐",Animax
+http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
 #EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="家庭娱乐",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="家庭娱乐",Animal Planet
@@ -401,6 +381,8 @@ https://e10.cdn4.us/ingest666/espn_usa/f.m3u8|Referer=https://espn-live.stream/s
 https://e10.cdn4.us/ingest666/espn2_usa/f.m3u8|Referer=https://espn-live.stream/stream/45351.html
 #EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="体育",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
+#EXTINF:-1 tvg-id="Fig.Int" tvg-logo="hhttps://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg group-title="体育",Fight Sports
+http://103.47.132.164/PLTV/88888888/224/3221227065/index.m3u8
 #EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",Fox Sports 1 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",Fox Sports 2 Asia
@@ -575,6 +557,8 @@ https://e10.cdn4.us/ingest666/accn/c.m3u8|Referer=https://espn-live.stream/strea
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-ID="AHC.US" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" group-title="美国",AHC
 https://e10.cdn4.us/ingest666/ahc/d.m3u8|Referer=https://espn-live.stream/stream/70077.html
+#EXTINF:-1 tvg-id="AXN.Int" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="美国",AXN
+http://103.47.132.164/PLTV/88888888/224/3221227159/index.m3u8
 #EXTINF:-1 tvg-ID="BET.US" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="美国",BET
 https://e10.cdn4.us/ingest666/bet/d.m3u8|Referer=https://espn-live.stream/stream/68076.html
 #EXTINF:-1 tvg-id="BAE.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rtl_cbs_entertainment_hd.png/400px-Rtl_cbs_entertainment_hd.png" group-title="美国",Blue Ant Entertainment
@@ -619,6 +603,8 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-ID="GLN.CA" tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="美国",Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+#EXTINF:-1 tvg-ID="HIT.MY" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="美国",Hits
+http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
 #EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="美国",ICI Tele
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-ID="ICI.News" tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="美国",ICI RDI
