@@ -32,20 +32,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227161/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FIGHT
 http://103.47.132.164/PLTV/88888888/224/3221227065/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX
-http://103.47.132.164/PLTV/88888888/224/3221227137/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX Crime
-http://103.47.132.164/PLTV/88888888/224/3221227165/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX Family Movies
-http://103.47.132.164/PLTV/88888888/224/3221227117/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX Life
-http://103.47.132.164/PLTV/88888888/224/3221227277/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX Sports 2
-http://103.47.132.164/PLTV/88888888/224/3221227175/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX Sports
-http://103.47.132.164/PLTV/88888888/224/3221227125/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",HGTV
 http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
@@ -651,6 +637,8 @@ https://e10.cdn4.us/ingest666/espn_news/d.m3u8|Referer=https://espn-live.stream/
 https://e10.cdn4.us/ingest666/espn_u/f.m3u8|Referer=https://espn-live.stream/stream/45457.html
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="美国",Fox
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="FXC.Asia" tvg-logo="https://static.epg.best/qa/FoxCrime.qa.png" group-title="美国",FOX Crime
+http://103.47.132.164/PLTV/88888888/224/3221227165/index.m3u8
 #EXTINF:-1 tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="美国",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="美国",Fashion TV
