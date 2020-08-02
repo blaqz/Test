@@ -41,29 +41,26 @@ http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227337/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",National Geographic
 http://103.47.132.164/PLTV/88888888/224/3221227177/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Salam TV
-http://103.47.132.164/PLTV/88888888/224/3221227107/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",TLC
-http://103.47.132.164/PLTV/88888888/224/3221227113/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png" group-title="Motor Sports",ZooMoo
 http://103.47.132.164/PLTV/88888888/224/3221227323/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221227539/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX Sports 3
-http://103.47.132.164/PLTV/88888888/224/3221227219/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Salam TV
+http://103.47.132.164/PLTV/88888888/224/3221227107/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Inspirasi
 http://103.47.132.164/PLTV/88888888/224/3221227235/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Persija TV
 http://103.47.132.164/PLTV/88888888/224/3221227429/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Rodja TV
 http://103.47.132.164/PLTV/88888888/224/3221227225/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",ktv
+http://103.47.132.164/PLTV/88888888/224/3221227231/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Smithsonian
 http://103.47.132.164/PLTV/88888888/224/3221227321/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",ktv
-http://103.47.132.164/PLTV/88888888/224/3221227231/index.m3u8
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5频道
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
@@ -637,7 +634,7 @@ https://e10.cdn4.us/ingest666/espn_news/d.m3u8|Referer=https://espn-live.stream/
 https://e10.cdn4.us/ingest666/espn_u/f.m3u8|Referer=https://espn-live.stream/stream/45457.html
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="美国",Fox
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FXC.Asia" tvg-logo="https://static.epg.best/qa/FoxCrime.qa.png" group-title="美国",FOX Crime
+#EXTINF:-1 tvg-id="FXC.Asia" tvg-logo="https://static.epg.best/qa/FoxCrime.qa.png" group-title="美国",Fox Crime
 http://103.47.132.164/PLTV/88888888/224/3221227165/index.m3u8
 #EXTINF:-1 tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="美国",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
@@ -678,7 +675,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3
 #EXTINF:-1 tvg-ID="TBE.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS East
 https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="美国",TLC
-https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227113/index.m3u8
 #EXTINF:-1 tvg-ID="TNT.US" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="美国",TNT
 https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
 #EXTINF:-1 tvg-ID="TVL.US" tvg-logo="https://static.epg.best/us/TVLandEast.us.png" group-title="美国",TV Land
