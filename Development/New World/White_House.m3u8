@@ -52,9 +52,9 @@ http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png" group-title="USA/Canada",Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 
-#EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA/Canada",Comedy Central
+#EXTINF:-1 tvg-id="COM.IN" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA/Canada",Comedy Central
 https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
-#EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA/Canada",Comedy Central
+#EXTINF:-1 tvg-id="COM.IN" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA/Canada",Comedy Central
 https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/CSPAN.us.png" group-title="USA/Canada",C Span
