@@ -246,6 +246,8 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(9c829723-9b34-49fd-
 http://stream1.ninmedia.tv/inspiratv/udp.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://nkritv.com/wp-content/uploads/2019/04/logo-insantv.jpg" group-title="Indonesia",InsanTV
 http://wz.insantv.net/group/ngrp:insantv_all/chunklist_b1627136.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/-NGDFriGgjII/V6FMi_XfjTI/AAAAAAAAC0k/OpQgifyXWNM/s640/%25255BUNSET%25255D.png" group-title="Indonesia",Inspirasi
+http://103.47.132.164/PLTV/88888888/224/3221227235/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_knbMLJw0sQA/Syby-VMQLeI/AAAAAAAAAAU/LU-FvZzkXm4/w1200-h630-p-k-no-nu/logojambitv.jpg" group-title="Indonesia",Jambi TV
 http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jember1tv.co.id/wp-content/uploads/2016/07/logo-retina.png" group-title="Indonesia",Jember 1 TV
@@ -264,6 +266,8 @@ http://wowza60.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Prambors.svg/1200px-Prambors.svg.png" group-title="Indonesia",Prambors FM
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.persijatv.com/images/pj.png" group-title="Indonesia",Persija TV
+http://103.47.132.164/PLTV/88888888/224/3221227429/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnJhZGFydGFzaWttYWxheWEudHZfaWNvbl8wXzcwMDczYTVi/icon.png?w=170&fakeurl=1" group-title="Indonesia",Radar TV Tasikmalaya
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radarcirebon.tv/wp-content/uploads/2018/08/logo-74.png" group-title="Indonesia",RCTV
@@ -271,11 +275,15 @@ http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://reformed21.tv/images/logo.png" group-title="Indonesia",Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rodja.tv/uploads/custom-logo.png" group-title="Indonesia",Rodja
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227225/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/21/KTV_28UHF.png/300px-KTV_28UHF.png" group-title="Indonesia",KTV
+http://103.47.132.164/PLTV/88888888/224/3221227231/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png" group-title="Indonesia",Ruang Trampil
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(f7350a6d-a73b-124e-a604-fefb0d1c8e01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://rumah.tv/wp-content/uploads/2019/11/logo-web-3.png" group-title="Indonesia",Rumah TV
 https://video2.onlivestreaming.net/rumahtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Salam_TV.png group-title="Indonesia",Salam TV
+http://103.47.132.164/PLTV/88888888/224/3221227107/index.m3u8
 #EXTINF:-1 tvg-logo="https://sbo.co.id/wp-content/uploads/2019/12/175x90.png" group-title="Indonesia",SBO
 https://rvs.zet.co.id:4432/sbotv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="Indonesia",Tatv
