@@ -184,7 +184,7 @@ http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="Indonesia",Albahjah tv
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/DaaiTv.id.png" group-title="Indonesia",Da Ai Indonesia
-https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582795985~exp=9007200837536976~acl=/a62c36fd75ff415da7a75c71a732034f/*/profile_2/chunklist.m3u8*~hmac=6a77ed118287f73c716a7d72859852d748125873f93f34069663c78f304a240c&hdnts=st=1582795973~exp=1582796093~acl=/*~id=dcf49637-e7f0-4773-95de-6d3e43308c72~data=36.77.80.127~hmac=8c8967ec6e256a2222bc6fc63a977ff44a2a9f61010e1c91af535d0f0de361ef
+http://103.47.132.164/PLTV/88888888/224/3221227241/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyJunior.uk.png" group-title="Indonesia",Disney Jr Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_imc_small.png" group-title="Indonesia",IMC
