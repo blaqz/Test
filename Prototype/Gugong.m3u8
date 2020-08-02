@@ -27,20 +27,10 @@ http://103.47.132.164/PLTV/88888888/224/3221227341/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FIGHT
 http://103.47.132.164/PLTV/88888888/224/3221227065/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",HGTV
-http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Hit Movies
-http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Lifetime
-http://103.47.132.164/PLTV/88888888/224/3221227337/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",National Geographic
 http://103.47.132.164/PLTV/88888888/224/3221227177/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png" group-title="Motor Sports",ZooMoo
 http://103.47.132.164/PLTV/88888888/224/3221227323/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Smithsonian
-http://103.47.132.164/PLTV/88888888/224/3221227321/index.m3u8
-
-
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5频道
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
@@ -323,8 +313,10 @@ http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="电影",Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="电影",FX
+#EXTINF:-1 tvg-id="FXX.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="电影",FX
 http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
+#EXTINF:-1 tvg-id="HIM.MY" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="电影",Hit Movies
+http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
 #EXTINF:-1 tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="电影",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-ID="SBM.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/3374ed8c-8b84-4703-8449-7142e3bd838e.png" group-title="电影",SBS World Movies
@@ -358,9 +350,7 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/823.m3u8
 #EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="家庭娱乐",Crime + Investigation
 http://203.154.243.31:15001
-#EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="家庭娱乐",Comedy Central US
-https://e10.cdn4.us/ingest666/cc/c.m3u8|Referer=https://espn-live.stream/stream/68072.html
-#EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="家庭娱乐",Comedy Central Asia
+#EXTINF:-1 tvg-id="COM.ID" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="家庭娱乐",Comedy Central
 https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="家庭娱乐",Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
@@ -372,6 +362,8 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="家庭娱乐",History
 http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
+#EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="家庭娱乐",HGTV
+http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
 #EXTINF:-1 tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="家庭娱乐",Pop UK
 https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="家庭娱乐",POP Max
@@ -384,6 +376,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8
 #EXTINF:-1 tvg-ID="SBF.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/ad6c5b49-3c34-4a6d-ab5b-d1bd2eea8fda.png" group-title="家庭娱乐",SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-id="SMI.US" tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png" group-title="家庭娱乐",Smithsonian
+http://103.47.132.164/PLTV/88888888/224/3221227321/index.m3u8
 #EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="家庭娱乐",Tiny Pop
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 
@@ -572,9 +566,6 @@ https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-id="TG4.IE" tvg-logo="https://static.epg.best/ie/TG4.ie.png" group-title="英国",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#------------------------------------------------------------------------------------------------------------------------------------------#
-#Project USA#
-#------------------------------------------------------------------------------------------------------------------------------------------#
 
 #EXTINF:-1 tvg-id="AMG.US" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top2.png" group-title="美国",AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
@@ -626,14 +617,14 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-ID="FSP.US" tvg-logo="http://i.imgur.com/PH1Gg4p.png" group-title="美国",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:-1 tvg-ID="FX.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="美国",FX
-https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
 #EXTINF:-1 tvg-ID="GLN.CA" tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="美国",Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="美国",ICI Tele
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-ID="ICI.News" tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="美国",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://static.epg.best/th/Lifetime.th.pngg" group-title="美国",Lifetime
+http://103.47.132.164/PLTV/88888888/224/3221227337/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2020/03/mls-tv-ratings-opening-weekend.jpg" group-title="美国",MLS TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-ID="MAV.US" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="美国",MavTV
