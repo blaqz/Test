@@ -511,6 +511,8 @@ http://211.245.55.198:1024/m2u/239.192.48.5:49220
 http://211.245.55.198:1024/m2u/239.192.52.8:49220
 #EXTINF:-1 tvg-ID="OLI.KR" tvg-logo="https://static.epg.best/kr/Olive.kr.png" group-title="韩国",Olive
 http://211.245.55.198:1024/m2u/239.192.58.10:49220
+#EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="韩国",One TV
+http://103.47.132.164/PLTV/88888888/224/3221227143/index.m3u8
 #EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="韩国",YTN
 http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 #EXTINF:-1 tvg-id="YTS.KR" tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="韩国",YTN Science
@@ -548,6 +550,8 @@ http://203.162.235.41:16915
 http://203.162.235.41:16912
 #EXTINF:-1 tvg-id="WOW.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日本",シネフィルWOWOW
 http://203.162.235.41:16916
+#EXTINF:-1 tvg-id="GEM.JP" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small.png" group-title="日本",GEM TV
+http://103.47.132.164/PLTV/88888888/224/3221227187/index.m3u8
 
 #EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="英国",BBC 1
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/807.m3u8
