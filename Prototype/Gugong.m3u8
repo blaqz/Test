@@ -125,6 +125,8 @@ http://54.64.23.79:1935/live/vod/playlist.m3u8
 #EXTINF:-1 tvg-id="WXD.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="台湾",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
+#EXTINF:-1 tvg-id="XKW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png" group-title="中国",星空卫视
+http://103.47.132.164/PLTV/88888888/224/3221227263/index.m3u8
 #EXTINF:-1 tvg-id="AHW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="中国",安徽卫视
 http://111.40.205.76/PLTV/88888888/224/3221225727/index.m3u8
 #EXTINF:-1 tvg-id="DFW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png" group-title="中国",东方卫视
@@ -297,14 +299,6 @@ http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 #EXTINF:-1 tvg-id="WXY.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
 http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
-#EXTINF:-1 tvg-id="XKW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png" group-title="电影",星空卫视
-http://103.47.132.164/PLTV/88888888/224/3221227263/index.m3u8
-#EXTINF:-1 tvg-id="WXY.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",打不出来
-http://103.47.132.164/PLTV/88888888/224/3221227327/index.m3u8
-#EXTINF:-1 tvg-id="WXY.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",未知
-http://103.47.132.164/PLTV/88888888/224/3221227303/index.m3u8
-#EXTINF:-1 tvg-id="WXY.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",未
-http://103.47.132.164/PLTV/88888888/224/3221227311/index.m3u8
 
 #EXTINF:-1 tvg-ID="AB3.AU" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="家庭娱乐",ABC ME
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
