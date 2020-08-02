@@ -63,10 +63,6 @@ http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影",龍祥時代電影
 http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-#EXTINF:-1 tvg-id="LOX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png" group-title="电影",龍華偶像
-http://185.93.2.35:12012/live/359111068247FFA1/_f_Wfrd2dUh_wcQwd8CuA7nac2frLZIfAF6FYG_WZbFfR-HAlgVfffDN2PImJCM4/03D082588D794321/984736.ts
-#EXTINF:-1 tvg-id="LYP.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87.png" group-title="电影",龍華洋片
-http://185.93.2.35:12012/live/359111068247FFA1/zArGydXe8iFzTn6oxjrwZF4cgf5-6bFrZaVuOtJrI2Hi1W-hOyySo0Ejj1lVTPAe/2460C973550B44E6/456457.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weishikashi.png" group-title="电影",衛視卡式 
 https://cdn-laos.workpoint.news/sd-starchineselegend_480/index.m3u8
 #EXTINF:-1 tvg-id="WXD.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
@@ -611,8 +607,6 @@ http://202.175.127.77/live/show/ch3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.passiontimes.hk/4.0/img/PASSIONTIMES_C.png" group-title="粵語",熱血時報
 http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="臺灣",東風
-http://58.99.33.9:1935/liveedge2/live_37_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="臺灣",民視臺灣台
 http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="臺灣",民視
@@ -651,44 +645,14 @@ http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 http://58.99.33.9:1935/liveedge2/live_41_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png" group-title="臺灣",八大综艺
 http://hdtv.ub1818.com/ublive/index_12.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png" group-title="臺灣",TVBS
-http://153.99.180.70:5021/live/349/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png" group-title="臺灣",TVBS歡樂台
-http://58.99.33.9:1935/liveedge2/live_42_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.daai.tv/images/logo.png" group-title="臺灣",大愛一
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="臺灣",大愛二
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://webtvonlive.com/wp-content/uploads/DaAi-World-webtvonlive-com.jpg" group-title="臺灣",大愛海外
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-#EXTINF:-1 tvg-id="DYY.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="臺灣",東森幼幼台
-http://58.99.33.9:1935/liveedge2/live_25_1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DZH.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="臺灣",東森綜合
-http://111.13.111.192/211.75.9.37:20040/20045
-#EXTINF:-1 tvg-id="DXQ.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="臺灣",東森戲劇
-http://111.13.111.192/211.75.9.37:20010/20012
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weilaojingcai.png" group-title="臺灣",緯來精采
 https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="臺灣",緯來日本
-rtmp://xiaoyu.speedws.com/sat/tv771
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="臺灣",緯來體育
-rtmp://xiaoyu.speedws.com/sat/tv721
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="臺灣",緯來育樂
-rtmp://xiaoyu.speedws.com/sat/tv701
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="臺灣",緯來戲劇
-http://58.99.33.9:1935/liveedge2/live_43_1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="臺灣",緯來电影
-http://58.99.33.9:1935/liveedge2/live_63_1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="臺灣",緯來综合
-http://58.99.33.9:1935/liveedge2/live_26_1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SLT.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="臺灣",三立台灣
-http://58.99.33.9:1935/liveedge2/live_29_1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SLD.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="臺灣",三立都會
-http://58.99.33.9:1935/liveedge2/live_30_1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="LOX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F.png" group-title="臺灣",龍華偶像
-http://185.93.2.35:12012/live/359111068247FFA1/_f_Wfrd2dUh_wcQwd8CuA7nac2frLZIfAF6FYG_WZbFfR-HAlgVfffDN2PImJCM4/03D082588D794321/984736.ts
-#EXTINF:-1 tvg-id="LYP.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87.png" group-title="臺灣",龍華洋片
-http://185.93.2.35:12012/live/359111068247FFA1/zArGydXe8iFzTn6oxjrwZF4cgf5-6bFrZaVuOtJrI2Hi1W-hOyySo0Ejj1lVTPAe/2460C973550B44E6/456457.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.fanstv.tw/images/logo.png" group-title="臺灣",番薯
 http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
@@ -712,14 +676,6 @@ https://live.streamingfast.net/osmflivech1.m3u8
 https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" group-title="臺灣",大立電視
 http://211.21.214.7:8808/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hObPElR.jpg" group-title="臺灣",Momo 綜合台
-rtmp://xiaoyu.speedws.com/sat/tv761
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="臺灣",Fox Sports 1 臺灣
-rtmp://xiaoyu.speedws.com/sat/tv731
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="臺灣",Fox Sports 2 臺灣
-rtmp://xiaoyu.speedws.com/sat/tv741
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="臺灣",ELTA體育1台
-rtmp://xiaoyu.speedws.com/sat/md041
 #EXTINF:-1 tvg-id="" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/TV5MONDEInfologo.png" group-title="臺灣",TV5 Monde Info (臺灣)
 https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="臺灣",TV5 Monde Style (臺灣)
