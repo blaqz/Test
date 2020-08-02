@@ -234,6 +234,8 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Family",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-ID="DSJ.ID" tvg-logo="https://static.epg.best/gb/DisneyJunior.uk.png" group-title="Family",Disney Jr Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221227539/index.m3u8
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Family",History
 http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
 #EXTINF:-1 tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="Family",Pop UK
@@ -489,7 +491,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3
 #EXTINF:-1 tvg-ID="TBE.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="USA",TBS East
 https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="USA",TLC
-https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+hhttp://103.47.132.164/PLTV/88888888/224/3221227113/index.m3u8
 #EXTINF:-1 tvg-ID="TNT.US" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="USA",TNT
 https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
 #EXTINF:-1 tvg-ID="TVL.US" tvg-logo="https://static.epg.best/us/TVLandEast.us.png" group-title="USA",TV Land
