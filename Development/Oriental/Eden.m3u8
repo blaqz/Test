@@ -194,6 +194,8 @@ http://178.132.3.162:88/Baraem/video.m3u8?token=test
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="السعودية",القرآن الكريم
 http://playlive.goonj.pk/makkahweb_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="السعودية",القرآن الكريم
+http://103.47.132.164/PLTV/88888888/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="السعودية",السنة النبوية
 http://playlive.goonj.pk/madinaweb_480p/index.m3u8
 
