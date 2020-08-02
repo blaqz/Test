@@ -43,20 +43,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227337/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227177/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png" group-title="Motor Sports",ZooMoo
 http://103.47.132.164/PLTV/88888888/224/3221227323/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Salam TV
-http://103.47.132.164/PLTV/88888888/224/3221227107/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Inspirasi
-http://103.47.132.164/PLTV/88888888/224/3221227235/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Persija TV
-http://103.47.132.164/PLTV/88888888/224/3221227429/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Rodja TV
-http://103.47.132.164/PLTV/88888888/224/3221227225/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",ktv
-http://103.47.132.164/PLTV/88888888/224/3221227231/index.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Smithsonian
 http://103.47.132.164/PLTV/88888888/224/3221227321/index.m3u8
 
