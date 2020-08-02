@@ -69,6 +69,8 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="RCT.ID" tvg-id="" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Indonesia",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="RTV.ID" tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV
+http://103.47.132.164/PLTV/88888888/224/3221227223/index.m3u8
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV
 http://103.47.132.164/PLTV/88888888/224/3221227227/index.m3u8
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://www.transtv.co.id/template/front/source/images/bg/logo.png" group-title="Indonesia",Trans TV
