@@ -276,7 +276,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Pri.IN" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="电影",&Prive
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="电影",Cinemax
-http://fdtvapps.xyz/channel/cinemax.m3u8
+
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="电影",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="电影",Fox Family Movies
@@ -295,6 +295,8 @@ http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-id="LST.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影",龍祥時代電影
 http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
+#EXTINF:-1 tvg-id="WXY.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
+http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 
 #EXTINF:-1 tvg-ID="AB3.AU" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="家庭娱乐",ABC ME
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
