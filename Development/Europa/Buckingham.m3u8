@@ -507,8 +507,6 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://images.squarespace-cdn.com/content/5b45347bf8370a03e64f284d/1531263808845-27U5TCTZ7RKPXMDG8CKM/KAB_LOGO_02.png" group-title="Kids/Animation",Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/za/Nickelodeon.za.png" group-title="Kids/Animation",Nickelodeon
-http://live.highstream.club/live/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr
 https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/PBSKids.us.png" group-title="Kids/Animation",PBS Kids
