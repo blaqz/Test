@@ -59,8 +59,6 @@ http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Lifetime
 http://103.47.132.164/PLTV/88888888/224/3221227337/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Love Nature 4K
-http://103.47.132.164/PLTV/88888888/224/3221227339/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Nat Geo People
 http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Nat Geo Wild
@@ -80,16 +78,12 @@ http://103.47.132.164/PLTV/88888888/224/3221227323/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227539/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",FOX Sports 3
 http://103.47.132.164/PLTV/88888888/224/3221227219/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Indonesia Maju
-http://103.47.132.164/PLTV/88888888/224/3221227285/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Inspirasi
 http://103.47.132.164/PLTV/88888888/224/3221227235/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",JAKTV
 http://103.47.132.164/PLTV/88888888/224/3221227237/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",JTV
 http://103.47.132.164/PLTV/88888888/224/3221227243/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Metr TV
-http://103.47.132.164/PLTV/88888888/224/3221227343/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Persija TV
 http://103.47.132.164/PLTV/88888888/224/3221227429/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Rodja TV
@@ -101,7 +95,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227321/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",ZEE Bioskop
 http://103.47.132.164/PLTV/88888888/224/3221227537/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",eyePLUS
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",ktv
 http://103.47.132.164/PLTV/88888888/224/3221227231/index.m3u8
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5频道
