@@ -63,17 +63,15 @@ http://210.210.155.66/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2013/12/foodfood-new-logo.jpg" group-title="Singapore/Malaysia",Food Food
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small.png" group-title="Singapore/Malaysia",GEM TV
-http://210.210.155.66/h/h19/01.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227187/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Singapore/Malaysia",Hits
-http://210.210.155.66/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png" group-title="Singapore/Malaysia",KIX
-http://210.210.155.66/h/h07/01.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png" group-title="Singapore/Malaysia",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="Singapore/Malaysia",K+
 http://210.210.155.66/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="Singapore/Malaysia",One TV
-http://210.210.155.66/h/h143/01.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227143/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Singapore/Malaysia",TVIKIM
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1 tvg-ID="Mmi.SG" tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Singapore/Malaysia",妙米
