@@ -65,7 +65,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227143/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227107/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",TLC
 http://103.47.132.164/PLTV/88888888/224/3221227113/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",ZooMoo
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png" group-title="Motor Sports",ZooMoo
 http://103.47.132.164/PLTV/88888888/224/3221227323/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/SkySportsF1.uk.png" group-title="Motor Sports",Disney Junior
