@@ -253,7 +253,7 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
 #EXTINF:-1 tvg-ID="Fra.News" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="新闻",France 24(法国)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="新闻",鳳凰资讯(中国)
-9M1080,http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
+http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 #EXTINF:-1 tvg-id="FHW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="新闻",鳳凰衛視中文(中国)
 http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
 #EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="新闻",Fox News(美国)
