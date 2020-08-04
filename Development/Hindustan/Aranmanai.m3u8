@@ -186,10 +186,6 @@ http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 http://vidnetcdn.vidgyor.com:80/janamtv-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.asianetnews.com/v1/images/kannada_prabha_icon_2.png" group-title="മലയാളം",Suvarna News
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/Surya-Movies-Channel.jpg" group-title="മലയാളം",Surya Movies
-https://mhdtvstreams.in.net/sunnxt/sunnxt.php?id=2003412&c=suryamovies&q=sd&=.m3u8
-#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925767692s.jpg" group-title="മലയാളം",Surya Music
-https://mhdtvstreams.in.net/sunnxt/sunnxt.php?id=2003412&c=suryamusic&q=sd&=.m3u8
 #EXTINF:-1 tvg-logo="https://www.asianetmobiletv.com/channels/Flowers.png" group-title="മലയാളം",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/897672724880936964/DaWnKvjI.png" group-title="മലയാളം",GoSree Vision
