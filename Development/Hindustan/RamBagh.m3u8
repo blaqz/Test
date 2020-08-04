@@ -189,6 +189,12 @@ http://playlive.goonj.pk/filmaxweb_480p/index.m3u8
 http://playlive.goonj.pk/filmworldweb_360p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://harpalgeo.tv/assets/front/images/geo_logo.png" group-title="تفریح",Geo Entertainment
 http://playlive.goonj.pk/geoentweb_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://harpalgeo.tv/assets/front/images/geo_logo.png" group-title="تفریح",Geo Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://geokahani.tv/wp-content/uploads/2014/12/Geo_Kahani_Logo2.png" group-title="تفریح",Geo Kahani
+http://216.144.250.174/Geo_Kahani_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.geosuper.tv/assets/front/psl-assets/2020/images/Super-Logo_EN.png" group-title="تفریح",Geo Super
+http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://humraaz.tv/wp-content/uploads/2019/04/cropped-Humraaz-TV-Logo-1-1.png" group-title="تفریح",Humraaz
 http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.desifree.tv/wp-content/uploads/Untitled-60x44.jpg" group-title="تفریح",Jalwa
@@ -197,8 +203,6 @@ http://playlive.goonj.pk/jalwaweb_480p/index.m3u8
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://khyberme.tv/wp-content/uploads/2019/09/Khyber-Middle-East-Pa-300x140.png" group-title="خبریں",Khyber Middle East TV
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-logo="http://harpalgeo.tv/assets/front/images/geo_logo.png" group-title="تفریح",Geo Entertainment
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="تفریح",Hum
 http://95.211.211.168/live/humtv0066/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/HumMasala.pk.png" group-title="تفریح",Hum Masala
