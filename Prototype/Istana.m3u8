@@ -12,8 +12,6 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://www.mewatch.sg/image/5308024/16x9/236/133/38aa7e2b749478c4bba097b540b93720/TN/channel-u.png" group-title="Singapura",Channel U
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
-#EXTINF:-1 tvg-logo="https://rtrk.kz/qazaqstan.png" group-title="Singapura",Qazaqstan
-https://qazaqstantv-stream.daitsuna.net/qazaqstantv/qazaqstantv/index.m3u8
 
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
@@ -88,10 +86,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227227/index.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://freeview.github.io/logos/ochannel.png" group-title="Indonesia",O Channel
-https://fvtv.mywire.org/playlist/id/005.m3u8|Referer=https://www.vidio.com 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://freeview.github.io/logos/oshop.png" group-title="Indonesia",O Shop
-https://fvtv.mywire.org/playlist/id/017.m3u8|Referer=https://www.vidio.com 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.ochanneltv.com/site/uploads/logo/5b14d10983313-logo.png" group-title="Indonesia",X Channel
+https://fvtv.mywire.org/playlist/id/005.m3u8
 
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="Berita",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
