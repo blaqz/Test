@@ -313,8 +313,6 @@ https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/master.m3u8
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/DZMM_TeleRadyo_2014.svg/330px-DZMM_TeleRadyo_2014.svg.png" group-title="Pilipinas",DZMM TeleRadyo
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ph/GMAPinoy.ph.png" group-title="Pilipinas",GMA Pinoy
-http://164.40.161.43:10011
 #EXTINF:-1 tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Pilipinas",5 Network
 http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist_w272324549_b628000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/200px-OneSportsPlus_logo.svg.png" group-title="Pilipinas",One Sports
@@ -377,8 +375,6 @@ https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png" group-title="မြန်မာဘာသာ",Skynet Sport HD
 https://cdn-laos.workpoint.news/sd-skynetsportshd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tdedgolden.com/post-img/06122019142633-10102019170013-cxxc56.jpg" group-title="မြန်မာဘာသာ",Skynet Sport +
-http://160.119.77.50/iptv/sd-skynetsportsplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="မြန်မာဘာသာ",Skynet Sport 1
 https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="မြန်မာဘာသာ",Skynet Sport 2
