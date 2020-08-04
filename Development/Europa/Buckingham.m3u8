@@ -83,8 +83,6 @@ https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 https://melive.chdrstatic.com/cheddar-42620/CheddarOwnedStream/cbn/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="Financial News",CNBC 18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://cdn.cnbcindonesia.com/cnbc/images/logo.png" group-title="Financial News",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="Financial News",CNBC आवाज़
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/ETNOW.in.png" group-title="Financial News",ET Now
