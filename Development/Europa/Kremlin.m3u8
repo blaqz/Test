@@ -637,8 +637,8 @@ http://tv.cdn.xsg.ge/tv25/playlist.m3u8
 http://tv.cdn.xsg.ge/universehd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Qazaqstan_logo.svg/1024px-Qazaqstan_logo.svg.png" group-title="Казахстан",Qazaqstan
-http://cdn.ch01.spr24.net:81/20447/mpegts?token=BQF9PmuRpcxUqR
+#EXTINF:-1 tvg-logo="https://rtrk.kz/qazaqstan.png" group-title="Казахстан",Qazaqstan
+https://qazaqstantv-stream.daitsuna.net/qazaqstantv/qazaqstantv/index.m3u8
 #EXTINF:-1 tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png" group-title="Казахстан",Первый канал Евразия
 http://89.106.234.4:80/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Казахстан",Kazakh TV
@@ -654,7 +654,7 @@ https://elarna-live.cdnvideo.ru/elarna/elarna/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://24.kz/images/design/khabar24/logo.png" group-title="Казахстан",Хабар 24
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tamashakz.tv/images/logo-light.png" group-title="Казахстан",Tamasha
-https://tamasha.rtrk.kz/tamasha_720/tamasha_720/index.m3u8
+https://live-tamashatv.cdnvideo.ru/tamashatv_kz/tamashatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv7.kz/wp-content/themes/tv7/images/logo.png" group-title="Казахстан",7 канал
 http://89.106.234.4/7_kanal_38_39.m3u8
