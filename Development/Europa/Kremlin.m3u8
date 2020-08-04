@@ -640,7 +640,7 @@ http://tv.cdn.xsg.ge/universehd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rtrk.kz/qazaqstan.png" group-title="Казахстан",Qazaqstan
 https://qazaqstantv-stream.daitsuna.net/qazaqstantv/qazaqstantv/index.m3u8
 #EXTINF:-1 tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png" group-title="Казахстан",Первый канал Евразия
-http://89.106.234.4:80/1KanalEvraziya_34_35.m3u8
+https://1tvkz-stream.daitsuna.net/1tvkz/1tv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Казахстан",Kazakh TV
 https://kazakhtvkz.ultraiptv.com/live_kz/playlist3/index.m3u8
 #EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Казахстан",Kazakh TV(English)
@@ -665,7 +665,7 @@ https://astanatv-stream.daitsuna.net/live/astanatv_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://almaty.tv/images/u32.png" group-title="Казахстан",Almaty TV
 https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://catradeforum.org/wp-content/uploads/2017/09/atamekenlogo4.png" group-title="Казахстан",Atameken Business
-http://89.106.234.4:80/Atameken_34_35.m3u8
+https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/chunklist_b2724000.m3u8
 #EXTINF:-1 tvg-logo="https://asylarna.kz/images/logo2.png" group-title="Казахстан",Асыл Арна
 https://waok9ia0vpf.a.trbcdn.net/livemaster/dybu83yagb_Asylarna_test/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/AmediaPremium.ru.png" group-title="Казахстан",Amedia Premium
