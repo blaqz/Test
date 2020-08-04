@@ -56,7 +56,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DAA.ID" tvg-logo="https://static.epg.best/id/DaaiTv.id.png" group-title="Indonesia",Da Ai Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221227241/index.m3u8
-#EXTINF:-1 tvg-id="GTV.ID" tvg-logo="https://gtv.id/assets/images2020/logo.png" group-title="Indonesia"Global TV
+#EXTINF:-1 tvg-id="GTV.ID" tvg-logo="https://gtv.id/assets/images2020/logo.png" group-title="Indonesia",Global TV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="HII.ID" tvg-logo="https://brief.promax.org/images/uploads/7503/hot-spot-hi-indo-carbon__twocolumncontent.png" group-title="Indonesia",Hi! Indo
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
