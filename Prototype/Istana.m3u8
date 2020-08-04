@@ -392,12 +392,12 @@ http://cdn.smartstream.video/smartstream-us/pitaratv/pitaratv/chunklist.m3u8
 #EXTINF:-1 tvg-id="PTG.IN" tvg-logo="https://static.epg.best/in/PTCPunjabi.in.png" group-title="Hindustan(ਪੰਜਾਬੀ)",PTC Punjabi Gold
 http://13.232.161.202:1935/goldIn/smil:Live.smil/chunklist_w1976498641_b1396000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="ACV.IN" tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title=Hindustan(മലയാളം)",Asianet
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FLO.IN" tvg-logo="http://www.asianetmobiletv.com/channels/Flowers.png" group-title="Hindustan(മലയാളം)",Flowers
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1 tvg-id="JAI.IN" tvg-logo="https://jaihindtv.in/wp-content/themes/jaihindtheme/img/logo.png" group-title="Hindustan(മലയാളം)",Jaihind
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
-#EXTINF:-1 tvg-id="MAN.IN" tvg-logo="https://tv.mathrubhumi.com/polopoly_fs/7.309.1533966111!/image/image.png_gen/derivatives/default/image.png" group-title="Hindustan(മലയാളം)",Mathrubhumi News
-https://bcovlive-a.akamaihd.net/465cbde1371545ec97137701942dfdd3/ap-southeast-1/5742227023001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="MAZ.IN" tvg-logo="https://storage.googleapis.com/news-photo/92907-MazhavilManorama.jpg" group-title="Hindustan(മലയാളം)",Mazhavil Manorama
 http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
 #EXTINF:-1 tvg-id="KAR.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/330px-Kairali_TV.svg.png" group-title="Hindustan(മലയാളം)",Kairali
@@ -408,10 +408,18 @@ http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 https://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SUV.IN" tvg-logo="https://static.asianetnews.com/v1/images/kannada_prabha_icon_2.png" group-title="Hindustan(മലയാളം)",Suvarna News
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-ID="SMV.IN" tvg-logo="https://kccl.tv/sites/default/files/Surya-Movies-Channel.jpg" group-title="Hindustan(മലയാളം)",Surya Movies
-http://mhdtvstreams.in.net/sunnxt/sunnxt.php?id=2003412&c=suryamovies&q=sd&=.m3u8
-#EXTINF:-1 tvg-ID="SMM.IN" tvg-logo="https://image3.mouthshut.com/images/imagesp/925767692s.jpg" group-title="Hindustan(മലയാളം)",Surya Music
-http://mhdtvstreams.in.net/sunnxt/sunnxt.php?id=2003412&c=suryamusic&q=sd&=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="Hindustan(മലയാളം)",ACV News
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/Asianet-rosbowl.png" group-title="Hindustan(മലയാളം)",ACV Rosebowl
+https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/asianet-utsav.png" group-title="Hindustan(മലയാളം)",ACV Ustav
+https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/acv-plus-logo.png" group-title="Hindustan(മലയാളം)",ACV Plus
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/asianet-jb.png" group-title="Hindustan(മലയാളം)",ACV Juebox
+https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="92N.PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Hindustan(اردو)",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
