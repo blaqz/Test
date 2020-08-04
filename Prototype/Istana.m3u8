@@ -394,6 +394,10 @@ http://13.232.161.202:1935/goldIn/smil:Live.smil/chunklist_w1976498641_b1396000_
 
 #EXTINF:-1 tvg-id="ACV.IN" tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title=Hindustan(മലയാളം)",Asianet
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="Hindustan(മലയാളം)",Asianet News
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="ASP.IN" tvg-logo="https://www.asianet.in/static/images/acv-plus-logo.png" group-title="Hindustan(മലയാളം)",Asianet Plus
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FLO.IN" tvg-logo="http://www.asianetmobiletv.com/channels/Flowers.png" group-title="Hindustan(മലയാളം)",Flowers
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1 tvg-id="JAI.IN" tvg-logo="https://jaihindtv.in/wp-content/themes/jaihindtheme/img/logo.png" group-title="Hindustan(മലയാളം)",Jaihind
@@ -406,20 +410,6 @@ http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 tvg-id="KAM.IN" tvg-logo="http://kaumudy.tv/images/logo.jpg" group-title="Hindustan(മലയാളം)",Kaumudy
 https://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SUV.IN" tvg-logo="https://static.asianetnews.com/v1/images/kannada_prabha_icon_2.png" group-title="Hindustan(മലയാളം)",Suvarna News
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="Hindustan(മലയാളം)",ACV News
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/Asianet-rosbowl.png" group-title="Hindustan(മലയാളം)",ACV Rosebowl
-https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/asianet-utsav.png" group-title="Hindustan(മലയാളം)",ACV Ustav
-https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/acv-plus-logo.png" group-title="Hindustan(മലയാളം)",ACV Plus
-https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/asianet-jb.png" group-title="Hindustan(മലയാളം)",ACV Juebox
-https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="92N.PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Hindustan(اردو)",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
