@@ -357,14 +357,6 @@ http://220.158.149.28:8180/live/TV00000000000000000168@HHZT
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(1095e49d-1c13-47fc-8174-546061a17c3b)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channelicon/mrtvent.jpgg" group-title="မြန်မာဘာသာ",Channel Me
 https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(e02c93f2-33d9-458b-bf23-a2717b5f59a8)/manifest.mpd
-#EXTINF:-1 tvg-logo="http://www.myanmartvchannels.com/assets/images/channeliconb/mwd1.jpg" group-title="မြန်မာဘာသာ",MWD
-http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.myanmartvchannels.com/assets/images/channeliconb/mwd-variety.jpg" group-title="မြန်မာဘာသာ",MWD Variety
-http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.myanmartvchannels.com/assets/images/channeliconb/mwdfamily2.jpg" group-title="မြန်မာဘာသာ",MWD Family
-http://203.81.84.130/hls/mwd_family/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.myanmartvchannels.com/assets/images/channeliconb/mwdshopping2.jpg" group-title="မြန်မာဘာသာ",MWD Shopping
-http://203.81.84.130/hls/mwd_shopping/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/th/Channel7.th.png" group-title="မြန်မာဘာသာ",Channel 7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channel9.jpg" group-title="မြန်မာဘာသာ",Channel 9
@@ -381,8 +373,6 @@ http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
 https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png" group-title="မြန်မာဘာသာ",Mizzima TV
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png" group-title="မြန်မာဘာသာ",Mizzima TV
-http://220.158.149.28:8180/TV00000000000000000170@HHZT
 #EXTINF:-1 tvg-logo="https://itisgadget.com/wp-content/uploads/2019/06/Myanmar-TV-Channel-MNTV-Live-Streaming.png" group-title="မြန်မာဘာသာ",MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png" group-title="မြန်မာဘာသာ",Skynet Sport HD
