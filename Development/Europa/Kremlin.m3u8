@@ -656,12 +656,12 @@ http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tamashakz.tv/images/logo-light.png" group-title="Казахстан",Tamasha
 https://live-tamashatv.cdnvideo.ru/tamashatv_kz/tamashatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv7.kz/wp-content/themes/tv7/images/logo.png" group-title="Казахстан",7 канал
+#EXTINF:-1 tvg-logo="http://tv7.kz/media/theme2/logo.png" group-title="Казахстан",7 канал
 http://89.106.234.4/7_kanal_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://i1.cdnnurtv.net/6ee9b60cd5c80ddace1a0ec10b7a32546d0a6e9a.jpg" group-title="Казахстан",31 Канал
 http://89.106.234.4/31Kanal_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://astanatv.kz/assets/images/logo/logo.png" group-title="Казахстан",Astana TV
-http://89.106.234.4/Astana_38_39.m3u8
+https://astanatv-stream.daitsuna.net/live/astanatv_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://almaty.tv/images/u32.png" group-title="Казахстан",Almaty TV
 https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://catradeforum.org/wp-content/uploads/2017/09/atamekenlogo4.png" group-title="Казахстан",Atameken Business
