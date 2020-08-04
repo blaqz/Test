@@ -150,7 +150,7 @@ https://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
 #EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/hyderabad/x4/040pxx40.xx40.130904160506.m8x4/catalogue/tollywood-telugu-tv-channel-jubilee-hills-hyderabad-satellite-channels-irh7rnetd5-250.jpg" group-title="ಕನ್ನಡ",Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in.m3u8
 #EXTINF:-1 tvg-logo="https://publictv.in/wp-content/themes/publictv-2017/images/public-tv.png" group-title="ಕನ್ನಡ",Public TV Kannada
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Public_Kannda.m3u8
+https://vidcdn.vidgyor.com/publictv-origin/liveabr/publictv-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.srisankaratv.com/img/logos/sankara-tv-logo-main.png" group-title="ಕನ್ನಡ",Sri Sankara
 https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/index.m3u8
 
@@ -171,7 +171,7 @@ http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title="മലയാളം",ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="മലയാളം",ACV News
-https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/Asianet-rosbowl.png" group-title="മലയാളം",ACV Rosebowl
 https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/asianet-utsav.png" group-title="മലയാളം",ACV Ustav
@@ -182,6 +182,8 @@ https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.
 https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-malayalam.png" group-title="മലയാളം",DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://janamtv.com/wp-content/uploads/2017/09/logo_blue_03.jpg" group-title="മലയാളം",Janam TV
+http://vidnetcdn.vidgyor.com:80/janamtv-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.asianetnews.com/v1/images/kannada_prabha_icon_2.png" group-title="മലയാളം",Suvarna News
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://kccl.tv/sites/default/files/Surya-Movies-Channel.jpg" group-title="മലയാളം",Surya Movies
