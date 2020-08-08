@@ -326,7 +326,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_
 #EXTINF:-1 tvg-id="COL.IN" tvg-logo="https://static.epg.best/in/Colors.in.png" group-title="Hindustan(हिन्दी)",Colors
 https://itpolly.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 #EXTINF:-1 tvg-id="ETV.IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png" group-title="Hindustan(हिन्दी)",Sony ETV
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
+http://216.144.250.174/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SAB.IN" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Hindustan(हिन्दी)",Sony SAB
 http://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index.m3u8
 #EXTINF:-1 tvg-id="STP.IN" tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="Hindustan(हिन्दी)",Star Plus
