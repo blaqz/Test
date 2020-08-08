@@ -221,6 +221,8 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 http://playlive.goonj.pk/urdu1web_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn61.liveonlineservices.com/upload/images/TGl2ZSBUViAtIERhbm5rYSAjMjM5MjA=/1496175.png" group-title="تفریح",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="UD1.PK" tvg-logo="https://static.epg.best/pk/Urdu1.pk.png" group-title="تفریح",TV Regionalna (ZGZM)
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/92News.pk.png" group-title="ں",92",BOL News
 http://playlive.goonj.pk/bolweb_480p/index.m3u8
