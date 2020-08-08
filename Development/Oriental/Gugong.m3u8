@@ -591,21 +591,27 @@ http://202.175.127.77/live/show/ch3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.passiontimes.hk/4.0/img/PASSIONTIMES_C.png" group-title="粵語",熱血時報
 http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="臺灣",民視臺灣台
-http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="臺灣",民視
+#EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="臺灣",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="臺灣",民視第一
+#EXTINF:-1 tvg-id="MS1.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="臺灣",民視第一
 http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="MST.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="臺灣",民視台灣
+http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png" group-title="臺灣",民視影剧
 http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png" group-title="臺灣",民視综艺
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png" group-title="臺灣",民視旅游
 http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="臺灣",台視
+#EXTINF:-1 tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="臺灣",民視新聞
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="TSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="臺灣",台視
 http://p06.iptv2asia.com:18888/http/001
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="臺灣",中視
+#EXTINF:-1 tvg-id="TSZ.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/28/TTV_General_Channel_2016.png/300px-TTV_General_Channel_2016.png" group-title="臺灣",台視綜合
+http://p06.iptv2asia.com:18888/http/002
+#EXTINF:-1 tvg-id="TSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="臺灣",台視新聞
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="ZSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="臺灣",中視
 http://p06.iptv2asia.com:18888/http/005
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c5/CTV_Classic.png/200px-CTV_Classic.png" group-title="臺灣",中視經典
 http://p06.iptv2asia.com:18888/http/007
@@ -613,41 +619,50 @@ http://p06.iptv2asia.com:18888/http/007
 http://p06.iptv2asia.com:18888/http/008
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_Bravo.png" group-title="臺灣",華視
 http://p06.iptv2asia.com:18888/http/009
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="臺灣",公視
+#EXTINF:-1 tvg-id="ZSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="臺灣",中視新聞
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="HSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="臺灣",華視
+http://p06.iptv2asia.com:18888/http/009
+#EXTINF:-1 tvg-id="HSX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png" group-title="臺灣",華視新聞
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="臺灣",中天新聞
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="DLX.TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="臺灣",東森新聞
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="DLC.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="臺灣",東森財經新聞
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="GS1.TW" tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="臺灣",公視
 http://p06.iptv2asia.com:18888/http/016
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="臺灣",公視台語
+#EXTINF:-1 tvg-id="GS2.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="臺灣",公視台語
 http://p06.iptv2asia.com:18888/http/017
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV3HD.png" group-title="臺灣",公视三台
+#EXTINF:-1 tvg-id="GS3.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV3HD.png" group-title="臺灣",公視3
 http://p06.iptv2asia.com:18888/http/018
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="臺灣",中天綜合
-http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="臺灣",中天娛樂
-http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="臺灣",八大綜合
-http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png" group-title="臺灣",八大戲劇
-http://58.99.33.9:1935/liveedge2/live_41_1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png" group-title="臺灣",八大综艺
-http://hdtv.ub1818.com/ublive/index_12.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.daai.tv/images/logo.png" group-title="臺灣",大愛一
+#EXTINF:-1 tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="臺灣",TVBS新聞
+http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 tvg-id="SLX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="臺灣",三立新聞
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 tvg-id="SLC.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="臺灣",三立財經新聞
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="臺灣",大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="臺灣",大愛二
+#EXTINF:-1 tvg-id="DA2.TW" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="臺灣",大愛2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://webtvonlive.com/wp-content/uploads/DaAi-World-webtvonlive-com.jpg" group-title="臺灣",大愛海外
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weilaojingcai.png" group-title="臺灣",緯來精采
-https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
-
+#EXTINF:-1 tvg-id="DLD.TW" tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png" group-title="臺灣",信吉電視
+http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+#EXTINF:-1 tvg-id="HZW.TW" tvg-logo="https://www.hwazan.org/statics/images/newhztv_logo.png" group-title="臺灣",華藏衛視
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RJW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="臺灣",人間衛視
+https://bcovlive-a.akamaihd.net/a735d612667b460185bd29f9978178bd/ap-northeast-1/6169276188001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="WXD.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="臺灣",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-id="HAK.TW" tvg-logo="http://www.hakkatv.org.tw/img/logo-f.png" group-title="臺灣",客家電視
+http://p06.iptv2asia.com:18888/http/019
+#EXTINF:-1 tvg-id="YZM.TW" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" group-title="臺灣",原住民電視
+http://p06.iptv2asia.com:18888/http/020
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.fanstv.tw/images/logo.png" group-title="臺灣",番薯
 http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.hwazan.org/statics/images/newhztv_logo.png" group-title="臺灣",華藏衛視
-http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png" group-title="臺灣",信吉電視
-http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="臺灣",唯心電視
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="臺灣",人間衛視
-http://54.64.23.79:1935/live/vod/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/911_c2a7df1f45d40aa410d109a10fb32a54.png" group-title="臺灣",空中英語教室
 http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.chtv.com.hk/UpLoadFile/image/20180412/20180412100657_98319.png" group-title="臺灣",中华卫视臺灣
