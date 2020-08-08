@@ -24,8 +24,10 @@ https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 http://216.144.250.174/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png" group-title="मनोरंजन",Sony ETV
 http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="मनोरंजन",Sony SAB
+http://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="मनोरंजन",Sony Yay
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="मनोरंजन",Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="मनोरंजन",Star Plus
@@ -88,8 +90,8 @@ http://103.144.200.7:8080/hls/zeetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="फ़िल्म",And Pictures
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22770/bollywood-hd/logo_20191213_005000.png" group-title="फ़िल्म",Bollywood HD
-https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22770/bollywood-hd/logo_20191213_005000.png" group-title="फ़िल्म",Bollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="फ़िल्म",BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="फ़िल्म",B4U Movies
@@ -206,6 +208,8 @@ http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvpunjab.com/wp-content/uploads/2017/03/final-logo1-web-tv-punjab-1.png" group-title="मनोरंजन",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="मनोरंजन", Lollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="मनोरंजन", Zee Punjabi
 http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
 
