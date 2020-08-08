@@ -217,8 +217,8 @@ http://51.52.156.22:8888/http/009
 https://uk.easyview.eu/hls/truemovies.m3u8|Referer=https://easyview.eu/watch.php?stream=5star-2
 #EXTINF:-1 tvg-id="ZBI.ID" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/zee_bioskop.png" group-title="Movies",Zee Bioskop
 http://103.47.132.164/PLTV/88888888/224/3221227537/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="मनोरंजन",Sony Yay
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png" group-title="मनोरंजन",Sony ETV
+http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png" group-title="मनोरंजन",Sony ETV
 http://216.144.250.174/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
 
