@@ -612,7 +612,7 @@ http://p06.iptv2asia.com:18888/http/007
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="臺灣",中視菁采
 http://p06.iptv2asia.com:18888/http/008
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_Bravo.png" group-title="臺灣",華視
-http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
+http://p06.iptv2asia.com:18888/http/009
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="臺灣",公視
 http://p06.iptv2asia.com:18888/http/016
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="臺灣",公視台語
