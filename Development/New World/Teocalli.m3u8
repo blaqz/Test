@@ -1027,6 +1027,8 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w75822369.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/XHQRV_ultra92.5_logo.png" group-title="México",Ultra 92.5 FM
 https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2020/05/2020-sertv-logo-sticky.png" group-title="Panama",Ser TV
+https://accionastream.com/live/sertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pa/TVNCanal2.pa.png" group-title="Panama",TVN Canal 2
 https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pa/TVMax.pa.png" group-title="Panama",TVMax
@@ -1035,8 +1037,6 @@ https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/xkb
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/pa/RPCCanal4.pa.png" group-title="Panama",RPC Canal 4
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
-#EXTINF:-1 tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="Panama",SerTV
-https://accionastream.com/live/sertv/chunklist_w1146316978.m3u8
 #EXTINF:-1 tvg-logo="http://userscontent2.emaze.com/images/44097fec-bf00-470d-8a3d-305eb132803d/ec0a862a-dd2f-450c-9473-f135041c5312.png" group-title="Panama",Nex 21
 http://198.1.117.5:1935/live/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Repretel_11_actual.png" group-title="Panama",Repretel 11
