@@ -785,7 +785,7 @@ http://45.77.90.56:8080/hls/mystream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ie/RTEJr.ie.png" group-title="Éire",RTE Jr
 https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="Éire",RTE News Now
-https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+https://live.rte.ie/live/a/channel3/news.isml/news-video=144960.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ie/TG4.ie.png" group-title="Éire",TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/Official_Houses_of_the_Oireachtas_Logo.jpg" group-title="Éire",Oireachtas
