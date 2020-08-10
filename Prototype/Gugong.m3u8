@@ -33,17 +33,6 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="新马",KIX(马来西亚)
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="新马",有线新闻
-http://liveima.utvlive.top/livehls/MOB-SCC/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="新马",有线综合娱乐
-http://liveima.utvlive.top/livehls/MOB-CN/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="新马",有线财经资讯
-http://liveima.utvlive.top/livehls/MOB-NGW/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="新马",C+频道
-http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="新马",赛马直击
-http://liveima.utvlive.top/livehls/MOB-HR/index.m3u8
-
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
 http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="香港",J2台                  
@@ -60,10 +49,20 @@ http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="香港",ViuTV
 http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 tvg-id="KAI.HK" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港开電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/youxianxinwen.png" group-title="香港",有線新闻
+http://liveima.utvlive.top/livehls/MOB-SCC/index.m3u8
+#EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="香港",有線綜合娱乐
+http://liveima.utvlive.top/livehls/MOB-CN/index.m3u8
+#EXTINF:-1 tvg-ID="YCJ.HK" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/youxiancaijingzixun.png group-title="香港",有線財經資訊
+http://liveima.utvlive.top/livehls/MOB-NGW/index.m3u8
+#EXTINF:-1 tvg-ID="668.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/bf/HKJC_Horse_Racing.jpg" group-title="香港",赛马直击
+http://liveima.utvlive.top/livehls/MOB-HR/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="香港",C+频道
+http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港开電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="香港",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/rthk32.png" group-title="香港",港台電視32
