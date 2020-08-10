@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="NEWS",Al Jazeera(中东)
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-ID="AFR.News" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="NEWS",Africa News(非洲)
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
+#EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="NEWS",BBC World News(英国)
+https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="NEWS",CNN(美国)
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CGN.News" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="NEWS",CGTN(中国)
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="RT.News" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="NEWS",RT(俄罗斯)
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+#EXTINF:-1 tvg-ID="A24.AU" tvg-logo="http://static.epg.best/au/ABCNews24.au.png" group-title="NEWS",ABC News 24(澳洲)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-name="025" tvg-id="FHJ.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="NEWS",鳳凰资讯
+http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
+#EXTINF:-1 tvg-name="026" tvg-id="FHW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="NEWS",鳳凰衛視中文台
+http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
+
 #EXTINF:-1 tvg-name="001" tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="ENTERTAINMENT",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-name="002" tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="ENTERTAINMENT",TV2
@@ -20,26 +39,13 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 tvg-name="010" tvg-ID="Vas.SG" tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="ENTERTAINMENT",Vasantham
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+
 #EXTINF:-1 tvg-name="017" tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="ENTERTAINMENT",TVRI(印尼)
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="RCT.ID" tvg-id="" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="ENTERTAINMENT",RCTI(印尼)
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-name="019" tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="东南亚精选",ช่อง 7(泰国)
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
 #EXTINF:-1 tvg-name="018" tvg-id="VT4.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv4-hd.png" group-title="东南亚精选",VTV4(越南)
 https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv4hd_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="NEWS",Al Jazeera(中东)
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-ID="AFR.News" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="NEWS",Africa News(非洲)
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
-#EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="NEWS",BBC World News(英国)
-https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="NEWS",CNN(美国)
-http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CGN.News" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="NEWS",CGTN(中国)
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="RT.News" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="NEWS",RT(俄罗斯)
-http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
 #EXTINF:-1 tvg-name="020" tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="ENTERTAINMENT",翡翠台                  
 http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
@@ -49,10 +55,6 @@ http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
 http://tv.sason.xyz/proxy/tvb.php?id=xw
 #EXTINF:-1 tvg-name="024" tvg-id="WXC.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="NEWS",無綫財經資訊台
 http://tv.sason.xyz/proxy/tvb.php?id=cj
-#EXTINF:-1 tvg-name="025" tvg-id="FHJ.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="NEWS",鳳凰资讯
-http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
-#EXTINF:-1 tvg-name="026" tvg-id="FHW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="NEWS",鳳凰衛視中文台
-http://live.centerch.com/fhzw.m3u8
 #EXTINF:-1 tvg-name="027" tvg-id="FHX.CN" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="NEWS",鳳凰衛視香港台
 http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 
@@ -61,15 +63,15 @@ http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-name="029" tvg-id="ZSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="ENTERTAINMENT",中視
 http://p06.iptv2asia.com:18888/http/005
 #EXTINF:-1 tvg-name="030" tvg-id="HSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="ENTERTAINMENT",華視
-http://104.250.154.42:8080//ZZ_huashi/ZZ_huashi.m3u8
+http://p06.iptv2asia.com:18888/http/009
 #EXTINF:-1 tvg-id="TSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="ENTERTAINMENT",台視
 http://p06.iptv2asia.com:18888/http/001
-#EXTINF:-1 tvg-name="031" tvg-id="ZTZ.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="ENTERTAINMENT",中天綜合
-http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 tvg-name="032" tvg-id="ZTL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="ENTERTAINMENT",中天娛樂
-http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:-1 tvg-id="TBL.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="ENTERTAINMENT",TVBS歡樂
+http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
 #EXTINF:-1 tvg-name="034" tvg-id="GS2.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="ENTERTAINMENT",公視台語
 http://p06.iptv2asia.com:18888/http/017
+#EXTINF:-1 tvg-id="HAK.TW" tvg-logo="http://www.hakkatv.org.tw/img/logo-f.png" group-title="ENTERTAINMENT",客家電視
+http://p06.iptv2asia.com:18888/http/019
 #EXTINF:-1 tvg-name="036" tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="ENTERTAINMENT",大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
@@ -90,6 +92,8 @@ http://111.40.205.73/PLTV/88888888/224/3221225755/index.m3u8
 http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225606/index.m3u8
 #EXTINF:-1 tvg-name="043" tvg-id="CT4.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="ENTERTAINMENT",CCTV-4 中文国际
 http://39.134.157.203/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="CT8.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="ENTERTAINMENT",CCTV-8 电视剧
+http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225608/index.m3u8
 #EXTINF:-1 tvg-name="044" tvg-id="AHW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="中国",安徽卫视
 http://111.40.205.76/PLTV/88888888/224/3221225727/index.m3u8
 #EXTINF:-1 tvg-name="045" tvg-id="DFW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png" group-title="ENTERTAINMENT",东方卫视
@@ -124,24 +128,8 @@ http://211.245.55.198:1024/m2u/239.192.58.7:49220
 #EXTINF:-1 tvg-name="059" tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="ENTERTAINMENT",tvN
 http://211.245.55.198:1024/m2u/239.192.53.7:49220
 
-
-#EXTINF:-1 tvg-name="301" tvg-id="DLY.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="MOVIES",東森洋片
-http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-#EXTINF:-1 tvg-name="302" tvg-id="DLP.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="MOVIES",東森電影
-http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1 tvg-name="303" tvg-id="LST.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="MOVIES",龍祥時代電影
-http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-
 #EXTINF:-1 tvg-id="BEX.Int" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="BUS.US" tvg-logo="https://assets.beinsports.com/3.2.8/images/logo-locator.png" group-title="SPORTS",beIN USA
-https://e10.cdn4.us/ingest666/beinsports/video5.m3u8|Referer=https://espn-live.stream/stream/68949.html
-#EXTINF:-1 tvg-ID="BS4.U" tvg-logo="https://static.epg.best/us/beINSports4.us.png" group-title="SPORTS",beIN 4 USA
-https://e10.cdn4.us/ingest666/bein4/video3.m3u8|Referer=https://espn-live.stream/stream/69178.html
-#EXTINF:-1 tvg-ID="BSL.In" tvg-logo="https://static.epg.best/us/beINSportsLaLiga.us.png" group-title="SPORTS",beIN Sports La Liga
-https://e10.cdn4.us/ingest666/laliga/video4.m3u8|Referer=https://espn-live.stream/stream/69176.html
-#EXTINF:-1 tvg-ID="BEN.Int" tvg-logo="https://static.epg.best/us/beINSportsEnEspanol.us.png" group-title="SPORTS",beIN Sports Ñ 
-https://e10.cdn4.us/ingest666/beinenie/video1.m3u8|Referer=https://espn-live.stream/stream/69175.html
 #EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="SPORTS",CCTV-5 体育
 http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="SPORTS",CCTV-5+ 体育赛事
@@ -158,26 +146,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FS3.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="SPORTS",Fox Sports 3 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FS1.US" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="SPORTS",FS1 USA
-https://e10.julinewr.xyz/ingest666/fs1/f.m3u8|Referer=https://espn-live.stream/stream/45459.html
-#EXTINF:-1 tvg-id="FS2.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS",FS2 USA
-https://e10.julinewr.xyz/ingest666/fs2/f.m3u8|Referer=https://espn-live.stream/stream/45460.html
-#EXTINF:-1 tvg-id="FDP.US" tvg-logo="https://static.epg.best/us/FoxDeportes.us.png" group-title="SPORTS",Fox Deportes
-https://e10.cdn4.us/ingest666/foxdep/f.m3u8|Referer=https://espn-live.stream/stream/45529.html
-#EXTINF:-1 tvg-id="FXS.US" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="SPORTS",Fox Soccer Plus
-https://e10.cdn4.us/ingest666/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
 #EXTINF:-1 tvg-ID="GOL.US" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="SPORTS",GolTV
 https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://static02.astro.com.my/astro/media/astromain/golfchannel/golf_logo_1.png" group-title="SPORTS",Golf Channel
-http://190.122.109.218:8888/http/010
-#EXTINF:-1 tvg-ID="OLY.US" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="SPORTS",Olympic Channel
-https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
-#EXTINF:-1 tvg-ID="PF1.TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="SPORTS",Premier Football 1
-https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
-#EXTINF:-1 tvg-ID="PF2.TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="SPORTS",Premier Football 2
-https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
-#EXTINF:-1 tvg-ID="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="SPORTS",Матч!
-https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
 #EXTINF:-1 tvg-ID="MLB.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="SPORTS",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-ID="NFL.US" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="SPORTS",NFL Network
@@ -186,8 +156,6 @@ https://e10.cdn4.us/ingest09/33435.m3u8|Referer=https://espn-live.stream/stream/
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="SPORTS",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 tvg-ID="TS2.TH" tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="SPORTS",True Sport 2
-https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
 #EXTINF:-1 tvg-ID="SK1.AU" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" group-title="SPORTS",Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF:-1 tvg-ID="SK2.AU" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png" group-title="SPORTS",Sky Racing 2
@@ -199,18 +167,24 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="305" tvg-id="Pri.IN" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="MOVIES",&Prive
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
-#EXTINF:-1 tvg-name="306" tvg-ID="CNX.Asia" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="MOVIES",Cinemax
-http://fdtvapps.xyz/channel/cinemax.m3u8
 #EXTINF:-1 tvg-name="307" tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="MOVIES",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-name="308" tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="MOVIES",Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="FXX.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="MOVIES",FX
+http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
+#EXTINF:-1 tvg-id="HIM.MY" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="MOVIES",Hit Movies
+http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
 #EXTINF:-1 tvg-name="309" tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="MOVIES",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-name="310" tvg-ID="SBM.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/3374ed8c-8b84-4703-8449-7142e3bd838e.png" group-title="MOVIES",SBS World Movies
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-name="311" tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="MOVIES",Sony Movies Action
 http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-id="WXY.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="MOVIES",衛視電影
+http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
+#EXTINF:-1 tvg-id="ZZC.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="MOVIES",Zee Cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 #EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="ENTERTAINMENT",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
@@ -241,13 +215,13 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="ENTERTAINMENT",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="ENTERTAINMENT",History
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="ENTERTAINMENT",ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="ENTERTAINMENT",National Geographic
-http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="ENTERTAINMENT",Nat Geo People
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
+#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="ENTERTAINMENT",Nat Geo Wild
+http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8
 #EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="ENTERTAINMENT",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
@@ -255,11 +229,15 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/807.m3u8
 #EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="ENTERTAINMENT",BBC 2
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/814.m3u8
-#EXTINF:-1 tvg-id="CB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="ENTERTAINMENT",BBC 4
-http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/819.m3u8
+#EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="ENTERTAINMENT",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-ID="ABC.AU" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="ENTERTAINMENT",ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8
 #EXTINF:-1 tvg-ID="SB1.AU" tvg-logo="https://static.epg.best/au/SBS.au.png" group-title="ENTERTAINMENT",SBS One
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="ENTERTAINMENT",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-ID="TBE.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="ENTERTAINMENT",TBS
+https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-ID="TNT.US" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="ENTERTAINMENT",TNT
+https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
