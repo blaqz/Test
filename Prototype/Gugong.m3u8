@@ -595,7 +595,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-ID="ICI.News" tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="美国",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://static.epg.best/th/Lifetime.th.pngg" group-title="美国",Lifetime
+#EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://static.epg.best/th/Lifetime.th.png" group-title="美国",Lifetime
 http://103.47.132.164/PLTV/88888888/224/3221227337/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2020/03/mls-tv-ratings-opening-weekend.jpg" group-title="美国",MLS TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
