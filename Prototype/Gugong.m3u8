@@ -33,6 +33,17 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="新马",KIX(马来西亚)
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="新马",有线新闻
+http://liveima.utvlive.top/livehls/MOB-SCC/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="新马",有线综合娱乐
+http://liveima.utvlive.top/livehls/MOB-CN/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="新马",有线财经资讯
+http://liveima.utvlive.top/livehls/MOB-NGW/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="新马",C+频道
+http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="新马",赛马直击
+http://liveima.utvlive.top/livehls/MOB-HR/index.m3u8
+
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
 http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="香港",J2台                  
@@ -399,8 +410,6 @@ https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6
 https://ustvgo.tv/nba-tv|userAgent=&referer=https://ustvgo.tv/rNLMQz8AwTSGTfZpbyqNAxc.php?stream=NBCSN&isHost=true
 #EXTINF:-1 tvg-ID="MLB.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="体育",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-ID="NFL.US" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="体育",NFL Network
-https://e10.cdn4.us/ingest09/33435.m3u8|Referer=https://espn-live.stream/stream/37625.html
 #EXTINF:-1 tvg-ID="RAC.AU" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="体育",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="体育",Tennis Channel
