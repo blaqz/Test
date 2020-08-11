@@ -38,7 +38,7 @@ The Russian Guy who started it all. And still the top dog.<br />
 2. Boomski: https://github.com/boomski/TV<br />
 The Belgium guy that is a legend in IPTV link Collection<br />
 
-3. Boomski: https://github.com/freeview/iptv<br />
+3. Bertperrisor: https://github.com/freeview/iptv<br />
 Best Resource for Singapore, Malaysia TV<br />
 
 4. Geonsey: https://github.com/geonsey/Free2ViewTV<br />
@@ -68,7 +68,10 @@ Very promising Astro Replacement, I learn a thing or two from looking at his/her
 12. JKN22: https://github.com/jnk22/kodinerds-iptv<br />
 Decent German TV List<br />
 
-13. Webgrabplus: http://www.webgrabplus.com/<br />
+13. Magic-Dust: https://github.com/Magic-Dust/MagicDust<br />
+Mainly for kodi, but contains some rare american tv links<br />
+
+14. Webgrabplus: http://www.webgrabplus.com/<br />
 Mother of all non commerical epg making<br />
 
 Shout out to EDMW, 电视盒子tv box分享站 and TV Boxs app!!!<br />
