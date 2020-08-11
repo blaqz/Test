@@ -891,8 +891,6 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="MUT.MX" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="拉丁精选",Multimedios
 https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
-#EXTINF:-1 tvg-id="MEG.US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/MegaTV.png" group-title="拉丁精选",Mega TV
-http://livestream.lamusica.com/megatvlive/megatvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="RCN.CO" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/logo-canal-rcn-2019.png" group-title="拉丁精选",RCN
 https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 #EXTINF:-1 tvg-id="CA6.CR" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" group-title="拉丁精选",Repretel 6
@@ -904,11 +902,9 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTI.PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="拉丁精选",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 #EXTINF:-1 tvg-id="RPC.PY" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="拉丁精选",Trece
-http://174.138.118.252/live/canal13stream_src.m3u8
+http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1 tvg-id="TVB.BR" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png" group-title="拉丁精选",TV Brasil
 http://150.161.93.220/hls/1080/index.m3u8
-#EXTINF:-1 tvg-id="TVI.PT" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="拉丁精选",TVI
-http://185.59.222.120:88/tvi/index.m3u8?token=test
 #EXTINF:-1 tvg-id="TVP.PE" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="拉丁精选",TV Perú
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 
