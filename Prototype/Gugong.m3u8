@@ -64,20 +64,6 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png" group-title="Horse Racing", OTB
 https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Movies", HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/4.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/HBOHits.id.png group-title="Movies", HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/4.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies", HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/4.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ph/Cinemax.ph.png group-title="Movies", Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
-#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" group-title="Movies", Red by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/4.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies", HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="Food", Cooking Outdoors
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 
@@ -333,12 +319,24 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Pri.IN" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="电影",&Prive
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/4.m3u8
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="电影",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="电影",Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FXX.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="电影",FX
 http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8
+#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Movies",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/4.m3u8
+#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="Movies",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/4.m3u8
+#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/4.m3u8
+#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" group-title="Movies", Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/4.m3u8
 #EXTINF:-1 tvg-id="HIM.MY" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="电影",Hit Movies
 http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
 #EXTINF:-1 tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="电影",Romedy Now
