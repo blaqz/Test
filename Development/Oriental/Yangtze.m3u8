@@ -547,14 +547,8 @@ http://livetv.dnsfor.me:80/channel.7.m3u8
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="粵語",Now新聞
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="粵語",beIN Sports 1 香港
-rtmp://xiaoyu.speedws.com/sat/hk011
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="粵語",beIN Sports 2 香港
-rtmp://xiaoyu.speedws.com/sat/hk021
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="粵語",广东珠江
-rtmp://xiaoyu.speedws.com/sat/hk031
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png" group-title="粵語",有線18台
-rtmp://xiaoyu.speedws.com/sat/hk041
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="粵語",Now Sports Prime
+http://teslagram.com/live/channel_630.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pic.pngsucai.com/00/10/05/dce8c29c3b15bd50.jpg" group-title="粵語",C+ 频道
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="粵語",南方衛視
