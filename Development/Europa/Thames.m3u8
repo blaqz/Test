@@ -113,10 +113,23 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Cricket",Ads cricket
 http://212.47.252.54/hls/stream.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Cricket",Star Sports Select 1
 http://103.214.202.218:8081/live/select1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Cricket",Star Sports Select 2
 http://103.214.202.218:8081/live/select2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Cricket",Sony 3
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Cricket",Sony 1
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Cricket",Sony 2
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Cricket",Sony Six
 http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 
@@ -137,7 +150,6 @@ http://190.122.109.218:8888/http/010
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="Golf",ゴルフネットワーク
 http://203.162.235.41:16924
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Horse Racing",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
