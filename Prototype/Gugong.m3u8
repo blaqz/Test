@@ -557,13 +557,13 @@ https://e10.julinewr.xyz/ingestnb4s/ahc/f.m3u8|Referer=https://espn-live.stream/
 #EXTINF:-1 tvg-id="AXN.Int" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="美国",AXN
 http://103.47.132.164/PLTV/88888888/224/3221227159/index.m3u8
 #EXTINF:-1 tvg-ID="BET.US" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="美国",BET
-https://e10.cdn4.us/ingest666/bet/d.m3u8|Referer=https://espn-live.stream/stream/68076.html
+https://e10.julinewr.xyz/ingestnb4s/bet/f.m3u8|Referer=https://espn-live.stream/stream/68076.html
 #EXTINF:-1 tvg-id="BAE.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rtl_cbs_entertainment_hd.png/400px-Rtl_cbs_entertainment_hd.png" group-title="美国",Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="BAX.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="美国",Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="BTN.US" tvg-logo="https://static.epg.best/us/BigTenNetwork.us.png" group-title="美国",BTN
-https://e10.cdn4.us/ingest666/btn/d.m3u8|Referer=https://espn-live.stream/stream/45629.html
+https://e10.julinewr.xyz/ingestnb4s/btn/d.m3u8|Referer=https://espn-live.stream/stream/45629.html
 #EXTINF:-1 tvg-ID="BUZ.US" tvg-logo="https://static.epg.best/us/BuzzrTV.us.png" group-title="美国",Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
 #EXTINF:-1 tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="美国",CBC
@@ -576,8 +576,6 @@ https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a583
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/4.m3u8
 #EXTINF:-1 tvg-ID="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="美国",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 tvg-ID="CMT.US" tvg-logo="https://static.epg.best/us/CMT.us.png" group-title="美国",CMT
-https://e10.cdn4.us/ingest666/cmt/f.m3u8|Referer=https://espn-live.stream/stream/68074.html
 #EXTINF:-1 tvg-ID="CPA.CA" tvg-logo="https://static.epg.best/ca/CPACOttawaEn.ca.png" group-title="美国",CPAC
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1//Assets_1594900651852/Layer2_master.m3u8
 #EXTINF:-1 tvg-id="ESN.US" tvg-logo="https://static.epg.best/us/ESPNNews.us.png" group-title="美国",ESPN News
