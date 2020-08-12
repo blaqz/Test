@@ -152,17 +152,21 @@ https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-ID="ACC.US" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2016/07/acc_network.png" group-title="Sports",ACCN
 https://e10.cdn4.us/ingest666/accn/c.m3u8|Referer=https://espn-live.stream/stream/45458.html
+
+
 #EXTINF:-1 tvg-id="ES1.US" tvg-logo="http://static.epg.best/us/SECNetwork.us.png" group-title="Sports",ESPN
 https://e10.cdn4.us/ingest666/espn_usa/f.m3u8|Referer=https://espn-live.stream/stream/43572.html
+#EXTINF:-1 tvg-id="ES1.US" tvg-logo="http://static.epg.best/us/SECNetwork.us.png" group-title="Sports",ESPN
+http://185.59.223.135/espn/index.m3u8
 #EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="Sports",ESPN 2
 https://e10.cdn4.us/ingest666/espn2_usa/f.m3u8|Referer=https://espn-live.stream/stream/45351.html
+#EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="Sports",ESPN 2
+http://185.59.223.135/espn2/index.m3u8
 
 #EXTINF:-1 tvg-id="ES1.AR" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Sports",ESPN Sur
 https://e7.cdn4.us/ingest666/espn_sur.m3u8|Referer=https://sportsbay.org/embed/54013/1/espn-sur-live.html
-
 #EXTINF:-1 tvg-id="ES2.AR" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="American Sports",ESPN Sur 2
 https://e7.cdn4.us/ingest666/espn2_sur.m3u8|Referer=https://sportsbay.org/embed/54014/1/espn-2-sur-live.html
-
 #EXTINF:-1 tvg-id="ES3.AR" tvg-logo="https://static.epg.best/co/ESPN3.co.png" group-title="American Sports",ESPN Sur 3
 https://e7.cdn4.us/ingest666/espn3_sur.m3u8|Referer=https://sportsbay.org/embed/54015/1/espn-3-sur-live.html
 
@@ -484,7 +488,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png" group-title="Kids/Animation",ZooMoo
 http://103.47.132.164/PLTV/88888888/224/3221227323/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ooy2lyY.png" group-title="Learning",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
