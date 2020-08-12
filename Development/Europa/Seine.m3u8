@@ -19,7 +19,6 @@ http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtsh.al/rtsh-live/RTSH_film_large.png" group-title="Shqipëria/Kosovës",RTSH Film
 http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria/Kosovës",RTK 1
 http://176.31.74.161:8081/live/rtk1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" group-title="Shqipëria/Kosovës",RTK 2
@@ -45,11 +44,13 @@ http://5.135.92.133:52841/out/u/188_1.m3u8
 http://www.knaqu.tv/live/topch.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Top%20News.png" group-title="Shqipëria/Kosovës",Top News
 http://www.knaqu.tv/live/topnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvt.al/sites/default/files/logo3.png group-title="Shqipëria/Kosovës",Tema
+http://edge01eu.ekranet.com/tematv_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria/Kosovës",Vision Plus
 http://www.knaqu.tv/live/vizionplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://ci.heytv.org/wp-content/uploads/2018/12/1-1Q1112005050-L.jpg" group-title="Shqipëria/Kosovës",Zjarr
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/al/3Plus.al.png" group-title="Shqipëria/Kosovës",3plus
-http://84.22.33.254/unicast.3plus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv7.al/wp-content/uploads/2018/02/Logo-83Heigh.png" group-title="Shqipëria/Kosovës",7 TV
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/T%20HD.png" group-title="Shqipëria/Kosovës",7 HD
@@ -265,8 +266,6 @@ https://ms1.sedemosmi.tv/live/index.m3u8
 http://alfa.bg:1935/live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/co/AMC.co.png" group-title="България",AMC България
 https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://test.balkanika.tv/wp-content/uploads/2018/07/logo_Balkanika_kvadrat.png" group-title="България",Ballkanika
-http://84.22.33.254/unicast.ballkanika/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/btvcinema.png" group-title="България",bTV cinema
 https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/btvcomedy.png" group-title="България",bTV Comedy
@@ -305,8 +304,6 @@ https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/SkatTV.bg.png" group-title="България",Скат
 https://cdn1.mobiletv.bg/T3/skat/skat_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://thevoice.bg/share/default/img/The_Voice_black_logo.png" group-title="България",The Voice
-http://84.22.33.254/unicast.thevoice/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="България",TLC България
 https://cdn1.mobiletv.bg/T8/tlc/tlc_794613_850k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/bg/Travel.bg.png" group-title="България",Travel Channel България
@@ -957,8 +954,6 @@ http://tv.vodafoneplay.is/n4/index.m3u8
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c6/Logo_2ten_RTL.jpg" group-title="Lëtzebuerg",Den 2. RTL
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.thematv.com/images/channels/luxe-tv.png" group-title="Lëtzebuerg",Luxe TV
-http://84.22.33.254/unicast.luxetv/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/TVM.mt.png" group-title="Malta",TVM
 http://s3.smashmalta.com:82/live/smash/smash/39.ts
