@@ -1,15 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/280px-Alaraby_TV_Logo.png" group-title="أنباء",Al Araby 1
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="أنباء",Al Arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-rokCKG5tCkY/Wws7jGYGULI/AAAAAAAATNU/v80fDLlCGJcN1TvkYVbP9gygG4UIqC7eQCLcBGAs/s1600/al_hadath_news_eg.png" group-title="أنباء",Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.alhayat.com/themes/hayat/images/alhayat-logo.jpg" group-title="أنباء",Al-Hayat
 http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="أنباء",Al Jazeera
-https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="أنباء",Al Hurra
 http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.alhiwar.tv/all/images/logo.png" group-title="أنباء",Al Hiwar 
@@ -18,24 +10,11 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 https://5d8ef5ac99397.streamlock.net/qanat/alqanat9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://alsharqiyatv.info/news.jpg" group-title="أنباء",Al Sharqiya News
 http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/ann_news_syria_channel_live_online_free_arabic_channel.jpg" group-title="أنباء",ANN
-http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Al-Alam_logo.svg/300px-Al-Alam_logo.svg.png" group-title="أنباء",IRIB Al-Alam
-https://live2.alalam.ir/live/Alalam_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://news.files.bbci.co.uk/ws/img/logos/og/arabic.png" group-title="أنباء",BBC عربى
-http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d1604032.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.cnbcarabia.com/img/logo.png" group-title="أنباء",عربية CNBC
-https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" group-title="أنباء",CGTN عربى
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="أنباء",DW عربى
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mbc.net/en/corporate/channels/alhadath/main/0/imageBinary/ab183bf5467dc16c6e230e38b9d1f9f5029b4a90/alhadath.png" group-title="أنباء",Libya Al Hadath
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/0/06/RTarabic.jpg" group-title="أنباء",RT عربى
-http://rt-arab.secure.footprint.net:80/1104_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://content.osn.com/logo/channel/cropped/SNA.png" group-title="أنباء",Sky News عربى
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapura",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
