@@ -85,6 +85,8 @@ http://5.135.92.133:52841/out/u/155_1.m3u8
 https://edge01eu.ekranet.com/faxnews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Folk%20Plus.png" group-title="Shqipëria/Kosovës",Folk +
 http://5.135.92.133:52841/out/u/212_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/de/Fox.de.png group-title="Shqipëria/Kosovës",FOX Central Europe
+http://5.135.92.133:52841/out/u/373_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/rs/FLN.rs.png" group-title="Shqipëria/Kosovës",Fine Living
 http://5.135.92.133:52841/out/u/498_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Film%20Komedi.png" group-title="Shqipëria/Kosovës",Film Komedi
@@ -1085,10 +1087,7 @@ http://ms7.mx-cd.net/tv/129-562449/WEEFF_TV.smil/chunklist_b1894400_slNLD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/4funTV.pl.png" group-title="Polska",4fun
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.tvp.pl/files/portal/v4/gfx/logo/tvp1_b.png" group-title="Polska",TVP 1
-http://54.38.52.108/hls/kurwatvp1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.tvp.pl/files/portal/v4/gfx/logo/tvp2_b.png" group-title="Polska",TVP 2
-http://54.38.52.108/hls/kurwatvp2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Białystok
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP3.pl.png" group-title="Polska",TVP 3 Bydgoszcz
@@ -1137,12 +1136,15 @@ http://95.160.28.218:1935/PILSKA/myStream_aac/chunks.m3u8
 http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.narew.info/data/wysiwig/images/GM_Narew_Telewizja_Tygodnik_Portal_www_portal_1.png" group-title="Polska",Telewizja Narew
 http://95.160.28.218:1935/lomza/myStream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ocdn.eu/program-tv-transforms/1/dNlktkpTURBXy8yMDczZDIwOWIyM2M3ZThmYTkxYjQzM2VjY2FiZTg2My5wbmeSlQJkAMLDlQIAKMLD" group-title="Polska",Telewizja Trwam
+https://trwamtv.live.rd.insyscd.net/cl01/out/u/trwam.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.toruntv.pl/public/img/logo.png" group-title="Polska",Telewizja Torun
 http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://wielkopolska.tv/wp-content/themes/tense-theme-master/assets/images/logo.png" group-title="Polska",Wielkopolska TV
 http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Wtk_logo_300x300.jpg/240px-Wtk_logo_300x300.jpg" group-title="Polska",WTK TV
 http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="România",TVR 1	
 http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
