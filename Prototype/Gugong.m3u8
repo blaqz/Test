@@ -386,6 +386,8 @@ http://185.59.223.135/espn2/index.m3u8
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
 #EXTINF:-1 tvg-id="Fig.Int" tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="体育",Fight Sports
 http://103.47.132.164/PLTV/88888888/224/3221227065/index.m3u8
+#EXTINF:-1 tvg-id="FXS.US" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="Football",Fox Soccer Plus
+https://e10.julinewr.xyz/ingestnb4s/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
 #EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="体育",Fox Sports 1 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="体育",Fox Sports 2 Asia
