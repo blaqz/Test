@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH1%20HD.png" group-title="Shqipëria/Kosovës",RTSH 1
+http://79.106.48.2/live/rtsh_1ott_p4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH2%20HD.png" group-title="Shqipëria/Kosovës",RTSH 2
+http://95.107.132.131:3344/udp/226.0.0.2:7777
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH3%20HD.png" group-title="Shqipëria/Kosovës",RTSH 3
+http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Plus.png" group-title="Shqipëria/Kosovës",RTSH Plus
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Shqip.png" group-title="Shqipëria/Kosovës",RTSH Shqip
+http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Sport.png" group-title="Shqipëria/Kosovës",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Muzike.png" group-title="Shqipëria/Kosovës",RTSH Muzike
+http://79.106.48.2/live/rtsh_muzike_ott_p3/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5频道
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="新马",亚洲新闻台
