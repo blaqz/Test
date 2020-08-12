@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Femije.png" group-title="Shqipëria/Kosovës",RTSH Femije
-http://edge01eu.ekranet.com:80/rtshfemije_240p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqipëria/Kosovës",RTSH Korca
-http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqipëria/Kosovës",RTSH Kuvend
-https://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8
-
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5频道
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="新马",亚洲新闻台
