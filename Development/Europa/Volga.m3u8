@@ -66,6 +66,8 @@ https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a9028
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/RENTV.ru.png" group-title="Россия",РЕН
 http://188.93.95.34/rentv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="Россия",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Karusel.ru.png" group-title="Россия",Карусель
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="Россия",ТВ3
@@ -82,6 +84,10 @@ https://strm.yandex.ru/kal/musicboxgold/manifest.mpd?from=http%3A%2F%2Fmboxtv.ru
 https://strm.yandex.ru/kal/rmbox/manifest.mpd?from=partner&partner_id=274296&target_ref=https%3A%2F%2Fyastatic.net&uuid=4d76800bfc3a4a5b97b0ab8efc6603ce&video_category_id=1017&clid=495&yandexuid=6094165511568386376&slots=null&dvr=300&partner-id=274296&video-category-id=1017&gzip=1&vsid=b5f80ac4fd425cdac78fb7608809383bc41063595a23xWEBx2430x1570161027&adsid=3609810898bedc3192fb7a8253654bab174c58d78102xWEBx2430x1570161027
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Россия",TV5 Monde Asie(Россия)
 https://tv5asieru-i.akamaihd.net/hls/live/651800/tv5asieru/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/0/0c/CGTN_Russian.png" group-title="Россия",CGTN Россия
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ru/Euronews.ru.png" group-title="Россия",Euronews Русский
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 
 #EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Россия",Якутия 24
 http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
