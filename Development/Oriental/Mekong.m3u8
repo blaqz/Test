@@ -64,8 +64,6 @@ https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 http://210.210.155.66/h/h04/01.m3u8
 #EXTINF:-1 tvg-logo="https://egg.network/wp-content/uploads/2013/04/egg-network-logo.png" group-title="Malaysia",eGG Network
 http://210.210.155.66/h/h22/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2013/12/foodfood-new-logo.jpg" group-title="Malaysia",Food Food
-https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small.png" group-title="Malaysia",GEM TV
 http://103.47.132.164/PLTV/88888888/224/3221227187/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Hello
