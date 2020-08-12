@@ -2,6 +2,10 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/280px-Alaraby_TV_Logo.png" group-title="Pan Arabic",Al Araby 1
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.alhurra.com/themes/custom/voa/images/sites_logos/logo_Al_Hurra.png" group-title="Pan Arabic",Al Hurra
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.alhiwar.tv/all/images/logo.png" group-title="Pan Arabic",Al Hiwar 
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://news.files.bbci.co.uk/ws/img/logos/og/arabic.png" group-title="Pan Arabic",BBC عربى
 http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d1604032.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cnbcarabia.com/img/logo.png" group-title="Pan Arabic,عربية CNBC
@@ -105,6 +109,8 @@ http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.almagd.tv/images/logo.png" group-title="لبنان",Al Magd
 https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://alqanat9.com/wp-content/uploads/2017/03/logo.png" group-title="لبنان",Al Qanat
+https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png" group-title="لبنان",Charity TV
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="لبنان",Future TV
@@ -254,7 +260,6 @@ https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBCMax.ae.png" group-title="السعودية",MBC Max
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="السعودية",Rotana Cinema
 https://rotana.hibridmedia.com/rotana/cinema_dabr/rotana/cinema_1080p/chunks.m3u8
@@ -588,6 +593,8 @@ https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://alsharqiyatv.info/news.jpg" group-title="العراق",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://alsharqiyatv.info/news.jpg" group-title="العراق",Al Sharqiya News
+http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://gulf365.co/content/uploads/2019/09/02/ba541d952e.jpg" group-title="العراق",Al Shaaer
 http://nl.live21.ir:8080/hls2/alshaaer_high.m3u8
 #EXTINF:-1 tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" group-title="العراق",Al Summaria
