@@ -3,6 +3,15 @@
 #EXTINF:-1 tvg-name="Azteca Uno HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
+#EXTINF:-1 tvg-name="Azteca Uno HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno 2
+https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
+
+#EXTINF:-0 group-title="ALTERNOS", Mega Tv Puerto Rico
+https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
+
+#EXTINF:-0 group-title="ALTERNOS", NTN24
+https://rcnhd.cdn.net.co/live04/ntn24.m3u8
+
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5频道
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="新马",亚洲新闻台
