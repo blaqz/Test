@@ -16,8 +16,6 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="Singapore",OKTO on 5
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-#EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_149759142675.png" group-title="Singapore",Asian Food Network
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png" group-title="Burnei",RTB Sukmaindera 
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
@@ -60,8 +58,6 @@ https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 #EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="Malaysia",AXN
-http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama
 https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="Malaysia",CinemaWorld
