@@ -150,6 +150,8 @@ http://198.144.159.43/upl3_2.m3u8
 #EXTINF:-1 tvg-id="FSD.US" tvg-logo="https://static.epg.best/us/FoxDeportes.us.png" group-title="USA/Canada",Fox Deportes
 https://e7.cdn4.us/ingest666/fsdep.m3u8|Referer=https://sportsbay.org/embed/45529/1/fox-deportes-live.html
 
+#EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="USA/Canada",Fox
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/FOXLife.us.png" group-title="USA/Canada",FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/3/3e/WSVN_7_Miami_logo.png" group-title="USA/Canada",Fox 7 Miami (WSVN)
