@@ -722,6 +722,8 @@ http://stream2.livestreamingservices.com:1935/tvcanal11/tvcanal11/index.m3u8
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="Argentina",Canal Provinical
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-logo="http://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="Argentina",Santa Maria TV
+http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/75UgF.png" group-title="Argentina",CPEtv
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Argentina",Ciudad
@@ -744,6 +746,9 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 https://5e7cdf2370883.streamlock.net/tdconline/_definst_/tdconline/chunklist_w1268717090.m3u8
 #EXTINF:-1 tvg-logo="https://logostvArgentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="Argentina",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.telered.com.ar/img/touch-icon-iphone-retinahd-precomposed-19092018.png" group-title="Argentina",Telered
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/BoliviaTV-logo.jpg" group-title="Bolivia",Televisión Boliviana 
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/chunklist.m3u8
