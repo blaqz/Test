@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Cricket",Sony 3
-http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Cricket",Sony 1
-http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Cricket",Sony 2
-http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
-
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapura",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="Singapura",CNA
