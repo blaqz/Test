@@ -1,16 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.alhayat.com/themes/hayat/images/alhayat-logo.jpg" group-title="أنباء",Al-Hayat
-http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="أنباء",Al Hurra
-http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.alhiwar.tv/all/images/logo.png" group-title="أنباء",Al Hiwar 
-https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://alqanat9.com/wp-content/uploads/2017/03/logo.png" group-title="أنباء",Al Qanat
-https://5d8ef5ac99397.streamlock.net/qanat/alqanat9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://alsharqiyatv.info/news.jpg" group-title="أنباء",Al Sharqiya News
-http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="أنباء",DW عربى
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mbc.net/en/corporate/channels/alhadath/main/0/imageBinary/ab183bf5467dc16c6e230e38b9d1f9f5029b4a90/alhadath.png" group-title="أنباء",Libya Al Hadath
