@@ -135,10 +135,12 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/FYI.us.png" group-title="USA/Canada",FYI
 https://itpolly.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-id="FS1.US" tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/shows/fs1/logo_fs1.vresize.1200.630.high.0.png" group-title="USA/Canada",Fox Sports 1 USA
-https://e7.cdn4.us/ingest666/fs-one.m3u8|Referer=https://sportsbay.org/embed/45459/1/fox-sports-1-live.html
-#EXTINF:-1 tvg-id="FS2.US "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA/Canada",Fox Sports 2 USA
-https://e7.cdn4.us/ingest666/fstwo.m3u8|Referer=https://sportsbay.org/embed/45460/1/fox-sports-2-live.html
+#EXTINF:-1 tvg-id="FS1.US" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="USA/Canada",FS1 USA
+https://e10.cdn4.us/ingest666/fs1/f.m3u8|Referer=https://espn-live.stream/stream/45459.html
+#EXTINF:-1 tvg-id="FS2.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA/Canada",FS2 USA
+https://e10.cdn4.us/ingest666/fs2/f.m3u8|Referer=https://espn-live.stream/stream/45460.html
+#EXTINF:-1 tvg-id="FS2.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA/Canada",FS2 USA
+http://198.144.159.43/upl3_2.m3u8
 #EXTINF:-1 tvg-id="FSD.US" tvg-logo="https://static.epg.best/us/FoxDeportes.us.png" group-title="USA/Canada",Fox Deportes
 https://e7.cdn4.us/ingest666/fsdep.m3u8|Referer=https://sportsbay.org/embed/45529/1/fox-deportes-live.html
 
