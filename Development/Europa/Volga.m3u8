@@ -643,6 +643,12 @@ http://tv.cdn.xsg.ge/universehd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://rtrk.kz/qazaqstan.png" group-title="Казахстан",Qazaqstan
 https://qazaqstantv-stream.daitsuna.net/qazaqstantv/qazaqstantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.qazaqstan.tv/qazsport.png" group-title="Казахстан",Qazsport
+https://live-qazsport.cdnvideo.ru/qazsport_kz/qazsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.qazaqstan.tv/balapan.png" group-title="Казахстан",Balapan TV
+https://balapantv-stream.daitsuna.net/balapantv/balapantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://abaitv.kz/imgs/footer-logo.png" group-title="Казахстан",Abai TV
+https://live-abaitv.cdnvideo.ru/abaitv_kz/abaitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png" group-title="Казахстан",Первый канал Евразия
 https://1tvkz-stream.daitsuna.net/1tvkz/1tv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Казахстан",Kazakh TV
