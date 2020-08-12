@@ -800,10 +800,16 @@ https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg" group-title="Türkmenistan",Yaslyk
 https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="Україна",UA: Перший
+#EXTINF:-1 tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="Україна",UA:Перший
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/UATV.ua.png" group-title="Україна",UA
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ua/1Plus1.ua.png group-title="Україна",1+1
+https://live-k2303-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ua/UnianTV.ua.png" group-title="Україна",УНІАН
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ua/Sport1.ua.png" group-title="Україна",Спорт 1
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-logo="https://tv-server.trinity-tv.net/icons/channels/10.png" group-title="Україна",Рада
 https://rada-rtmp.adamant.net/hls/rada.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/Inter.ua.png" group-title="Україна",Iнтер
