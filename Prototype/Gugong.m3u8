@@ -3,18 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Femije.png" group-title="Shqipëria/Kosovës",RTSH Femije
 http://edge01eu.ekranet.com:80/rtshfemije_240p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqipëria/Kosovës",RTSH Korca
-http://edge01eu.ekranet.com/tvkorca/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqipëria/Kosovës",RTSH Korca
-http://edge01eu.ekranet.com:80/rtshfemije_240p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqipëria/Kosovës",RTSH Korca
 http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqipëria/Kosovës",RTSH Korca
-htto://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqipëria/Kosovës",RTSH Korca
-http://edge01eu.ekranet.com/zjarrtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqipëria/Kosovës",RTSH Korca
-http://edge01eu.ekranet.com/tematv_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqipëria/Kosovës",RTSH Kuvend
 https://edge01eu.ekranet.com/rtshkuvendweb/index.m3u8
 
