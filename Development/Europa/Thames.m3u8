@@ -460,22 +460,12 @@ https://itpolly.iptv.digijadoo.net/live/vh1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/NRJ_Hits_2017.svg.png/revision/latest?cb=20190621214935" group-title="Music",NRJ Hits
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w531424568_b1431072.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.babyfirsttv.com/wp-content/uploads/2019/10/babyfirst_logo_2019_300px-e1570008215346.png" group-title="Kids/Animation",BabyFirst
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Boomerang.de.png" group-title="Kids/Animation",Boomerang
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://images.squarespace-cdn.com/content/569ff0561115e0973545a242/1453322587420-THFQ3VWPKVSYVDXE0MYJ/bPOP+logo+medium.png" group-title="Kids/Animation",Battery Pop
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/nz/CartoonNetwork.nz.png" group-title="Kids/Animation",Cartoon Network
-http://178.132.3.162:88/cartoon_network/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hu/DaVinciLearning.hu.png" group-title="Kids/Animation",Da Vinci Learning
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Kids/Animation",Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://images.squarespace-cdn.com/content/5b45347bf8370a03e64f284d/1531263808845-27U5TCTZ7RKPXMDG8CKM/KAB_LOGO_02.png" group-title="Kids/Animation",Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr
-https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/PBSKids.us.png" group-title="Kids/Animation",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
@@ -485,12 +475,33 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png" group-title="Kids/Animation",ZooMoo
 http://103.47.132.164/PLTV/88888888/224/3221227323/index.m3u8
 
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="Kids/Animation",Animax
+http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
+#EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Kids/Animation",Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids/Animation",Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="Kids/Animation",CBeebies
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/823.m3u8
+#EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Kids/Animation",Da Vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="Kids/Animation",Disney Channel
+http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
+#EXTINF:-1 tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="Kids/Animation",Pop UK
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="Kids/Animation",POP Max
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NIC.IN" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr
+https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+#EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="Kids/Animation",Tiny Pop
+https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ooy2lyY.png" group-title="Learning",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png" group-title="Learning",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="Learning",CGTN Documentary
-http://live.cgtn.com/500d/prog_index.m3u8
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Learning",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1280px-Discovery_History_logo.svg.png" group-title="Learning",Discovery History
