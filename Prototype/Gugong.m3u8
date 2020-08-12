@@ -1,16 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Azteca Uno HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno
-https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
-
-#EXTINF:-1 tvg-name="Azteca Uno HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno_2h-mediano.png" group-title="NACIONALES", Azteca Uno 2
-https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
-
-#EXTINF:-0 group-title="ALTERNOS", Mega Tv Puerto Rico
-https://livestream.lamusica.com/megatvlive/ngrp:megatvlive_all/.m3u8
-
-#EXTINF:-0 group-title="ALTERNOS", NTN24
-https://rcnhd.cdn.net.co/live04/ntn24.m3u8
+#EXTINF:-0 group-title="ALTERNOS", TVN
+https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
+#EXTINF:-0 group-title="ALTERNOS", TVMax
+https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
+#EXTINF:-0 group-title="ALTERNOS", TVN+
+https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/w4MjFpaDE6ZE2VTls0F3V6vJL9MuWk8z/cn/85f0b182a32f4feb84317dbd88c993b3.m3u8
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5频道
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
