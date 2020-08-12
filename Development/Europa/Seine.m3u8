@@ -1,27 +1,24 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH1%20HD.png" group-title="Shqipëria/Kosovës",RTSH 1
-http://79.106.48.2/live/rtsh_1ott_p4/playlist.m3u8
+http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH2%20HD.png" group-title="Shqipëria/Kosovës",RTSH 2
-http://95.107.132.131:3344/udp/226.0.0.2:7777
+http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH3%20HD.png" group-title="Shqipëria/Kosovës",RTSH 3
-http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
+http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Plus.png" group-title="Shqipëria/Kosovës",RTSH Plus
 http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Shqip.png" group-title="Shqipëria/Kosovës",RTSH Shqip
-http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
+http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Sport.png" group-title="Shqipëria/Kosovës",RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p4/playlist.m3u8
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Muzike.png" group-title="Shqipëria/Kosovës",RTSH Muzike
-http://79.106.48.2/live/rtsh_muzike_ott_p3/playlist.m3u8
+http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtsh.al/rtsh-live/RTSH24.png" group-title="Shqipëria/Kosovës",RTSH 24
-http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Femije.png" group-title="Shqipëria/Kosovës",RTSH Femije
-http://79.106.48.2/live/rtsh_femije_ott_p3/playlist.m3u8
+http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtsh.al/rtsh-live/RTSH_film_large.png" group-title="Shqipëria/Kosovës",RTSH Film
-http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqipëria/Kosovës",RTSH Korca
-http://95.107.132.131:3344/udp/238.20.15.4:9009
+http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria/Kosovës",RTK 1
 http://176.31.74.161:8081/live/rtk1/chunks.m3u8
@@ -83,6 +80,9 @@ http://5.135.92.131:1935/live/euroAl/playlist.m3u8
 http://5.135.92.133:52841/out/u/155_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Fax%20News.png" group-title="Shqipëria/Kosovës",Fax News
 https://edge01eu.ekranet.com/faxnews/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/Folk%20Plus.png" group-title="Shqipëria/Kosovës",Folk +
 http://5.135.92.133:52841/out/u/212_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/de/Fox.de.png group-title="Shqipëria/Kosovës",FOX Central Europe
