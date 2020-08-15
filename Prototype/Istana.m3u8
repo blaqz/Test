@@ -5,30 +5,26 @@
 http://live.24livetv.net:1935/live/13wDt2b6g4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/69.png" group-title="ประเทศไทย",69 TV
 https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/02/logo-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2-66-e1580530430749.png" group-title="ประเทศไทย",Banteng 100
+https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ctbtv.co.th/indexctb/ctbtv1.png" group-title="ประเทศไทย",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/DoChannal59.png" group-title="ประเทศไทย",Do Channel
-https://edge6av2h-cdn.com/appt3/DoChannel.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png" group-title="ประเทศไทย",TVB Thai
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.8875fm.com/image/topmenu/menu_logo.png" group-title="ประเทศไทย",DDTV
 http://203.156.63.20:1935/live/ddtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images-full/esan-tv-full.jpg" group-title="ประเทศไทย",Esan TV
-https://edge6av2h-cdn.com/appt3/EsanTV.stream_720p/chunklist.m3u8
+https://edge6a.v2h-cdn.com/m2s6/encoder_fk.stream_720p/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://www.onlinethailand.net/tv_online/images/etv-thai.jpg" group-title="ประเทศไทย",ETV
 http://61.19.244.112:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/LOVETV65.png" group-title="ประเทศไทย",Happy TV
-https://edge6av2h-cdn.com/appt3/Happy.stream_720p/playlist.m3u8
+https://edge6a.v2h-cdn.com/appt3/Happy.stream_720p/playlist.m3u8"
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg" group-title="ประเทศไทย",MVTV Major Mix
-https://edge6av2h-cdn.com/appt7/Mix_major.stream_720p/chunklist.m3u8
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/M_channel_thailand.jpg" group-title="ประเทศไทย",M Channel
 http://27.254.142.207:8080/live/web.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvtv.jpg" group-title="ประเทศไทย",MVTV
-https://edge6av2h-cdn.com/appt7/MVTV.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvi.png" group-title="ประเทศไทย",MVTV Chinese
-https://edge6av2h-cdn.com/appt7/WSM.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/five.jpg" group-title="ประเทศไทย",MVTV Five Channel
-https://edge6av2h-cdn.com/appt3/five.stream_720p/chunklist.m3u8
+https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://news1live.com/images/news1-logo.jpg" group-title="ประเทศไทย",News 1
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-logo="http://i2.wp.com/psisaradee.com/run/wp-content/uploads/2017/07/saradee.png" group-title="ประเทศไทย",PSI Saradee
@@ -38,18 +34,34 @@ http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.smartsme.co.th/images/logo/logo_SmartSME.png" group-title="ประเทศไทย" ,Smart SME TV
 https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/Thaibaan83.png" group-title="ประเทศไทย",Thai Baan
-https://edge6av2h-cdn.com/appt3/Thaiban.stream_720p/playlist.m3u8
+https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/TVD2.png" group-title="ประเทศไทย",TVD2
+https://edge6a.v2h-cdn.com/appt7/TVD3.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/04/LOGO01_500x500-TVDmomo-2.jpg" group-title="ประเทศไทย",TVD Mono
+https://edge6a.v2h-cdn.com/appt3/DoChannel.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/tukdee.png" group-title="ประเทศไทย",Thookdee TV
+https://edge6a.v2h-cdn.com/appt7/Sanook.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/2-4.jpg" group-title="ประเทศไทย",V2H2
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/11.jpg" group-title="ประเทศไทย",V2H 11
+https://edge6a.v2h-cdn.com/v2h/V2H11.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/12.jpg group-title="ประเทศไทย",V2H 12
+https://edge6a.v2h-cdn.com/v2h/V2H12.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/13.jpg group-title="ประเทศไทย",V2H 13
+https://edge6a.v2h-cdn.com/v2h/V2H13.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/14.jpg group-title="ประเทศไทย",V2H 14
+https://edge6a.v2h-cdn.com/v2h/V2H14.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/15.jpg group-title="ประเทศไทย",V2H 15
+https://edge6a.v2h-cdn.com/v2h/V2H15.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/whitechannel.tv/wp-content/uploads/2019/03/whitelogo-1.png" group-title="ประเทศไทย",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/hbo.jpg" group-title="PREMIUM", 6. HBO
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/fox_movies.png" group-title="PREMIUM", 7. FOX Movies HD
-https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/fox_thai.jpg" group-title="PREMIUM", 9. FOX Thai HD
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="PREMIUM", 11. Premier HD1
-http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd2.png" group-title="PREMIUM", 12. Premier HD2
 http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd3.png" group-title="PREMIUM", 13. Premier HD3
@@ -59,13 +71,11 @@ https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd5.png" group-title="PREMIUM", 15. Premier HD5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/bein1.png" group-title="PREMIUM", 37. beIN Sports HD1
-http://103.208.24.234:1935/thaisport/epl-bein1.stream/playlist.m3u8
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/bein2.png" group-title="PREMIUM", 38. beIN Sports HD2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/warner.png" group-title="PREMIUM", 45. Warner TV HD
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/axn.png" group-title="PREMIUM", 46. AXN HD
-https://livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/history.png" group-title="PREMIUM", 49. History HD
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/history2.png" group-title="PREMIUM", 50. History2 HD
