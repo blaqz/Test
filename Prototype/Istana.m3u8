@@ -1,67 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="ประเทศไทย",ดูทีวีสีช่อง 3
-https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="ประเทศไทย",ททบ 5 SD
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="ประเทศไทย",ททบ 5 HD
-http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="ประเทศไทย",ช่อง 7 SD
-https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="ประเทศไทย",ช่อง 7 HD
-http://livesport2018.dyndns.tv:8080/live/7hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/ch8.png" group-title="ประเทศไทย",ช่อง 8
-http://27.254.130.64/live01/ch15.m3u8?p=st
-
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/nbt.png" group-title="ประเทศไทย",NBT 2 HD
-http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/nbt.png" group-title="ประเทศไทย",NBT 2
-http://live.prd.go.th:1935/live/ch9_L.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/thai-pbs-png-6.png" group-title="ประเทศไทย",Thai PBS 3
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png" group-title="ประเทศไทย",ALTV4
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist/index.m3u8
-#EXTINF:-1 tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" group-title="ประเทศไทย",TPTV
-http://49.231.66.85:1935/live/tptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png" group-title="ประเทศไทย",New18
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NEW18.m3u8
-#EXTINF:-1 tvg-logo="https://www.nationtv.tv/main/assets/images-v5/logo.png" group-title="ประเทศไทย",Nation TV SD
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/N22.m3u8
-#EXTINF:-1 tvg-logo="https://www.nationtv.tv/main/assets/images-v5/logo.png" group-title="ประเทศไทย",Nation TV HD
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png" group-title="ประเทศไทย",Voice TV
-https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
-#EXTINF:-1 tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="ประเทศไทย",Workpoint
-ttps://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
-#EXTINF:-1 tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="ประเทศไทย",Workpoint
-http://27.254.130.56:80/live01/ch7.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/th/true4U.th.png" group-title="ประเทศไทย",True4U
-http://183.182.100.184/live/true4u/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="ประเทศไทย",GMM 25
-http://183.182.100.184/live/mcothd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/mono29.png" group-title="ประเทศไทย",Mono 29
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-#EXTINF:-1 tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_monoplus.png group-title="ประเทศไทย",MONO Plus
-https://edge2-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w1160888669.m3u8
-#EXTINF:-1 tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" group-title="ประเทศไทย",MCOT HD
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
-#EXTINF:-1 tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" group-title="ประเทศไทย",MCOT SD
-http://livesport2018.dyndns.tv:8080/live/mcothd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/one31.png" group-title="ประเทศไทย",ONE 31
-http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="ประเทศไทย",Thairath TV
-https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/amarin.png" group-title="ประเทศไทย",Amarin TV
-http://27.254.130.64:80/feed/chamarin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title="ประเทศไทย",PPTV SD
-http://183.182.100.184/live/pptvthai/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title="ประเทศไทย",PPTV HD
-http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/pptv.png" group-title="ประเทศไทย",PPTV HD
-https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/contentowner/2019/03/06/d7f12a36-50e5-4ffe-82ca-91fcf99e4ced.png" group-title="ประเทศไทย",TNN16
-http://119.59.125.74/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a&.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch107.gif" group-title="ประเทศไทย",13 Siam TV
 http://live.24livetv.net:1935/live/13wDt2b6g4/playlist.m3u8
@@ -71,7 +9,7 @@ https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_720p/playlist.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/DoChannal59.png" group-title="ประเทศไทย",Do Channel
 https://edge6av2h-cdn.com/appt3/DoChannel.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png group-title="ประเทศไทย",TVB Thai
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png" group-title="ประเทศไทย",TVB Thai
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.8875fm.com/image/topmenu/menu_logo.png" group-title="ประเทศไทย",DDTV
 http://203.156.63.20:1935/live/ddtv/playlist.m3u8
@@ -84,8 +22,6 @@ https://edge6av2h-cdn.com/appt3/Happy.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mixmajor.jpg" group-title="ประเทศไทย",MVTV Major Mix
 https://edge6av2h-cdn.com/appt7/Mix_major.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/M_channel_thailand.jpg" group-title="ประเทศไทย",M Channel
-http://203.151.83.104:1935/tdlive/tdlivest/chunklist_1024p.m3u8
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/M_channel_thailand.jpg" group-title="ประเทศไทย",M Channel
 http://27.254.142.207:8080/live/web.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvtv.jpg" group-title="ประเทศไทย",MVTV
 https://edge6av2h-cdn.com/appt7/MVTV.stream_720p/chunklist.m3u8
@@ -93,7 +29,7 @@ https://edge6av2h-cdn.com/appt7/MVTV.stream_720p/chunklist.m3u8
 https://edge6av2h-cdn.com/appt7/WSM.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/five.jpg" group-title="ประเทศไทย",MVTV Five Channel
 https://edge6av2h-cdn.com/appt3/five.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="ประเทศไทย",News 1
+#EXTINF:-1 tvg-logo="https://news1live.com/images/news1-logo.jpg" group-title="ประเทศไทย",News 1
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-logo="http://i2.wp.com/psisaradee.com/run/wp-content/uploads/2017/07/saradee.png" group-title="ประเทศไทย",PSI Saradee
 http://96.30.124.101:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
