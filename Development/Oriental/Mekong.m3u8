@@ -389,7 +389,7 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" group-title="ประเทศไทย",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png" group-title="ประเทศไทย",New18
-http://live.pjmcdn.info/live/New-TV.stream/playlist.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NEW18.m3u8
 #EXTINF:-1 tvg-logo="https://www.nationtv.tv/main/assets/images-v5/logo.png" group-title="ประเทศไทย",Nation TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/N22.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png" group-title="ประเทศไทย",Voice TV
