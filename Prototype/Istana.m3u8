@@ -45,16 +45,17 @@ https://edge6a.v2h-cdn.com/appt7/Sanook.stream_720p/playlist.m3u8
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/11.jpg" group-title="ประเทศไทย",V2H 11
 https://edge6a.v2h-cdn.com/v2h/V2H11.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/12.jpg group-title="ประเทศไทย",V2H 12
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/12.jpg" group-title="ประเทศไทย",V2H 12
 https://edge6a.v2h-cdn.com/v2h/V2H12.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/13.jpg group-title="ประเทศไทย",V2H 13
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/13.jpg" group-title="ประเทศไทย",V2H 13
 https://edge6a.v2h-cdn.com/v2h/V2H13.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/14.jpg group-title="ประเทศไทย",V2H 14
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/14.jpg" group-title="ประเทศไทย",V2H 14
 https://edge6a.v2h-cdn.com/v2h/V2H14.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/15.jpg group-title="ประเทศไทย",V2H 15
+#EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/06/15.jpg" group-title="ประเทศไทย",V2H 15
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/whitechannel.tv/wp-content/uploads/2019/03/whitelogo-1.png" group-title="ประเทศไทย",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/hbo.jpg" group-title="PREMIUM", 6. HBO
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
