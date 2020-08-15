@@ -420,10 +420,16 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
 #EXTINF:-1 tvg-ID="MLB.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="体育",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="体育",英超足球级联赛 1
+http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd2.png" group-title="体育",英超足球级联赛 2
+http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd3.png" group-title="体育",英超足球级联赛 3
+http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd4.png" group-title="体育",英超足球级联赛 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-ID="RAC.AU" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="体育",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="体育",Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="体育",Sony Ten 1
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="体育",Sony Ten 2
@@ -438,6 +444,8 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 tvg-ID="STC.AU" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png" group-title="体育",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="体育",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
 #EXTINF:-1 tvg-ID="KS1.KR" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="韩国",KBS 1
 http://211.245.55.198:1024/m2u/239.192.67.100:49220
