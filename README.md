@@ -71,8 +71,11 @@ Decent German TV List<br />
 13. Magic-Dust: https://github.com/Magic-Dust/MagicDust<br />
 Mainly for kodi, but contains some rare american tv links<br />
 
-14. Webgrabplus: http://www.webgrabplus.com/<br />
-Mother of all non commerical epg making<br />
+14. A long running dicussion of german, swiss and italian iptv links<br />
+https://www.rundfunkforum.de/viewtopic.php?f=9&t=55352<br />
+
+15. Webgrabplus: http://www.webgrabplus.com/<br />
+Mother of all non commerical epg making. It is not free software though.<br />
 
 Shout out to EDMW, 电视盒子tv box分享站 and TV Boxs app!!!<br />
 
