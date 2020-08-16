@@ -31,16 +31,12 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/La5.it.png" group-title="Italia",La 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KA)/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/it/La7.it.png" group-title="Italia",LA 7
-http://5.135.92.133:52841/out/u/101_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Iris.it.png" group-title="Italia",Iris
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KI)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="Italia",Italia 1
 http://5.135.92.133:52841/out/u/53_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/Italia2.it.png" group-title="Italia",Italia 2
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I2)/index.m3u8
-#EXTINF:-1 tvg-logo="https://mediasetitalia.com/image/0/400/100/5c9b96ebcbb22/5c9b96ebcbb22.png" group-title="Italia",Mediaset Italia
-http://5.135.92.133:52841/out/u/77_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/20Mediaset.it.png" group-title="Italia",20 Mediaset
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/MediasetExtra.it.png" group-title="Italia",Mediaset Extra
@@ -60,7 +56,7 @@ http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p
 #EXTINF:-1 tvg-logo="https://www.radiomontecarlo.net/images/logos/1/logo_white.jpg" group-title="Italia",Radio Montecarlo
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(BB)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/it/ReteQuattro.it.png" group-title="Italia",Rete 4
-http://5.135.92.133:52841/out/u/435_1.m3u8
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(R4)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/Spike.uk.png" group-title="Italia",Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/2rfpp2o.png" group-title="Italia",Sky TG 24
