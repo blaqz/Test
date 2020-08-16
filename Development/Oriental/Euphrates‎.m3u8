@@ -126,7 +126,7 @@ https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/lb/AlManar.lb.png" group-title="لبنان",Al Manar
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/lb/AlJadeed.lb.png" group-title="لبنان",Al Jadeed
-http://watch.teledunet.com:25461/live/tdn/23614613767/10146727.m3u8
+https://p-mysat-live.ercdn.net/aljadeed/aljadeed_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="لبنان",Al Mayadeen
 http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.alkarmatv.com/en/templates/alktv/images/alkarmatv-logo.png" group-title="لبنان",Al Karma
@@ -141,10 +141,16 @@ http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="لبنان",LBC
 https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="لبنان",LBC
+https://mysat-live.ercdn.net/lbchd/lbchd_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="لبنان",LBC International
 https://shls-lbci-prod.shahid.net/lbci-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="لبنان",LBC International
+https://mysat-live.ercdn.net/lbcinternational/lbcinternational_720p.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg"group-title="لبنان",MTV Lebanon
-http://51.178.43.32:25461/live/tdn/44119572164/10146728.m3u8
+https://mysat-live.ercdn.net/mtvhd/mtvhd_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Noursat-TV.png" group-title="لبنان",Nour Sat
 https://svs.itworkscdn.net/nour4satlive/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://noursat.tv/mediafiles/channels/shabab-logo.png" group-title="لبنان",Nour Sat Al Shabab
@@ -262,8 +268,10 @@ https://p-mysat-live.ercdn.net/arthekayat2/arthekayat2_576p.m3u8
 https://p-mysat-live.ercdn.net/artamerica/artamerica_576p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/129_300.png" group-title="السعودية",ART Variety
 https://p-mysat-live.ercdn.net/artvariety/artvariety_576p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/ARTCinema.sa.png" group-title="السعودية",ART Tarab
+#EXTINF:-1 tvg-id="" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/tarab.png" group-title="السعودية",ART Tarab
 https://p-mysat-live.ercdn.net/tarabtv/tarabtv_576p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/tarab.png" group-title="السعودية",ART Tarab
+https://mysat-live.ercdn.net/tarabtv/tarabtv_576p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="السعودية",Rotana Cinema
 https://rotana.hibridmedia.com/rotana/cinema_dabr/rotana/cinema_1080p/chunks.m3u8
@@ -277,6 +285,16 @@ https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_480p/chunks.m3u8
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="السعودية",Rotana Khaleejiya
 https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/rotana/khaleejiya_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="السعودية",Rotana Cinema
+https://mysat-live.ercdn.net/rotanacinema/rotanacinema_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="السعودية",Rotana Comedy
+https://mysat-live.ercdn.net/rotanacomedy/rotanacomedy_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="السعودية",Rotana Drama
+https://mysat-live.ercdn.net/rotanadrama/rotanadrama_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="السعودية",Rotana Classic
+https://mysat-live.ercdn.net/rotanaclassic/rotanaclassic_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="السعودية",Rotana Kids
+https://mysat-live.ercdn.net/rotanakids/rotanakids_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="السعودية",Al Khalij
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
@@ -308,7 +326,7 @@ https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.embratoria.net/uploads/tv_image/lana-tv.png" group-title="سوريا",Lana TV
-http://51.81.80.6:25461/live/zeko/zeko/28.m3u8
+https://mysat-live.ercdn.net/lanatv/lanatv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.embratoria.net/uploads/tv_image/lana-plus.png" group-title="سوريا",Lana Plus
 https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://i5.satexpat.com/cha/sy/syrianTV-95x30.gif" group-title="سوريا",Syrian TV
