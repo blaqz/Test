@@ -26,9 +26,9 @@ https://exodiver.github.io/IPTV/EPG/guide_71.xml<br />
 
 5. Some of the link (especially the Geo-Restricted link) can be play with tivimate/tvirl without the need for a VPN/Smart DNS. So if it can't be play with other iptv program, do consider using tivimate/tvirl. <br />
 
-6. For sports channel lover, please support your cable tv provider. Their streams are the best, no doubt. I have never find a stable, fast unofficial sports streaming link in my entire life, chances are you will feel the same <br />
+6. For sports channel lover, please support your cable tv provider. Their streams are the best, no doubt. I have never find a stable, fast and unofficial sports streaming link in my entire life, chances are you will feel the same <br />
 
-7. None of the links is my work. I just choose to share my private tv collection of links. <br />
+7. None of the links is my work. I just choose to share my private collection of iptv links. <br />
 
 ## Thanks
 
