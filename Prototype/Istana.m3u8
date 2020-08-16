@@ -11,17 +11,6 @@ http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/history2.png" group-title="PREMIUM", 50. History2 HD
 http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",ZDF
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-ID=" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",ZDFneo
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-ID="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",ZDFneo
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-ID="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",ZDFneo
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-ID="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",ZDFneo
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8|X-Forwarded-For=91.197.29.78
-
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapura",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapura",Channel 5 VPN
