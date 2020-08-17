@@ -32,8 +32,6 @@ https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8
 https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="新马",TV9(马来西亚)
 https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://www.telered.com.ar/img/touch-icon-iphone-retinahd-precomposed-19092018.png" group-title="新马",Telered
-http://181.209.95.107:8000/play/a082/index.m3u8
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
 http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
