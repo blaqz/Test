@@ -184,9 +184,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV-5+ 体育赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="体育",CCTV 风云足球
-http://39.135.15.70:6610/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+http://39.135.19.169:18890/PLTV/88888888/224/3221225734//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.zzhaoz.com/d/file/cctvfaxian/2014-05-06/f0233de4ffad01315dd2ae362ead5ea1.jpg" group-title="体育",CCTV 高尔夫网球
-http://39.135.15.70:6610/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+http://39.135.19.169:18890/PLTV/88888888/224/3221225674//index.m3u8?fmt=ts2hls
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="体育",北京冬奥纪实
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="体育",武术世界 
@@ -256,26 +257,28 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 http://39.134.157.199/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国",CCTV-17 农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="中国",CCTV 兵器科技
-http://39.135.15.70:6610/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
+http://39.135.19.169:18890/PLTV/88888888/224/3221225676//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdianshizhinan.png" group-title="中国",CCTV 电视指南
-http://39.135.15.70:6610/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
+http://39.135.19.169:18890/PLTV/88888888/224/3221225673//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="中国",CCTV 第一剧场
-http://39.135.15.70:6610/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+http://39.135.19.169:18890/PLTV/88888888/224/3221225702//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="中国",CCTV 风云剧场
-http://39.135.15.70:6610/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+http://39.135.19.169:18890/PLTV/88888888/224/3221225700//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="中国",CCTV 风云音乐
-http://39.135.15.70:6610/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+http://39.135.19.169:18890/PLTV/88888888/224/3221225698//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="中国",CCTV 怀旧剧场
-http://39.135.15.70:6610/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+http://39.135.19.169:18890/PLTV/88888888/224/3221225765//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="中国",CCTV 老故事
 http://39.135.15.70:6610/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="中国",CCTV 女性时尚
-http://39.135.15.70:6610/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+http://39.135.19.169:18890/PLTV/88888888/224/3221225699//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="中国",CCTV 世界地理
-http://39.135.15.70:6610/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="中国",CCTV 央视文化精品
-http://39.135.15.70:6610/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+http://39.135.19.169:18890/PLTV/88888888/224/3221225733//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="中国",CCTV 文化精品
+http://39.135.19.169:18890/PLTV/88888888/224/3221225675//index.m3u8?fmt=ts2hls
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="中国",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
