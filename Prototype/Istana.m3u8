@@ -11,11 +11,6 @@ http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/history2.png" group-title="PREMIUM", 50. History2 HD
 http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/ph/ANC.ph.png" group-title="Pilipinas",ANC
-https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master480p.m3u8|X-Forwarded-For=45.134.224.4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/345px-Kapamilya_Channel.png" group-title="Pilipinas",Kapamilya Channel
-https://amdottlive.akamaized.net/hls/live/2015473/iwantabscbn/master480p.m3u8|X-Forwarded-For=45.134.224.4
-
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapura",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapura",Channel 5 VPN
