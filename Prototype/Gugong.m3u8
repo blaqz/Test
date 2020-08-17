@@ -212,13 +212,13 @@ http://39.130.206.213:6410/gitv_live/HENAN/HENAN.m3u8
 #EXTINF:-1 tvg-id="HLJ.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="中国",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8
 #EXTINF:-1 tvg-id="HUB.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="中国",湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225705/index.m3u8
+http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226124/2.m3u8
 #EXTINF:-1 tvg-id="JLW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="中国",吉林卫视
 http://stream4.jlntv.cn/test2/sd/live.m3u8
 #EXTINF:-1 tvg-id="JXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="中国",江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225615/index.m3u8
 #EXTINF:-1 tvg-id="LNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="中国",辽宁卫视
-http://39.130.206.213:6410/gitv_live/LNWS/LNWS.m3u8 
+http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226157/3.m3u8
 #EXTINF:-1 tvg-id="NNN.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="中国",内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="中国",宁夏卫视
