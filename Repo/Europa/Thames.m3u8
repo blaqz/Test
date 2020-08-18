@@ -10,8 +10,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="News",BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="News",BBC News
-http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/825.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="News",BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="News",CBS News
@@ -567,7 +565,7 @@ http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/807.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCOneNorthernIreland.uk.png" group-title="UK",BBC 1 Northern Ireland
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/810.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="UK",BBC One Scotland
-http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/812.m3u8
+http://51.52.156.22:8888/http/001
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/BBCOneScotland.uk.png" group-title="UK",BBC One Scotland
 https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
