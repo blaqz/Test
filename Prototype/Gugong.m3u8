@@ -522,7 +522,7 @@ http://203.162.235.41:16916
 http://103.47.132.164/PLTV/88888888/224/3221227187/index.m3u8
 
 #EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="英国",BBC 1
-http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/807.m3u8
+http://51.52.156.22:8888/http/011
 #EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="英国",BBC 2
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/814.m3u8
 #EXTINF:-1 tvg-id="CB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="英国",BBC 4
