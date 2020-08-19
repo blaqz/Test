@@ -133,10 +133,21 @@ http://hbxx.chinashadt.com:3299/live/stream%3Adi7.stream_360p/chunklist.m3u8
 http://hbxx.chinashadt.com:3299/live/stream%3Adi8.stream_360p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xiantaotv.jpg" group-title="地方电视",仙桃新闻综合(湖北)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xiantaotv.jpg" group-title="湖北",仙桃新闻综合
 http://221.233.242.239:280/live/71/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xiantaotv.jpg" group-title="地方电视",仙桃文体生活(湖北)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xiantaotv.jpg" group-title="湖北",仙桃文体生活
 http://221.233.242.239:280/live/72/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="内蒙古",内蒙古经济生活
+http://live5.m2oplus.nmtv.cn/2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="内蒙古",内蒙古内蒙古农牧
+http://live4.m2oplus.nmtv.cn/6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="内蒙古",内蒙古内蒙古少儿
+http://live5.m2oplus.nmtv.cn/4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="内蒙古",内蒙古内蒙古文体娱乐
+http://live4.m2oplus.nmtv.cn/8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="内蒙古",内蒙古内蒙古新闻综合
+http://live4.m2oplus.nmtv.cn/7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/lnjj.jpg" group-title="辽宁",沈阳新闻
 http://lms.csytv.com/Live/122/live/livestream.m3u8
