@@ -74,14 +74,14 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="购物",聚鲨环球精选
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="购物",吉林家有购物
+http://stream1.jlntv.cn/jygw/sd/live.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="安徽",六安新闻综合
 http://live.china-latv.com/channel1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="安徽",六安公共
 http://live.china-latv.com/channel2/sd/live.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.zhiboba.org/zbbimg/fujianzonghepindao_zbb.jpg" group-title="福建",福建综合
 http://stream5.fjtv.net/zhpd/sd/live.m3u8
@@ -97,10 +97,52 @@ http://stream6.fjtv.net/child/sd/live.m3u8
 http://stream6.fjtv.net/dspd/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.zhiboba.org/zbbimg/fujiandianshiju_zbb.png" group-title="福建",福建电视剧
 http://stream5.fjtv.net/dsjpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="福建",厦门1
+https://live1.kxm.xmtv.cn/xm1/tvzb/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="福建",厦门2
+https://live1.kxm.xmtv.cn/xm2/tvzb/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="福建",厦门3
+https://live1.kxm.xmtv.cn/xm3/tvzb/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="福建",厦门移动电视
+https://live1.kxm.xmtv.cn/xmyidong/tvzb/live.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/hztv1.jpg" group-title="广东",惠州新闻综合
 http://dslive.grtn.cn/hzzh/sd/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",吉林电视台
+http://stream2.jlntv.cn/jilin1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",吉林都市
+http://stream1.jlntv.cn/dspd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",吉林生活
+http://stream1.jlntv.cn/shpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",吉林影视
+http://stream1.jlntv.cn/yspd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",吉林影视
+http://stream4.jlntv.cn/test4/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",吉林乡村
+http://stream1.jlntv.cn/xcpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",吉林公共新闻
+http://stream1.jlntv.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",吉林7
+http://stream1.jlntv.cn/fzpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",吉林东北戏曲
+http://stream1.jlntv.cn/dbxq/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",长春电视台
+http://stream2.jlntv.cn/jlcc/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",四平电视台
+http://stream2.jlntv.cn/sptv/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",辽源电视台
+http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",通化电视台
+http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",白山电视台
+http://stream2.jlntv.cn/baishan1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",白城电视台
+http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="吉林",长白山电视台
+http://stream2.jlntv.cn/jlyb/sd/live.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5233533258.jpg" group-title="黑龙江",HRB新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
