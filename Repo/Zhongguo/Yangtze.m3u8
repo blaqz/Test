@@ -7,7 +7,7 @@ http://live.centerch.com/fhzw.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/CNC_World_logo.png/220px-CNC_World_logo.png" group-title="新闻台",中国新华新闻
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.yicai.com/img/logo.66870cb6.png" group-title="新闻台",第一财经
-https://w1live.livecdn.yicai.com/live/cbn.m3u8
+http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="新闻台",無綫新聞台
 http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="新闻台",無綫財經資訊台
@@ -61,8 +61,6 @@ http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="电影",好莱坞电影
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/cz/HBO.cz.png" group-title="电影",HBO 中文
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="电影",CCTV-6 电影
 http://221.230.141.252/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
 
@@ -74,13 +72,13 @@ https://www.fanmingming.cn/hls/chctv.m3u8
 https://www.fanmingming.cn/hls/chcatv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="动漫",哈哈炫动
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="动漫",卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="动漫",优漫卡通
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://5b0988e595225.cdn.sohucs.com/images/20180219/ee9882c518014401b0afd9170ee0f8d3.jpeg" group-title="动漫",动漫秀场
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225996/index.m3u8
+http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226145/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="动漫",金鹰卡通
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c9/JJKT_logo.png" group-title="动漫",嘉佳卡通
@@ -89,7 +87,6 @@ http://39.134.157.205/PLTV/88888888/224/3221225628/index.m3u8
 http://39.135.15.70:6610/PLTV/88888888/224/3221225678/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" group-title="动漫",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.baipin.pw/wp-content/uploads/2019/07/8b13632762d0f70343dbf12502fa513d2797c5da.png" group-title="教育/纪录",求索纪录
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
@@ -117,7 +114,7 @@ http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="教育/纪录",纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="教育/纪录",全纪实
-http://60.255.149.209/tslive/c214_scc_20190618_v5ehytok_original_r10/c214_scc_20190618_v5ehytok_original_r10.m3u8&
+http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226180/3.m3u8
 #EXTINF:-1 ch-id="求索记录" tvg-logo="https://tv.baipin.pw/wp-content/uploads/2019/07/8b13632762d0f70343dbf12502fa513d2797c5da.png" group-title="教育/纪录",求索记录
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 #EXTINF:-1 ch-id="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="教育/纪录",求索动物
@@ -128,7 +125,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="游戏竞争",游戏风云
-http://112.17.40.140/PLTV/88888888/224/3221226726/index.m3u8
+http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226146/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z50R155360-L.jpg" group-title="游戏竞争",黑莓电竟
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8
 
@@ -140,7 +137,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 http://39.135.19.169:18890/PLTV/88888888/224/3221225734//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.zzhaoz.com/d/file/cctvfaxian/2014-05-06/f0233de4ffad01315dd2ae362ead5ea1.jpg" group-title="体育",CCTV 高尔夫网球
 http://39.135.19.169:18890/PLTV/88888888/224/3221225674//index.m3u8?fmt=ts2hls
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/wuxingtiyu.png" group-title="体育",五星体育
+http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225964/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="体育",北京冬奥纪实
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="体育",武术世界 
@@ -288,7 +286,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225636/index.m3u8
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="中国",新疆卫视
 http://tv.boye.ml/iptv/xjtv.php?id=1tuan.png
-#EXTINF:-1 tvg-id="XJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="中国",兵团卫视
+#EXTINF:-1 tvg-id="" tvg-logo=https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/ws/bingtuan.png group-title="中国",兵团卫视
 http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.czlogo.com/uploads/image/2019/09/19/15688776722303.jpg" group-title="中国",农林卫视
 http://39.130.206.213:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8 
@@ -464,12 +462,12 @@ https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="少数民族",安多卫视
 http://39.134.157.205/PLTV/88888888/224/3221225541/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/SCTV-1_logo.png/225px-SCTV-1_logo.png" group-title="少数民族",康巴卫视
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png group-title="少数民族",康巴卫视
 http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg" group-title="少数民族",迪庆藏语
 http://39.130.206.213:6410/gitv_live/G_DIQINGZY/G_DIQINGZY.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="少数民族",西藏藏语
-http://39.135.15.70:6610/PLTV/88888888/224/3221225697/1/index.m3u8?fmt=ts2hls
+http://39.135.19.169:18890/PLTV/88888888/224/3221225697//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.mnb.mn/images/mini/tv.png" group-title="少数民族",МҮОНТ-1
 http://103.14.38.107:1935/live/mnb.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.mnb.mn/images/mini/mnews.png" group-title="少数民族",Монголын Мэдээ
@@ -478,7 +476,7 @@ http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8
 http://live5.m2oplus.nmtv.cn/3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="少数民族",内蒙古蒙语文化
 http://live5.m2oplus.nmtv.cn/5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nettv.live/uploads/18/1-1P319114F2353.jpg" group-title="少数民族",延边电视台
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/ws/YANBIAN1.png" group-title="少数民族",延边电视台
 http://stream2.jlntv.cn/jlyb/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/jwNci4iRDbc/maxresdefault.jpg" group-title="华裔卫视",亞美卫视
