@@ -167,9 +167,9 @@ http://101.71.255.229:6610/zjhs/2/10005/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.weathertv.cn/m/i/documentary/logo.png" group-title="中国",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="中国",中国交通
-http://tv.lanjingfm.com/cctbn/beijing.m3u8
+http://39.135.139.199:6610/PLTV/88888888/224/3221225877/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国",CCTV-4K 超高清
-http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel51021/2300.m3u8
+http://39.135.139.199:6610/PLTV/88888888/224/3221225786/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2 财经
