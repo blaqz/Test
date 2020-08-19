@@ -84,11 +84,12 @@ http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225996/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="动漫",金鹰卡通
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c9/JJKT_logo.png" group-title="动漫",嘉佳卡通
-http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
+http://39.134.157.205/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%8A%A8%E7%94%BB.png" group-title="动漫",CCTV 新科动漫
 http://39.135.15.70:6610/PLTV/88888888/224/3221225678/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" group-title="动漫",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.baipin.pw/wp-content/uploads/2019/07/8b13632762d0f70343dbf12502fa513d2797c5da.png" group-title="教育/纪录",求索纪录
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
@@ -110,7 +111,7 @@ http://39.135.15.70:6610/PLTV/88888888/224/3221225679/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVzhongxuesheng.png" group-title="教育/纪录",CCTV 中学生
 http://39.135.15.70:6610/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://pic.iask.cn/fimg/78078440198.jpg" group-title="教育/纪录",山东教育
-http://111.40.205.87/PLTV/88888888/224/3221225655/index.m3u8
+http://39.134.157.205/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="教育/纪录",纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="教育/纪录",全纪实
@@ -462,7 +463,7 @@ https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
 https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="少数民族",安多卫视
-http://111.40.205.76/PLTV/88888888/224/3221225659/index.m3u8
+http://39.134.157.205/PLTV/88888888/224/3221225541/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/SCTV-1_logo.png/225px-SCTV-1_logo.png" group-title="少数民族",康巴卫视
 http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg" group-title="少数民族",迪庆藏语
