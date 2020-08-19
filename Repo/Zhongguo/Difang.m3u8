@@ -189,6 +189,25 @@ http://39.130.206.213:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8
 http://39.130.206.213:6410/gitv_live/G_YNTV-6-HD/G_YNTV-6-HD.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云南少儿
 http://39.130.206.213:6410/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云南国际
+http://39.130.206.213:6410/gitv_live/G_YNTVGJ/G_YNTVGJ.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云南生活资讯
+http://39.130.206.213:6410/gitv_live/G_YNTV-4/G_YNTV-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云南移动电视
+http://39.130.206.213:6410/gitv_live/G_QICAIGONGJIAO/G_QICAIGONGJIAO.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云昆明公共
+http://39.130.206.213:6410/gitv_live/G_KMTV-6/G_KMTV-6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云昆明影视综艺
+http://39.130.206.213:6410/gitv_live/G_KMTV-5/G_KMTV-5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云昆明文体娱乐
+http://39.130.206.213:6410/gitv_live/G_KMTV-4/G_KMTV-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云昆明新闻综合
+http://39.130.206.213:6410/gitv_live/G_KMTV-1/G_KMTV-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云昆明科学教育
+http://39.130.206.213:6410/gitv_live/G_KMTV-3/G_KMTV-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云昆明经济生活
+http://39.130.206.213:6410/gitv_live/G_KMTV-2/G_KMTV-2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",孟连
 http://39.130.206.213:6410/gitv_live/G_MENGLIAN/G_MENGLIAN.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",宾川
@@ -221,7 +240,122 @@ http://39.130.206.213:6410/gitv_live/G_HONGHETV-1/G_HONGHETV-1.m3u8
 http://39.130.206.213:6410/gitv_live/G_DIQING-1/G_DIQING-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",隆阳
 http://39.130.206.213:6410/gitv_live/G_LONGYANG/G_LONGYANG.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",临沧1
+http://39.130.206.213:6410/gitv_live/G_LINCANGTV-1/G_LINCANGTV-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",临沧2
+http://39.130.206.213:6410/gitv_live/G_LINCANGTV-2/G_LINCANGTV-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",临翔
+http://39.130.206.213:6410/gitv_live/G_LCLINXIANG/G_LCLINXIANG.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云县
+http://39.130.206.213:6410/gitv_live/G_LCYUNXIAN/G_LCYUNXIAN.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",云龙
+http://39.130.206.213:6410/gitv_live/G_YUNLONGTV-1/G_YUNLONGTV-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",保山1
+http://39.130.206.213:6410/gitv_live/G_BAOSHANTV-1/G_BAOSHANTV-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",保山1
+http://39.130.206.213:6410/gitv_live/G_BAOSHANXW/G_BAOSHANXW.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",保山2
+http://39.130.206.213:6410/gitv_live/G_BAOSHANGG/G_BAOSHANGG.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",保山2
+http://39.130.206.213:6410/gitv_live/G_BAOSHANTV-2/G_BAOSHANTV-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",保山3
+http://39.130.206.213:6410/gitv_live/G_BAOSHANKJ/G_BAOSHANKJ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",保山3
+http://39.130.206.213:6410/gitv_live/G_BAOSHANTV-3/G_BAOSHANTV-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",元谋
+http://39.130.206.213:6410/gitv_live/G_YUANMOU/G_YUANMOU.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",元阳
+http://39.130.206.213:6410/gitv_live/G_YUANYANG/G_YUANYANG.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",凤庆
+http://39.130.206.213:6410/gitv_live/G_LCFENGQING/G_LCFENGQING.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",南华
+http://39.130.206.213:6410/gitv_live/G_NANHUA/G_NANHUA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",双柏
+http://39.130.206.213:6410/gitv_live/G_SHUANGBAI/G_SHUANGBAI.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",双江
+http://39.130.206.213:6410/gitv_live/G_LCSHUANGJIANG/G_LCSHUANGJIANG.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",大理农业生活
+http://39.130.206.213:6410/gitv_live/G_DALITV-2/G_DALITV-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",大理新闻综合
+http://39.130.206.213:6410/gitv_live/G_DALITV-1/G_DALITV-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",大理旅游文化
+http://39.130.206.213:6410/gitv_live/G_DALITV-3/G_DALITV-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",姚安
+http://39.130.206.213:6410/gitv_live/G_YAOAN/G_YAOAN.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",屏边
+http://39.130.206.213:6410/gitv_live/G_PINGBIAN/G_PINGBIAN.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",建水
+http://39.130.206.213:6410/gitv_live/G_JIANSHUI/G_JIANSHUI.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",开远1
+http://39.130.206.213:6410/gitv_live/G_KAIYUAN/G_KAIYUAN.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",弥渡
+http://39.130.206.213:6410/gitv_live/G_MIDUTV-1/G_MIDUTV-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",德宏公共
+http://39.130.206.213:6410/gitv_live/G_DEHONG-2/G_DEHONG-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",德宏新闻综合
+http://39.130.206.213:6410/gitv_live/G_DEHONG-1/G_DEHONG-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",德钦
+http://39.130.206.213:6410/gitv_live/G_DIQINGDQ/G_DIQINGDQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",施甸
+http://39.130.206.213:6410/gitv_live/G_SHIDIAN/G_SHIDIAN.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",昭通1
+http://39.130.206.213:6410/gitv_live/G_ZHAOTONG-1/G_ZHAOTONG-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",昭通3
+http://39.130.206.213:6410/gitv_live/G_ZHAOTONG-3/G_ZHAOTONG-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",普洱1
+http://39.130.206.213:6410/gitv_live/G_PUERTV-1/G_PUERTV-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",普洱3
+http://39.130.206.213:6410/gitv_live/G_PUERTV-3/G_PUERTV-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",曲靖1
+http://39.130.206.213:6410/gitv_live/G_QUJING-1/G_QUJING-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",曲靖2
+http://39.130.206.213:6410/gitv_live/G_QUJING-2/G_QUJING-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",曲靖3
+http://39.130.206.213:6410/gitv_live/G_QUJING-3/G_QUJING-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",武定
+http://39.130.206.213:6410/gitv_live/G_WUDING/G_WUDING.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",永德
+http://39.130.206.213:6410/gitv_live/G_LCYONGDE/G_LCYONGDE.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",永胜
+http://39.130.206.213:6410/gitv_live/G_YONGSHENG/G_YONGSHENG.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",沧源
+http://39.130.206.213:6410/gitv_live/G_LCCANGYUAN/G_LCCANGYUAN.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",河口
+http://39.130.206.213:6410/gitv_live/G_HEKOU/G_HEKOU.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",泸西
+http://39.130.215.169:6610/gitv_live/G_LUXI/G_LUXI.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",牟定
+http://39.130.206.213:6410/gitv_live/G_MOUDING/G_MOUDING.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",盈江
+http://39.130.206.213:6410/gitv_live/G_DEHONGYJ/G_DEHONGYJ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",石屏
+http://39.130.206.213:6410/gitv_live/G_SHIPING/G_SHIPING.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",禄丰
+http://39.130.206.213:6410/gitv_live/G_LUFENG/G_LUFENG.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",红河
+http://39.130.206.213:6410/gitv_live/G_HONGHEXIAN/G_HONGHEXIAN.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",维西
+http://39.130.206.213:6410/gitv_live/G_DIQINGWX/G_DIQINGWX.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",绿春
+http://39.130.206.213:6410/gitv_live/G_LVCHUN/G_LVCHUN.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",耿马
+http://39.130.206.213:6410/gitv_live/G_LCGENGMA/G_LCGENGMA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",腾冲
+http://39.130.206.213:6410/gitv_live/G_TENGCHONG/G_TENGCHONG.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",芒市
+http://39.130.206.213:6410/gitv_live/G_DEHONGMS/G_DEHONGMS.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",西双版纳公共
+http://39.130.206.213:6410/gitv_live/G_XSBNTV-2/G_XSBNTV-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",西双版纳综合
+http://39.130.206.213:6410/gitv_live/G_XSBNTV-1/G_XSBNTV-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",金平
+http://39.130.206.213:6410/gitv_live/G_JINPING/G_JINPING.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",镇康
+http://39.130.206.213:6410/gitv_live/G_LCZHENKANG/G_LCZHENKANG.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",香格里拉
+http://39.130.206.213:6410/gitv_live/G_DIQINGXGLL/G_DIQINGXGLL.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="云南",龙陵
+http://39.130.206.213:6410/gitv_live/G_LONGLING/G_LONGLING.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://img01.cztv.com/201606/09/26ae79a65e60561898b8a5d3c4936c51.jpg" group-title="浙江",浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
