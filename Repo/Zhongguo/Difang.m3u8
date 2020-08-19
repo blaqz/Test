@@ -361,6 +361,14 @@ http://video.dztv.tv:1935/live/dspd_gq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rzggpd.jpg" group-title="山东",日照公共
 http://stream.rzw.com.cn/kzpd/sd/live.m3u8
 
+
+西安1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
+西安2 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
+西安3 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
+西安4 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
+西安丝路 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
+西安教育 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="山西",山西公共
 http://springrain.top/shuliyun.php?id=061
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="山西",山西导视
