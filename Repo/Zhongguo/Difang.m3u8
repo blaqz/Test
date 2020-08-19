@@ -282,14 +282,46 @@ http://39.135.19.169:18890/PLTV/88888888/224/3221225714//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南",河环球奇观
 http://39.135.19.169:18890/PLTV/88888888/224/3221225681//index.m3u8?fmt=ts2hls
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="重庆",四川文化旅游
+http://scgctvshow.sctv.com/hdlive/sctv2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="重庆",四川经济
+http://scgctvshow.sctv.com/hdlive/sctv3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="重庆",四川新闻
+http://scgctvshow.sctv.com/hdlive/sctv4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="重庆",四川影视文艺
+http://scgctvshow.sctv.com/hdlive/sctv5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv6.png group-title="重庆",四川星空购物
+http://scgctvshow.sctv.com/hdlive/sctv6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="重庆",四川妇女儿童
+http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="重庆",四川公共农村
+http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="重庆",四川峨眉电影
+http://scgctvshow.sctv.com/hdlive/emei/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="重庆",重庆汽摩
 http://39.135.19.169:18890/PLTV/88888888/224/3221225736//index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.pn" group-title="江苏",江苏靓装
 http://39.135.19.169:18890/PLTV/88888888/224/3221225680//index.m3u8?fmt=ts2hls
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西",江西新闻
+http://39.135.139.199:6610/PLTV/88888888/224/3221225615/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西",江西少儿
+http://39.135.139.199:6610/PLTV/88888888/224/3221226194/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西",江西公共农业
+http://39.135.139.199:6610/PLTV/88888888/224/3221225578/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西",江西影视
+http://39.135.139.199:6610/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西",江西经济生活
+http://39.135.139.199:6610/PLTV/88888888/224/3221225580/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西",江西都市
+http://39.135.139.199:6610/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西",九江新闻综合
+http://39.135.139.199:6610/PLTV/88888888/224/3221225774/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西",九江公共
+http://39.135.139.199:6610/PLTV/88888888/224/3221225775/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西",吉州
+http://39.135.139.199:6610/PLTV/88888888/224/3221225679/2/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="贵州",贵州2
 http://39.135.19.169:18890/PLTV/88888888/224/3221225682//index.m3u8?fmt=ts2hls
@@ -360,14 +392,22 @@ http://39.135.19.169:18890/PLTV/88888888/224/3221225995//index.m3u8?fmt=ts2hls
 http://video.dztv.tv:1935/live/dspd_gq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rzggpd.jpg" group-title="山东",日照公共
 http://stream.rzw.com.cn/kzpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rzggpd.jpg" group-title="山东",青岛中华美食
+http://39.135.139.199:6610/PLTV/88888888/224/3221225878/2/index.m3u8?fmt=ts2hls
 
 
-西安1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
-西安2 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
-西安3 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
-西安4 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
-西安丝路 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
-西安教育 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+西安1
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
+西安2
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
+西安3
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
+西安4
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
+西安丝路
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
+西安教育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="山西",山西公共
 http://springrain.top/shuliyun.php?id=061
