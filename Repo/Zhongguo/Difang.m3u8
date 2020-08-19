@@ -11,6 +11,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 江西 
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 云南
+http://39.134.66.66/PLTV/88888888/224/3221225773/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 东北热剧 
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 东北热剧 
@@ -43,7 +45,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 金牌综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-NewTV 明星大片
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 明星大片
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
@@ -61,7 +63,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="NewTV",NewTV 怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="购物",央广购物 
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225709/index.m3u8
@@ -115,6 +116,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225762/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225784/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.nettv.live/uploads/18/1-1PR523550C59.jpg" group-title="黑龙江",大庆新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/hebtv3.jpg" group-title="河北",河北都市
