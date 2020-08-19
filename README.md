@@ -1,6 +1,6 @@
 # IPTV
 
-Hi all, this is just a public list I compile in my hobby time. Feel free to fork or take whatever you want. I hope you all will be inspired to make more tidy playlists of your own.<br /> 
+Hi all,this is just a public list I compile in my hobby time. Feel free to fork or take whatever you want. I hope you all will be inspired to make more tidy playlists of your own.<br /> 
 
 ## Usage
 
@@ -8,25 +8,25 @@ All the M3U-playlist is very very experimental at the moment. The GoCast playlis
 
 At the moment I maintain 2 playlists at the GoCast2 section for an Malaysian/Singaporean audience:<br />
 
-- https://exodiver.github.io/IPTV/Prototype/Gugong.m3u8 (Orient focused playlist - Chinese, Korean, Japanese)<br />
-- https://exodiver.github.io/IPTV/Prototype/Istana.m3u8 (Malay/Indian  focused playlist - Malaysia, Indonesia, Major Thai/Arab/Turkish,Hindi/Bengali/Urdu/Malayalam/Punjabi,Tamil TV Channel)<br />
+- https://exodiver.github.io/IPTV/Prototype/Gugong.m3u8 (Orient focused playlist - Chinese,Korean,Japanese)<br />
+- https://exodiver.github.io/IPTV/Prototype/Istana.m3u8 (Malay/Indian  focused playlist - Malaysia,Indonesia,Major Thai/Arab/Turkish,Hindi/Bengali/Urdu/Malayalam/Punjabi,Tamil TV Channel)<br />
 
 And an very very very very very very experiemental EPG:<br />
 https://exodiver.github.io/IPTV/EPG/guide_71.xml<br />
 
 ## Complaints FAQ
 
-1. If link is down, do drop me a message. I have a day job too, so don't expect any quick support unless you want donate money or servers to me. <br />
+1. If link is down,do drop me a message. I have a day job too,so don't expect any quick support unless you want donate money or servers to me. <br />
 
-2. I don't sell or trade IPTV list. If I don't share a link, it is because it does not work for me.<br />
+2. I don't sell or trade IPTV list. If I don't share a link,it is because it does not work for me.<br />
 
 3. Be considerate and civilised<br />
 
-4. PLEASE don't rely it as your daily iptv day or use this list for your business. I change the contents of playlist all the time. So your channel goes missing, chances are that they link can't work for me and you.<br />
+4. PLEASE don't rely it as your daily iptv day or use this list for your business. I change the contents of playlist all the time. So your channel goes missing,chances are that they link can't work for me and you.<br />
 
-5. Some of the link (especially the Geo-Restricted link) can be play with tivimate/tvirl without the need for a VPN/Smart DNS. So if it can't be play with other iptv program, do consider using tivimate/tvirl. <br />
+5. Some of the link (especially the Geo-Restricted link) can be play with tivimate/tvirl without the need for a VPN/Smart DNS. So if it can't be play with other iptv program,do consider using tivimate/tvirl. <br />
 
-6. For sports channel lover, please support your cable tv provider. Their streams are the best, no doubt. I have never find a stable, fast and unofficial sports streaming link in my entire life, chances are you will feel the same <br />
+6. For sports channel lover,please support your cable tv provider. Their streams are the best,no doubt. I have never find a stable,fast and unofficial sports streaming link in my entire life,chances are you will feel the same <br />
 
 7. None of the links is my work. I just choose to share my private collection of iptv links. <br />
 
@@ -62,7 +62,7 @@ Please understand the monthly cost of ensuring a smooth watching experience for 
 Ans: <br />
 I love to but I am looking for a player that support epg in the xmltv.<br />
 
-4. Any plans to include p2p, rstp, vjms or whatever exotic links in the playlist?<br />
+4. Any plans to include p2p,rstp,vjms or whatever exotic links in the playlist?<br />
 
 Ans: <br />
 No.<br />
@@ -89,7 +89,7 @@ They don't work for most IPTV players.<br />
 8. Do you want to start an IPTV reseller business with me?<br />
 
 Ans: <br />
-No. I am not in the IPTV business. The earning are quite low plus you might find yourself in legal trouble, especially if the copyright holder has ton of money and time to take you to court <br />
+No. I am not in the IPTV business. The earning are quite low plus you might find yourself in legal trouble,especially if the copyright holder has ton of money and time to take you to court <br />
 
 
 9. Are you a IPTV reseller using this to promote your business? <br />
@@ -113,14 +113,14 @@ Webgrabplus. It is 5 Euros a year.<br />
 2. Why no tv guide for my channel?<br />
 
 Ans: <br />
-Because no one published a tv guide for your channel on the internet. If there isn't one, I can't do anything.<br />
+Because no one published a tv guide for your channel on the internet. If there isn't one,I can't do anything.<br />
 
 3. Any plans for a compressed EPG? The EPG is like 30MB and I am on a internet plan that offers very little data  <br />
 
 Ans: <br />
 Very soon<br />
 
-4. Why the tv guide for my channel does not appear, despite it being in the EPG?
+4. Why the tv guide for my channel does not appear,despite it being in the EPG?
 
 Ans: <br />
 1) Please check that the address for EPG in your player is https://exodiver.github.io/IPTV/EPG/guide_71.xml <br />
@@ -132,11 +132,11 @@ Ans: <br />
 Ans: <br />
 To give flexbility to user who might want to use a different channel name.  <br />
 
-Like maybe 動物星球頻道, instead of Animal Planet. <br />
+Like maybe 動物星球頻道,instead of Animal Planet. <br />
 
-Or maybe TV3, instead of TV3 (Lativa).<br />
+Or maybe TV3,instead of TV3 (Lativa).<br />
 
-This ensures that player is able to connect to the correct TV listing for the channel, regardless of the channel name.<br />
+This ensures that player is able to connect to the correct TV listing for the channel,regardless of the channel name.<br />
 
 ## Thanks
 
@@ -147,7 +147,7 @@ The Russian Guy who started it all. And still the top dog.<br />
 The Belgium guy that is a legend in IPTV link Collection<br />
 
 3. Bertperrisor: https://github.com/freeview/iptv<br />
-Best Resource for Singapore, Malaysia TV<br />
+Best Resource for Singapore,Malaysia TV<br />
 
 4. Geonsey: https://github.com/geonsey/Free2ViewTV<br />
 Best Collection of Legal IPTV Link for the north america stations.<br />
@@ -171,21 +171,21 @@ Japanese/Japanophile who loves everything east asia. But his japanese links are 
 Spain number one IPTV Resource <br />
 
 11. NoMaN-IPTV: https://github.com/NoMaN-IPTV<br />
-Very promising Astro Replacement, I learn a thing or two from looking at his/her link.<br />
+Very promising Astro Replacement,I learn a thing or two from looking at his/her link.<br />
 
 12. JKN22: https://github.com/jnk22/kodinerds-iptv<br />
 Decent German TV List<br />
 
 13. Magic-Dust: https://github.com/Magic-Dust/MagicDust<br />
-Mainly for kodi, but contains some rare american tv links<br />
+Mainly for kodi,but contains some rare american tv links<br />
 
-14. A long running dicussion of german, swiss and italian iptv links<br />
+14. A long running dicussion of german,swiss and italian iptv links<br />
 https://www.rundfunkforum.de/viewtopic.php?f=9&t=55352<br />
 
 15. Webgrabplus: http://www.webgrabplus.com/<br />
 Mother of all non commerical epg making. It is not free software though.<br />
 
-Shout out to EDMW, 电视盒子tv box分享站 and TV Boxs app!!!<br />
+Shout out to EDMW,电视盒子tv box分享站 and TV Boxs app!!!<br />
 
 Love you all,<br />
 Shell Shock<br />
