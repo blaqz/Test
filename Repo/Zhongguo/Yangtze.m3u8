@@ -343,6 +343,8 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ctstvnet.com/resources/res_1/pc/images/logo.png" group-title="粵語",亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 tvg-ID="618.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png" group-title="粵語",有線18台
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/17
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg" group-title="粵語",澳視澳門台
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
