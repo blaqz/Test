@@ -332,6 +332,10 @@ http://pili-live-hls.hebitv.com/hexi/hebi.m3u8
 http://stream4.liveyun.hoge.cn/zztv2/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/qingyangwenhua.jpg" group-title="河南",新安電視
 http://live.dxhmt.cn:9081/tv/10323-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/qingyangwenhua.jpg" group-title="河南",周口科教文化
+http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/qingyangwenhua.jpg" group-title="河南",周口圖文信息
+http://tv.zkxww.com:1935/live4/mp4:ch4-500k/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xiantaotv.jpg" group-title="湖北",仙桃新闻综合
 http://221.233.242.239:280/live/71/playlist.m3u8
@@ -529,6 +533,12 @@ http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel3/play
 http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",瀘州科技
 http://file.weblz.com.cn:6066/cms/videos/nmip-media-dz/channellive/channel5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",綿陽市公共
+http://live.826pc.com/mytv/live.php?id=3
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",綿陽市科技
+http://live.826pc.com/mytv/live.php?id=2
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",綿陽市綜合
+http://live.826pc.com/mytv/live.php?id=4
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.pn" group-title="江苏",江苏靓装
 http://39.135.19.169:18890/PLTV/88888888/224/3221225680//index.m3u8?fmt=ts2hls
