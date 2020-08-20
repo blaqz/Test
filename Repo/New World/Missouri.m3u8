@@ -58,8 +58,8 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.outdoorcookingchannel.com/wp-content/uploads/2014/06/150-logo.png" group-title="USA/Canada", Cooking Outdoors
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png" group-title="USA/Canada",Court TV
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1 tvg-id="COU.US" tvg-logo="http://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png" group-title="USA/Canada",Court TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-id="COM.IN" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="USA/Canada",Comedy Central
 https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
