@@ -491,6 +491,9 @@ http://39.135.19.169:18890/PLTV/88888888/224/3221225714//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南",河环球奇观
 http://39.135.19.169:18890/PLTV/88888888/224/3221225681//index.m3u8?fmt=ts2hls
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="四川",重庆移动机场频道
+http://qxlmlive.cbg.cn:1935/app_2/ls_56.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="四川",重庆汽摩
 http://39.135.19.169:18890/PLTV/88888888/224/3221225736//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",四川文化旅游
@@ -729,19 +732,10 @@ http://stream.wfcmw.cn/4/sd/live.m3u8?_upt=d0311afc1578381834
 http://jsylivealone302.iqilu.com/live/wendeng_tv01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rzggpd.jpg" group-title="山东",文登二套
 http://jsylivealone302.iqilu.com/live/wendeng_tv02/index.m3u8
-
-西安1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
-西安2
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
-西安3
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
-西安4
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
-西安丝路
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
-西安教育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rzggpd.jpg" group-title="山东",長青生活
+http://jsylivealone302.iqilu.com/live/changqing_tv02/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/rzggpd.jpg" group-title="山东",長青新聞
+http://jsylivealone302.iqilu.com/live/changqing_tv01/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="山西",山西公共
 http://springrain.top/shuliyun.php?id=061
@@ -752,7 +746,7 @@ http://springrain.top/shuliyun.php?id=063
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/caiminzaixian.png" group-title="山西",彩民在线
 http://39.135.19.169:18890/PLTV/88888888/224/3221225724//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="山西",山西影视
-http://springrain.top/shuliyun.php?id=060
+http://hbxx.chinashadt.com:3299/live/stream%3Adi8.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="山西",山西科教
 http://springrain.top/shuliyun.php?id=062
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="山西",山西经济资讯
