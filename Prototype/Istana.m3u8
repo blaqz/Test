@@ -10,20 +10,7 @@ http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/history2.png" group-title="PREMIUM",50. History2 HD
 http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/history2.png" group-title="PREMIUM",西安1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/history2.png" group-title="PREMIUM",西安2
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/history2.png" group-title="PREMIUM",西安3
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/history2.png" group-title="PREMIUM",西安4
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/history2.png" group-title="PREMIUM",西安丝路
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/history2.png" group-title="PREMIUM",西安教育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/history2.png" group-title="PREMIUM",山西科教
-http://live3.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiEdu&start=0&provider=www.tvmining.com
+
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapura",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
