@@ -170,6 +170,10 @@ http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="福建",福州少兒
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="福建",三明公共頻道
+http://stream.smntv.cn/smtv2/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="福建",三明新聞綜合
+http://stream.smntv.cn/smtv1/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/yingyufudao.png" group-title="广东",廣東經濟科教
 http://zzq12345.gearhostpreview.com/11/guangdong.php?id=CHTVPtvs1hd
@@ -429,6 +433,10 @@ http://shennongjia.live.cjyun.org/video/s10144-SNJ-live.m3u8
 http://ezhou.live.cjyun.org/video/s10098-EZ1T/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xiantaotv.jpg" group-title="湖北",鄂州新聞綜合
 http://ezhou.live.cjyun.org/video/s10098-EZ2T/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xiantaotv.jpg" group-title="湖北",利川公共頻道
+http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/xiantaotv.jpg" group-title="湖北",利川新聞綜合
+http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lczh.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="湖南",张家界1
 http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
@@ -608,6 +616,12 @@ http://tv.drs.ncntv.com.cn:8100/channellive/ch3.flv
 http://file.ncntv.com.cn/vms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/renshoutv.jpg" group-title="四川",豐都文化旅遊
 http://125.62.25.201:1936/output0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/renshoutv.jpg" group-title="四川",萬盛
+http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/renshoutv.jpg" group-title="四川",萬州三峽移民
+http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/renshoutv.jpg" group-title="四川",萬州影視
+http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.pn" group-title="江苏",江苏靓装
 http://39.135.19.169:18890/PLTV/88888888/224/3221225680//index.m3u8?fmt=ts2hls
@@ -676,6 +690,8 @@ http://39.135.139.199:6610/PLTV/88888888/224/3221225679/2/index.m3u8?fmt=ts2hls
 http://live05.jxtvcn.com.cn/live-jxtvcn/ganyun_xinyu_hd2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西",贛州綜合
 http://live.jxgztv.com:28881/live/9/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="江西",萬載綜合頻道
+http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="天津",西青新聞綜合
 http://221.238.209.44:81/hls/live1.m3u8
@@ -1101,7 +1117,12 @@ http://112.17.40.140/PLTV/88888888/224/3221226358/index.m3u8
 http://111.12.83.7:6410/000000001000/lzkj/1.m3u8?livemode=1
 #EXTINF:-1 tvg-id="" tvg-logo="http://img01.cztv.com/201606/09/26ae79a65e60561898b8a5d3c4936c51.jpg" group-title="浙江",洞頭綜合頻道
 http://dtrmlive.hongcaifeiyang.com/1/sshplay.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://img01.cztv.com/201606/09/26ae79a65e60561898b8a5d3c4936c51.jpg" group-title="浙江",金華公共頻道
+http://stream2.jinhua.com.cn/jjsh/app/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://img01.cztv.com/201606/09/26ae79a65e60561898b8a5d3c4936c51.jpg" group-title="浙江",樂清新聞頻道
+http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_170.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://img01.cztv.com/201606/09/26ae79a65e60561898b8a5d3c4936c51.jpg" group-title="浙江",樂清生活頻道
+http://33809.hlsplay.aodianyun.com/guangdianyun_33809/tv_channel_171.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="新疆",福海漢語綜合
 http://klmyyun.chinavas.com/hls/fuhai2.m3u8
