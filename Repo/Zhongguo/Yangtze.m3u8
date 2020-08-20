@@ -464,24 +464,34 @@ https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="臺灣",TV5 Monde Style (臺灣)
 https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="少数民族",安多卫视
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="少数民族",安多藏语卫视
 http://39.134.157.205/PLTV/88888888/224/3221225541/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png group-title="少数民族",康巴卫视
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png group-title="少数民族",康巴藏语卫视
 http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg" group-title="少数民族",迪庆藏语
 http://39.130.206.213:6410/gitv_live/G_DIQINGZY/G_DIQINGZY.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="少数民族",海西州藏语綜合
+http://stream.haixitv.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="少数民族",西藏藏语
 http://39.135.19.169:18890/PLTV/88888888/224/3221225697//index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.mnb.mn/images/mini/tv.png" group-title="少数民族",МҮОНТ-1
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.mnb.mn/images/mini/tv.png" group-title="少数民族",МҮОНТ-1(蒙古)
 http://103.14.38.107:1935/live/mnb.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.mnb.mn/images/mini/mnews.png" group-title="少数民族",Монголын Мэдээ
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.mnb.mn/images/mini/mnews.png" group-title="少数民族",Монголын Мэдээ(蒙古)
 http://103.14.38.107:1935/live/mn2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="少数民族",内蒙古蒙语卫视
 http://live5.m2oplus.nmtv.cn/3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="少数民族",内蒙古蒙语文化
 http://live5.m2oplus.nmtv.cn/5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="中国",新疆哈語綜合
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="少数民族",福海维吾尔綜合
+http://klmyyun.chinavas.com/hls/fuhai1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="少数民族",新疆维语综合
+http://livehyw.sobeycache.com/xjtvs/zb2.m3u8?auth_key=1807150105-0-0-c3a098295a22448c89a29cf5df542211
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="少数民族",新疆哈語綜合
 http://livehyw.sobeycache.com/xjtvs/zb3.m3u8?auth_key=1807150116-0-0-ee46da0e36aa0d170240c1102e8c8e47
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/jwNci4iRDbc/maxresdefault.jpg" group-title="华裔卫视",亞美卫视
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
