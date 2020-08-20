@@ -280,14 +280,21 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225784/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.nettv.live/uploads/18/1-1PR523550C59.jpg" group-title="黑龙江",大庆新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/hebtv2.jpg" group-title="河北",河北公共
+http://weblive.hebtv.com/live/hbgg_bq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/hebtv2.jpg" group-title="河北",河北经济
+http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/hebtv3.jpg" group-title="河北",河北都市
-http://live01.hebtv.com/channels/hebtv/video_channel_01/flv:2000k/live
+http://weblive.hebtv.com/live/hbds_bq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/hebtv4.jpg" group-title="河北",河北影视
-http://live01.hebtv.com/channels/hebtv/video_channel_06/flv:2000k/live
+http://weblive.hebtv.com/live/hbys_bq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/hebtv5.jpg" group-title="河北",河北少儿
-http://live01.hebtv.com/channels/hebtv/video_channel_07/flv:2000k/live
+http://weblive.hebtv.com/live/hbse_bq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/hrbtv7.jpg" group-title="河北",河北农民
-http://live01.hebtv.com/channels/hebtv/video_channel_09/flv:2000k/live
+http://weblive.hebtv.com/live/nmpd_bq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/hrbtv7.jpg" group-title="河北",河北购物
+http://weblive.hebtv.com/live/sjgw_bq/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://inews.gtimg.com/newsapp_ls/0/420589832_200200/0.jpg" group-title="河北",献县1台
 http://hbxx.chinashadt.com:3299/live/stream%3Adi7.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://inews.gtimg.com/newsapp_ls/0/420589832_200200/0.jpg" group-title="河北",献县2台
