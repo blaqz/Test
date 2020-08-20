@@ -258,6 +258,8 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u
 https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1 tvg-id="Blo.News" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="新闻",Bloomberg(美国)
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="CBSN.US" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f9/CBSN_channel_Logo.png" group-title="新闻",CBSN(美国)
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="CGN.News" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="新闻",CGTN(中国)
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGD.News" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="新闻",CGTN Documentary(中国)
@@ -280,6 +282,8 @@ http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FXB.US" tvg-logo="https://static.epg.best/us/FoxBusiness.us.png" group-title="新闻",FOX Business(美国)
 https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-id="NBC.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="新闻",NBC News(美国)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=212&deviceId=56403d822d2719107d948cb9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="NHW.JP" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="新闻",NHK World(日本)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-id="N27.IN" tvg-logo="http://static.epg.best/in/NDTV24x7.in.png" group-title="新闻",NDTV 24X7(印度)
@@ -319,6 +323,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-id="HIM.MY" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="电影",Hit Movies
 http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
+#EXTINF:-1 tvg-id="PAR.US" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="电影",Paramount Network
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 #EXTINF:-1 tvg-id="RON.ID" tvg-logo="http://static.epg.best/in/RomedyNow.in.png" group-title="电影",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="电影",Sony Movies Action
@@ -350,10 +356,14 @@ http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
 https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="少儿",POP Max
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NIC.IN" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="少儿",Nick Jr
-https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+#EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="少儿",Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="少儿",Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="少儿",Tiny Pop
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="少儿",TokuSHOUTsu
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="家庭娱乐",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
@@ -365,8 +375,10 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="家庭娱乐",Crime + Investigation
 http://203.154.243.31:15001
-#EXTINF:-1 tvg-id="COM.IN" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="家庭娱乐",Comedy Central
+#EXTINF:-1 tvg-id="COM.IN" tvg-logo="https://static.epg.best/us/ComedyCentral.us.png" group-title="家庭娱乐",Comedy Central Asia
 https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
+#EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="家庭娱乐",Comedy Central
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="家庭娱乐",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="家庭娱乐",Discovery Asia
@@ -582,8 +594,6 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-id="TBX.UK" tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="英国",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:-1 tvg-id="AMG.US" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top2.png" group-title="美国",AMGTV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 #EXTINF:-1 tvg-ID="ACC.US" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2016/07/acc_network.png" group-title="美国",ACCN
 https://e10.julinewr.xyz/ingestnb4s/accn/f.m3u8|Referer=https://espn-live.stream/stream/45458.html
 #EXTINF:-1 tvg-ID="ADU.CA" tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="美国",Adult Swim
@@ -593,11 +603,15 @@ https://e10.julinewr.xyz/ingestnb4s/ahc/f.m3u8|Referer=https://espn-live.stream/
 #EXTINF:-1 tvg-id="AXN.Int" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="美国",AXN
 http://103.47.132.164/PLTV/88888888/224/3221227159/index.m3u8
 #EXTINF:-1 tvg-ID="BET.US" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="美国",BET
-https://e10.julinewr.xyz/ingestnb4s/bet/f.m3u8|Referer=https://espn-live.stream/stream/68076.html
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-ID="BEH.US" tvg-logo="https://static.epg.best/us/BetHer.us.png" group-title="美国",BET Her
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="BAE.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rtl_cbs_entertainment_hd.png/400px-Rtl_cbs_entertainment_hd.png" group-title="美国",Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="BAX.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="美国",Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="BIT.US" tvg-logo="https://thebritishtvplace.com/wp-content/uploads/2019/07/British-TV-on-Pluto-TV.png" group-title="美国",British TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=154&deviceId=5b68a18823ecb93393cba2f1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="BTN.US" tvg-logo="https://static.epg.best/us/BigTenNetwork.us.png" group-title="美国",BTN
 https://e10.julinewr.xyz/ingestnb4s/btn/d.m3u8|Referer=https://espn-live.stream/stream/45629.html
 #EXTINF:-1 tvg-ID="BUZ.US" tvg-logo="https://static.epg.best/us/BuzzrTV.us.png" group-title="美国",Buzzr
@@ -606,21 +620,31 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
 #EXTINF:-1 tvg-ID="CBC.News" tvg-logo="https://static.epg.best/ca/CBCNews.ca.png" group-title="美国",CBC News
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.20
-#EXTINF:-1 tvg-ID="CBS.US" tvg-logo="https://wwwimage-secure.cbsstatic.com/base/files/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="美国",CBS Sports HQ
-https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop_7.m3u8|X-Forwarded-For=174.224.6.160
+#EXTINF:-1 tvg-id="CMT.US" tvg-logo="https://static.epg.best/us/CMT.us.png" group-title="美国",CMT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="COU.US" tvg-logo="http://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png" group-title="美国",Court TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="CBSNY.US" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f9/CBSN_channel_Logo.png" group-title="美国",CSBN New York
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-id="CBSLA.US" tvg-logo="http://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2019/09/60h-LA-white-stacked.png" group-title="美国",CBSN Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 tvg-ID="CBSQ.US" tvg-logo="https://wwwimage-secure.cbsstatic.com/base/files/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="美国",CBS Sports HQ
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop_7.m3u8
 #EXTINF:-1 tvg-ID="CHD.US" tvg-logo="http://miro.medium.com/max/2656/1*DhgWWj7DTZ-kD2zWhBBwAg.png" group-title="美国",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/4.m3u8
 #EXTINF:-1 tvg-ID="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="美国",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-ID="CPA.CA" tvg-logo="https://static.epg.best/ca/CPACOttawaEn.ca.png" group-title="美国",CPAC
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1//Assets_1594900651852/Layer2_master.m3u8
+#EXTINF:-1 tvg-id="DAB.US" tvg-logo="http://static.epg.best/us/WKMGDT2.us.png" group-title="美国",DABL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=614&deviceId=5ef0fbed39ff730007383a69&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="ESN.US" tvg-logo="https://static.epg.best/us/ESPNNews.us.png" group-title="美国",ESPN News
 https://e10.julinewr.xyz/ingestnb4s/espn_news/f.m3u8|Referer=https://espn-live.stream/stream/45458.html
 #EXTINF:-1 tvg-id="ESU.US" tvg-logo="https://static.epg.best/us/ESPNU.us.png" group-title="美国",ESPN U
 https://e10.julinewr.xyz/ingestnb4s/espn_u/d.m3u8|Referer=https://espn-live.stream/stream/45457.html
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="美国",Fox
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FXC.Asia" tvg-logo="https://static.epg.best/qa/FoxCrime.qa.png" group-title="美国",Fox Crime
+#EXTINF:-1 tvg-id="FXC.Asia" tvg-logo="https://static.epg.best/qa/FoxCrime.qa.png" group-title="美国",FOX Crime
 http://103.47.132.164/PLTV/88888888/224/3221227165/index.m3u8
 #EXTINF:-1 tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="美国",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
@@ -632,18 +656,18 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-ID="GLN.CA" tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="美国",Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
-#EXTINF:-1 tvg-ID="HIT.MY" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="美国",Hits
-http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
 #EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="美国",ICI Tele
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-ID="ICI.News" tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="美国",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-id="LIF.US" tvg-logo="https://static.epg.best/th/Lifetime.th.png" group-title="美国",Lifetime
 http://103.47.132.164/PLTV/88888888/224/3221227337/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2020/03/mls-tv-ratings-opening-weekend.jpg" group-title="美国",MLS TV
+#EXTINF:-1 tvg-id="MLS.US" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2020/03/mls-tv-ratings-opening-weekend.jpg" group-title="美国",MLS TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-ID="MAV.US" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="美国",MavTV
 https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
+#EXTINF:-1 tvg-id="MTV.US" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="美国",MTV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-ID="NMA.US" tvg-logo="http://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="美国",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 tvg-ID="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="美国",Outdoor Channel
@@ -663,19 +687,19 @@ https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3
 #EXTINF:-1 tvg-ID="TBE.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS East
 https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="美国",TLC
-http://103.47.132.164/PLTV/88888888/224/3221227113/index.m3u8
+hhttp://103.47.132.164/PLTV/88888888/224/3221227113/index.m3u8
 #EXTINF:-1 tvg-ID="TNT.US" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="美国",TNT
 https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
 #EXTINF:-1 tvg-ID="TVL.US" tvg-logo="https://static.epg.best/us/TVLandEast.us.png" group-title="美国",TV Land
 https://e10.julinewr.xyz/ingestnb4s/tvland/f.m3u8|Referer=https://espn-live.stream/stream/68073.html
 #EXTINF:-1 tvg-ID="WEA.US" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="美国",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="WEN.US" tvg-logo="http://www.weathernationtv.com/app/uploads/WNTV.jpg" group-title="美国",WeatherNation TV
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
 #EXTINF:-1 tvg-ID="VH1.US" tvg-logo="https://static.epg.best/us/VH1.us.png" group-title="美国",VH1
 https://e10.julinewr.xyz/ingestnb4s/vh1/f.m3u8|Referer=https://espn-live.stream/stream/68075.html
 #EXTINF:-1 tvg-ID="ZLI.US" tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="美国",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
-#EXTINF:-1 tvg-id="YTA.US" tvg-logo="http://ytatv.com/wp-content/uploads/2020/01/YTA-LOGO-2.png" group-title="美国",Youtoo America
-https://thegateway.app/YouToo/CueTones/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="澳洲",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
