@@ -43,6 +43,8 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/RTA_Afghanistan_Logo.svg/1200px-RTA_Afghanistan_Logo.svg.png" group-title="افغانستان",RTA News
 http://51.15.253.148/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.afghanlive.tv/wp-content/uploads/2020/03/rta-sport-afghanistan-live.jpg" group-title="افغانستان",RTA Sports
+http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uru4F7A.jpg" group-title="افغانستان",Asr TV
 http://51.15.120.81/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arianatelevision.com/wp-content/uploads/2017/08/logo-atn-new.png" group-title="افغانستان",Ariana
@@ -52,19 +54,22 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arianatelevision.com/wp-content/uploads/2017/08/logo-atn-new.png" group-title="افغانستان",Ariana USA
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epiplay.com/wp-content/uploads/2019/01/atnnewslive-196x126.jpg" group-title="افغانستان",Ariana News
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://baano.tv/wp-content/uploads/2019/12/cropped-Logo5.png" group-title="افغانستان",Baano TV
 http://51.15.242.185/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://bahartv-af.com/wp-content/uploads/2017/01/IMG_1864-2.png" group-title="افغانستان",Bahar TV
-http://iptv.bahartv-af.com/bahartv/playlist1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.kabultvus.com/images/kabul%20tv%20logo.png" group-title="افغانستان",Kabul TV
-http://1-fss27-s0.streamhoster.com/lv_kabultv/_definst_/kabultvus/chunklist.m3u8
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/kayhanafghan.png" group-title="افغانستان",Kayhan TV
 http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://pamir.tv/images/logo.png" group-title="افغانستان",Pamir TV
 http://live.pamir.tv/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://shamshadtv.tv/templates/theme2018/images/logo.png group-title="افغانستان",Shamshad
+https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tuti.tv/wp-content/themes/TutiTheme/images/tuti-logo.png" group-title="افغانستان",Tuti
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.zarintv.com/images/zarin_tv_top_banner.jpg" group-title="افغانستان",Zarin TV
+https://59d39900ebfb8.streamlock.net/8484/8484/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mys.gov.bh/PublishingImages/LiveStreamTv/BTV-sports-logo.png" group-title="البحرين",Bahrain TV
 http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
