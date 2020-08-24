@@ -820,18 +820,34 @@ https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_hd.smil/playlist.m3u8
 http://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://halktv.com.tr/s/i/logo.png" group-title="Türkiye",Halk TV
 http://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.kanalb.com.tr/images/kanalb_logo.png" group-title="Türkiye",Kanal B
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s100993q.png" group-title="Türkiye",Kon TV
 https://59cba4d34b678.streamlock.net/live/kontv/chunklist_w286386544.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.giniko.com/logos/190x110/404.png" group-title="Türkiye",Minika ÇOCUK
 http://streams2.livetv.az/turk/minika_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.numberone.com.tr/wp-content/themes/numberone/images/logo_nr1-small.png" group-title="Türkiye",NR1
+https://mn-nl.mncdn.com/blutv_nr1tv/smil:nr1tv_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.numberone.com.tr/wp-content/themes/numberone/images/logo_nr1-small.png" group-title="Türkiye",NR1 Türk
+https://mn-nl.mncdn.com/blutv_nr1turktv/nr1turktv_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.numberone.com.tr/wp-content/themes/numberone/images/logo_nr1-small.png" group-title="Türkiye",NR1 Damar
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.numberone.com.tr/wp-content/themes/numberone/images/logo_nr1-small.png" group-title="Türkiye",NR1 Aşk
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.numberone.com.tr/wp-content/themes/numberone/images/logo_nr1-small.png" group-title="Türkiye",NR1 Dance
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportstv.com.tr/assets/images/template/sportstv-live.png" group-title="Türkiye",Sports Canlı
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kesintisiztv.com/kanallar/tbmm-tv.png" group-title="Türkiye",TBMM
 https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tgrtbelgesel.com/images/logo.png" group-title="Türkiye",TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/757332945694777344/KmJxdn4g_400x400.jpg" group-title="Türkiye",Tivi Turk
+https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://icdn.tgrthaber.com.tr/Templates/v1/images/logo.png" group-title="Türkiye",TGRT Haber
 http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/tv4tv-hdtvler-167e.png" group-title="Türkiye",TV 4
+https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvnet.com.tr/dist/img/live-image.jpg" group-title="Türkiye",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-jOo4x2W1kmk/XBkkLFgz7qI/AAAAAAAAChE/hrgq9hk4ic0-SDM7ijwPPcUDhwLw9t_zwCLcBGAs/s1600/vizyon-58.png" group-title="Türkiye",Vizyon TV
@@ -870,8 +886,6 @@ https://livetv.powerapp.com.tr/powertv/powerhd.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.semerkandtv.com.tr/Content/img/logo.png" group-title="Türkiye",Semerkand
 http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/tv4tv-hdtvler-167e.png" group-title="Türkiye",TV 4
-https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.yabantv.com/public/img/ayar/yabantv_logo.png" group-title="Türkiye",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/yoltv-hdtvler-8e0d.png" group-title="Türkiye",Yol TV
@@ -951,8 +965,6 @@ http://yayin3.canlitv.com:1935/live/rumelitv/HasBahCa.m3u8
 http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sat7uk.org/wp-content/uploads/2016/04/SAT-7-TURKlogo-e1462364248492.jpg" group-title="Türkiye",Sat 7 Türk
 https://unirtmp.tulix.tv/sat7turk/satturklive-web.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/757332945694777344/KmJxdn4g_400x400.jpg" group-title="Türkiye",Tivi Turk
-https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.turkmenelitv.com/images/logotextson.png"  group-title="Türkiye",Türkmeneli
 http://116.203.71.169/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://naturaltv.com.tr/sites/default/files/naturaltv-logo.png" group-title="Türkiye",Natural TV
