@@ -79,3 +79,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
 http://203.162.235.41:16906
 #EXTINF:-1 tvg-id="TOK.JP" tvg-logo="https://static.epg.best/jp/TVTokyo.jp.png" group-title="日本",テレビ東京
 http://203.162.235.41:16908
+#EXTINF:-1 tvg-ID="KS1.KR" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="韩国",KBS 1
+http://211.245.55.198:1024/m2u/239.192.67.100:49220
+#EXTINF:-1 tvg-ID="MBC.KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="韩国",MBC
+http://211.54.140.36/hdmi
+#EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="韩国",SBS
+http://211.245.55.198:1024/m2u/239.192.41.2:49220
+#EXTINF:-1 tvg-ID="JB1.KR" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="韩国",JTBC
+http://211.245.55.198:1024/m2u/239.192.58.7:49220
+#EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="韩国",tvN
+http://211.245.55.198:1024/m2u/239.192.53.7:49220
