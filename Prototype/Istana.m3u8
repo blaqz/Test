@@ -256,8 +256,6 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-id="ZBI.ID" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/zee_bioskop.png" group-title="Movies",Zee Bioskop
 http://103.47.132.164/PLTV/88888888/224/3221227537/index.m3u8
 
-#EXTINF:-1 tvg-ID="AB3.AU" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="Family",ABC ME
-https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
 #EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="Family",Animax
 http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
 #EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Family",Asian Food Network
@@ -642,11 +640,15 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 #EXTINF:-1 tvg-ID="ACC.AU" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" group-title="Australia",ACC
 http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="ABC.AU" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Australia",ABC
-https://i.mjh.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/au/images/tv.101002210224.png"group-title="Australia",ABC ME
-https://i.mjh.nz/au/Sydney/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239
+https://c.mjh.nz/101002510251/index.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-ID="AB2.AU" tvg-logo="https://static.epg.best/au/ABCComedy.au.png" group-title="Australia",ABC Comedy
+https://c.mjh.nz/abc2/index.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="A24.AU" tvg-logo="http://static.epg.best/au/ABCNews24.au.png" group-title="Australia",ABC News 24
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8|X-Forwarded-For=52.62.247.239
+https://c.mjh.nz/101002210220/index.m3u8
+#EXTINF:-1 tvg-ID="AB3.AU" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="Family",ABC ME
+https://c.mjh.nz/101002210224/index.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-ID="ABK.AU" tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="Australia",ABC Kids
+https://c.mjh.nz/101002210222//index.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="Australia",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-ID="SB1.AU" tvg-logo="https://static.epg.best/au/SBS.au.png" group-title="Australia",SBS One
