@@ -657,12 +657,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="SBV.AU" tvg-logo="https://static.epg.best/au/SBSViceland.au.png" group-title="Australia",SBS Viceland
 https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-ID="10B.AU" tvg-logo="https://static.epg.best/au/10Bold.au.png" group-title="Australia",10 Bold
-https://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-ID="10B.AU" tvg-logo="https://static.epg.best/au/10Bold.au.png" group-title="Australia",10 Bold
-https://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-ID="10B.AU" tvg-logo="https://static.epg.best/au/10Bold.au.png" group-title="Australia",10 Bold
-https://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png" group-title="Australia",Prime
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
 #EXTINF:-1 tvg-ID="MAO.NZ" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="Australia",Maori Television
