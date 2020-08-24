@@ -13,7 +13,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="RT.News" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="NEWS",RT(俄罗斯)
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-ID="A24.AU" tvg-logo="http://static.epg.best/au/ABCNews24.au.png" group-title="NEWS",ABC News 24(澳洲)
-https://c.mjh.nz/101002210220/index.m3u8
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-name="025" tvg-id="FHJ.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="NEWS",鳳凰资讯
 http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 #EXTINF:-1 tvg-name="026" tvg-id="FHW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="NEWS",鳳凰衛視中文台
