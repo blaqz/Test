@@ -85,11 +85,11 @@ http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="台湾",民視
-http://seb.sason.top/ptv/ftv.php?id=ms
+http://p06.iptv2asia.com:18888/http/012
 #EXTINF:-1 tvg-id="MS1.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="台湾",民視第一
-http://seb.sason.top/ptv/ftv.php?id=dy
+http://p06.iptv2asia.com:18888/http/014
 #EXTINF:-1 tvg-id="MST.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="台湾",民視台灣
-http://seb.sason.top/ptv/ftv.php?id=tw
+http://p06.iptv2asia.com:18888/http/013
 #EXTINF:-1 tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="台湾",民視新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="TSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="台湾",台視
@@ -97,15 +97,15 @@ http://p06.iptv2asia.com:18888/http/001
 #EXTINF:-1 tvg-id="TSZ.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/28/TTV_General_Channel_2016.png/300px-TTV_General_Channel_2016.png" group-title="台湾",台視綜合
 http://p06.iptv2asia.com:18888/http/002
 #EXTINF:-1 tvg-id="TSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾",台視新聞
-http://seb.sason.top/sc/tsxw_fhd.m3u8
+http://p06.iptv2asia.com:18888/http/004
 #EXTINF:-1 tvg-id="ZSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="台湾",中視
 http://p06.iptv2asia.com:18888/http/005
 #EXTINF:-1 tvg-id="ZSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾",中視新聞
-http://seb.sason.top/sc/zsxw_fhd.m3u8
+http://p06.iptv2asia.com:18888/http/006
 #EXTINF:-1 tvg-id="HSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="台湾",華視
 http://p06.iptv2asia.com:18888/http/009
 #EXTINF:-1 tvg-id="HSX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png" group-title="台湾",華視新聞
-http://seb.sason.top/sc/hsxw_fhd.m3u8
+http://p06.iptv2asia.com:18888/http/010
 #EXTINF:-1 tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="台湾",中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DLX.TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="台湾",東森新聞
