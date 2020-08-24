@@ -814,6 +814,8 @@ http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist.m3u8
 https://streams.livetv.az/turk/cartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/DMax.de.png" group-title="Türkiye",DMAX Türkiye
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.diyanet.tv/Diyanet-Theme/images/logo.png" group-title="Türkiye",Diyanet
+https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/dreamturk.jpg" group-title="Türkiye",Dream TV
 https://mn-nl.mncdn.com/blutv_dream/smil:dream_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png" group-title="Türkiye",EuroStar
@@ -907,6 +909,7 @@ http://s01.vpis.io/besiktas/besiktas.m3u8
 https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://cantv.tv/storage/2019/12/logo_cantv.png" group-title="Türkiye",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://sport-tv-guide.live/images/tv-station-cay-tv-895.png" group-title="Türkiye",CAY TV 
 #EXTINF:-1 tvg-id="" tvg-logo="https://sport-tv-guide.live/images/tv-station-cay-tv-895.png" group-title="Türkiye",CAY TV 
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://dersim62.tv/wp-content/uploads/2016/05/3v3.jpg" group-title="Türkiye",Dersim62 TV
