@@ -641,20 +641,18 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1
 http://i.mjh.nz/au/Adelaide/tv.acctv.m3u8
 #EXTINF:-1 tvg-ID="ACC.AU" tvg-logo="https://c44.com.au/wp-content/uploads/2018/04/44-Logo-Approved-clbkg-no-text.png" group-title="Australia",Channel 44
 https://bdz47wk-lh.akamaihd.net/i/bdz47wkvo0zjom_1@1017167/index_0500_av-p.m3u8
-#EXTINF:-1 tvg-ID="ABC.AU" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Australia",ABZ 
-https://dpsniydtnu329.cloudfront.net/10SA/stream.m3u8|X-Forwarded-For=52.62.247.239
 
 
 #EXTINF:-1 tvg-ID="ABC.AU" tvg-logo="https://static.epg.best/au/ABC.au.png" group-title="Australia",ABC
-https://c.mjh.nz/101002510251/index.m3u8|X-Forwarded-For=52.62.247.239
+https://c.mjh.nz/101002510251/|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="AB2.AU" tvg-logo="https://static.epg.best/au/ABCComedy.au.png" group-title="Australia",ABC Comedy
-https://c.mjh.nz/abc2/index.m3u8|X-Forwarded-For=52.62.247.239
+https://c.mjh.nz/abc2/|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="A24.AU" tvg-logo="http://static.epg.best/au/ABCNews24.au.png" group-title="Australia",ABC News 24
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="AB3.AU" tvg-logo="https://static.epg.best/au/ABCME.au.png" group-title="Australia",ABC ME
-https://c.mjh.nz/101002210224/index.m3u8|X-Forwarded-For=52.62.247.239
+https://c.mjh.nz/101002210224/|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="ABK.AU" tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="Australia",ABC Kids
-https://c.mjh.nz/101002210222/index.m3u8|X-Forwarded-For=52.62.247.239
+https://c.mjh.nz/101002210222/|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-ID="FSN.AU" tvg-logo="https://static.epg.best/au/FoxSportsNews.au.png" group-title="Australia",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-ID="SB1.AU" tvg-logo="https://static.epg.best/au/SBS.au.png" group-title="Australia",SBS One
