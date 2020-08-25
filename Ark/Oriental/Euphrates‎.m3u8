@@ -971,7 +971,7 @@ http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://hta.backoffice.easybroadcast.fr/channel/4_picture.png" group-title="الدزاير",Canal Algérie
 http://178.132.3.162:88/canal_algerie/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Algeria3.png" group-title="الدزاير",القناة الجزائرية الثالثة‎
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/ThalithaA3.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/ThalithaA3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.algsat.net/wp-content/uploads/2020/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-EL-DJAZAIR-N1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-2020.jpg group-title="الدزاير",El Djazair N1
 http://82.212.74.5:8000/live/hls/7728.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i2.wp.com/www.millereponses.com/wp-content/uploads/2018/11/chaine-nord-africaine-frequence-nilesat.jpg" group-title="الدزاير",Chaine Nord Africaine
@@ -994,9 +994,9 @@ https://edge2.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
 https://edge10.vedge.infomaniak.com/livecast/impacttele/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_sans_texte.png" group-title="Cameroun",CRTV
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CRTV.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/CRTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_01.png" group-title="Cameroun",CRTV News
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CRTVN.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/CRTVN.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/07/NEW-LOGO0047_00000_00000-300x169.png" group-title="Cameroun",Afrique+
 http://connectiktv.ddns.net:8080/afrik+/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ecable.tv/wp-content/uploads/2017/09/afrique_media_cm.png" group-title="Cameroun",Afrique Media
@@ -1143,7 +1143,7 @@ https://obossotv_1.vedge.infomaniak.com/livecast/obossotv_1/chunklist_w613825265
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvcentral.com/imgs/tvs/3299.jpg" group-title="Ghana",Resurrection TV
 http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://dorotheemefo.d.o.pic.centerblog.net/ca9aaca2.jpg" group-title="Equatorial Guinea",West Africa TV
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WFA.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/WFA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://rtgkoloma.info/wp-content/uploads/2017/12/logofinal.jpg" group-title="Guinée",RTG
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@690091/master.m3u8
@@ -1159,16 +1159,16 @@ https://www.enovativecdn.com:4433/rticdn/smil:rtiwebtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a12television.com/WEB/wp-content/uploads/2020/02/Logo-CG2.png" group-title="Côte d’Ivoire",A12
 http://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a12television.com/WEB/wp-content/uploads/2020/02/Logo-CG2.png" group-title="Côte d’Ivoire",Christ Live
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Cliv.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/Cliv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.farmers.co.ke/assets/images/logo.png" group-title="Kenya",KTN Farmer
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/KTNF.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/KTNF.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.k24tv.co.ke/wp-content/uploads/2019/09/k24-1.png" group-title="Kenya",K24
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/K24.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/K24.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.aviationtv.or.ke/wp-content/uploads/2019/07/Avation-tv-New-Logo-Design-Live-copy-copy-300x169.png" group-title="Kenya",Aviation TV
 http://streamer01.nbo1.angani.co:1935/live/_definst_/1935/live/ext/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.nation.co.ke/assets/ntv/kenya/ntv-ke-logo.png" group-title="Kenya",Ebru TV
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Ebru.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/Ebru.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://inoorotv.co.ke/wp-content/themes/inoorotv/images/inoorotv_logo.png" group-title="Kenya",Inooro TV
 https://vidhttps.r.worldssl.net/inoorotv-origin/liveabr/inoorotv-origin/live3/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Switch-logo-purple.png/250px-Switch-logo-purple.png" group-title="Kenya",Switch TV
@@ -1288,7 +1288,7 @@ https://1423954428.rsc.cdn77.org/live/ngrp:stream-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://live.rts.sn/assets/images/rts/rts1sd.png" group-title="Senegal",RTS 1
 https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://africa7.tv/wp-content/uploads/2019/05/cropped-logo-bon.png" group-title="Senegal",Africa 7
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AFR7.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/AFR7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.d5tv.fr/fond-d5-v3.png" group-title="Senegal",D5 TV
 https://tv.xksgroup.com/d5tv/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://leeeko.tv/wp-content/uploads/2019/12/LogoTv002.png" group-title="Senegal",Leeeko TV
@@ -1330,7 +1330,7 @@ http://92.222.93.75:1935/live2/samir/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.hannibaltv.com.tn/static/fr/image/png/hannibaltv.png" group-title="تونس",Hannibal TV
 http://178.132.3.162:88/hannibal/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nessma.tv/images/apple-icon-57x57.png" group-title="تونس",Nessma TV
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NES.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/NES.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" group-title="تونس",Sahel TV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.telvza-tv.tn/images/front/logo.png" group-title="تونس",Telvza
