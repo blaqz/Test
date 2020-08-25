@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="湖南",湖南经视
+http://tv.sason.xyz/proxy/hn.php?id=HNJS_8000
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="湖南",湖南娱乐
+http://tv.sason.xyz/proxy/hn.php?id=HNYL_8000
 
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="新马",Astro Awani(马来西亚)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
