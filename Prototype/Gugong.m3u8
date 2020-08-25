@@ -247,7 +247,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-ID="Ari.KR" logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="新闻",Arirang(韩国)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="AFR.News" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="新闻",Africa News(非洲)
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/AfricaNews.m3u8
 #EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="新闻",BBC World News(英国)
 https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1 tvg-id="Blo.News" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="新闻",Bloomberg(美国)
@@ -265,7 +265,7 @@ http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Dwe.News" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="新闻",DW(德国)
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8
 #EXTINF:-1 tvg-id="EUR.News" tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="新闻",EuroNews(欧洲)
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/EuroNews.m3u8
 #EXTINF:-1 tvg-ID="Fra.News" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="新闻",France 24(法国)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="新闻",鳳凰资讯(中国)
@@ -749,7 +749,7 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="东南亚精选",ช่อง 7(泰国)
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="东南亚精选",Workpoint(泰国)
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/WPTV.m3u8
 #EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/one31.png" group-title="东南亚精选",ONE 31(泰国)
 http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
 
@@ -902,7 +902,7 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="TEL.AR" tvg-logo="https://telefe-static2.akamaized.net/media/143174/logo-rosario-368x80.png" group-title="拉丁精选",Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-id="CV9.DO" tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-HD-full.png" group-title="拉丁精选",Color Visión
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/COV9.m3u8
+https://exodiver.github.io/IPTV/M3U8/Token/COV9.m3u8
 #EXTINF:-1 tvg-id="CUB.CU" tvg-logo="https://todocubaonline.com/wp-content/uploads/2016/01/cubavisi%C3%B3n-internacional.png" group-title="拉丁精选",Cubavision International
 https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-id="ECU.EC" tvg-logo="https://www.ecuavisa.com/sites/default/files/otro_logo.png" group-title="拉丁精选",Ecuavisa
