@@ -1,18 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapura",Channel 5 VPN 3
-https://tglmp02.akamaized.net/out/v1/f091238359f8455f8396cef639d0d9f7/master.m3u8|X-Forwarded-For=52.62.247.239&Mozilla%2F5.0+%28Android+4.4%3B+Mobile%3B+rv:41.0%29+Gecko%2F41.0+Firefox%2F41.0
-#EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="Singapura",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Singapura",Suria
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8|X-Forwarded-For=117.20.41.10|Referer=https://www.mewatch.sg
-#EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Singapura",Vasantham
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master.m3u8|X-Forwarded-For=117.20.41.10|Referer=https://www.mewatch.sg
-#EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://www.mewatch.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png" group-title="Singapura",Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8|X-Forwarded-For=117.20.41.10|Referer=https://www.mewatch.sg
-#EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://www.mewatch.sg/image/5308024/16x9/236/133/38aa7e2b749478c4bba097b540b93720/TN/channel-u.png" group-title="Singapura",Channel U
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8|X-Forwarded-For=117.20.41.10|Referer=https://www.mewatch.sg
-
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2
@@ -117,6 +104,8 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNW.News" tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="Berita",CNBC World
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="Berita",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="Dwe.News" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="Berita",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8
 #EXTINF:-1 tvg-id="EUR.News" tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="Berita",EuroNews
