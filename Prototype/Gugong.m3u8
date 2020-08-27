@@ -538,15 +538,9 @@ http://203.162.235.41:16916
 http://103.47.132.164/PLTV/88888888/224/3221227187/index.m3u8
 
 #EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="英国",BBC 1
-http://51.52.156.22:8888/http/011
-#EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="英国",BBC 2
-http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/814.m3u8
-#EXTINF:-1 tvg-id="CB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="英国",BBC 4
-http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/819.m3u8
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBN.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="英国",BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Alb.UK" tvg-logo="https://static.epg.best/gb/BBCAlba.uk.png" group-title="英国",BBC Alba
-http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/828.m3u8
 #EXTINF:-1 tvg-id="BBL.UK" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="英国",BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BXH.UK" tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="英国",Box Hits
@@ -555,10 +549,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/821.m3u8
 #EXTINF:-1 tvg-id="CTV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="英国",CITV
 http://51.52.156.22:8888/http/001
-#EXTINF:-1 tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="英国",Channel 4
-http://178.132.3.162:88/Channel_4_HD/video.m3u8?token=test
-#EXTINF:-1 tvg-id="CH5.UK" tvg-logo="https://static.epg.best/gb/Channel5.uk.png" group-title="英国",Channel 5
-http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 #EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="英国",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-id="IT2.UK" tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="英国",ITV2
@@ -567,16 +557,10 @@ http://51.52.156.22:8888/http/005
 http://51.52.156.22:8888/http/006
 #EXTINF:-1 tvg-id="IT4.UK" tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="英国",ITV4
 http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-id="CE4.UK" tvg-logo="https://static.epg.best/gb/E4.uk.png" group-title="英国",E4
-http://178.132.3.162:88/E4/video.m3u8?token=test
-#EXTINF:-1 tvg-id="FM4.UK" tvg-logo="https://static.epg.best/gb/Film4.uk.png" group-title="英国",Film 4
-http://178.132.3.162:88/Film_4/video.m3u8?token=test
 #EXTINF:-1 tvg-id="4SV.UK" tvg-logo="https://static.epg.best/gb/4Seven.uk.png" group-title="英国",4Seven
 https://uk.easyview.eu/hls/4seven.m3u8|Referer=https://easyview.eu/watch.php?stream=4seven
 #EXTINF:-1 tvg-id="FOC.UK" tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="英国",Forces TV
 https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GLD.UK" tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="英国",Gold
-http://178.132.3.162:88/Gold/index.m3u8?token=test
 #EXTINF:-1 tvg-id="KIS.UK" tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="英国",Kiss
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 #EXTINF:-1 tvg-id="KER.UK" tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="英国",Kerrang!
