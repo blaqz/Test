@@ -1,21 +1,13 @@
 #EXTM3U
 
-#EXTINF: -1,tv one
-http://210.210.155.35/qwr9ew/s/s02/02.m3u8|X-Forwarded-For=89.187.163.193
 #EXTINF: -1,SCTV
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8|X-Forwarded-For=89.187.163.193
 #EXTINF: -1,Dens TV
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,TRANSTV
-http://210.210.155.35/qwr9ew/s/s05/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,TRANS 7
-http://210.210.155.35/qwr9ew/s/s06/02.m3u8|X-Forwarded-For=89.187.163.193
 #EXTINF: -1,antv
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8|X-Forwarded-For=89.187.163.193
 #EXTINF: -1,NET
 http://210.210.155.35/qwr9ew/s/s08/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,RUMAH PEMILU
-http://210.210.155.35/qwr9ew/s/s09/02.m3u8|X-Forwarded-For=89.187.163.193
 #EXTINF: -1,ELshint TV
 http://210.210.155.35/qwr9ew/s/s10/02.m3u8|X-Forwarded-For=89.187.163.193
 #EXTINF: -1,TVRI
@@ -26,11 +18,11 @@ http://210.210.155.35/qwr9ew/s/s12/02.m3u8|X-Forwarded-For=89.187.163.193
 http://210.210.155.35/qwr9ew/s/s13/02.m3u8|X-Forwarded-For=89.187.163.193
 #EXTINF: -1,roodja tv
 http://210.210.155.35/qwr9ew/s/s14/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,NOW LIVE
+#EXTINF: -1,Euronews
 http://210.210.155.35/qwr9ew/s/s15/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,TRT WORLD
+#EXTINF: -1,Al Jazeera
 http://210.210.155.35/qwr9ew/s/s16/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,SHNGAPORE
+#EXTINF: -1,Al Jazeera English
 http://210.210.155.35/qwr9ew/s/s17/02.m3u8|X-Forwarded-For=89.187.163.193
 #EXTINF: -1,CCTV-4 中文 国际
 http://210.210.155.35/qwr9ew/s/s19/02.m3u8|X-Forwarded-For=89.187.163.193
@@ -44,8 +36,6 @@ http://210.210.155.35/qwr9ew/s/s22/02.m3u8|X-Forwarded-For=89.187.163.193
 http://210.210.155.35/qwr9ew/s/s23/02.m3u8|X-Forwarded-For=89.187.163.193
 #EXTINF: -1,TVSMONDE
 http://210.210.155.35/qwr9ew/s/s24/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,tve 美食
-http://210.210.155.35/qwr9ew/s/s25/02.m3u8|X-Forwarded-For=89.187.163.193
 #EXTINF: -1,DW
 http://210.210.155.35/qwr9ew/s/s26/02.m3u8|X-Forwarded-For=89.187.163.193
 #EXTINF: -1,阿拉伯
