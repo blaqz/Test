@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="TV4.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="新马",TV4(马来西亚)
-http://tv.sason.xyz/proxy/hn.php?id=JYJS_8000
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="新马",TV1(马来西亚)
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="新马",TV2(马来西亚)
@@ -932,7 +930,7 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 #EXTINF:-1 tvg-id="RT3.PT" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="拉丁精选",RTP 3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTI.PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="拉丁精选",RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RPC.PY" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="拉丁精选",Trece
 http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1 tvg-id="TVB.BR" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png" group-title="拉丁精选",TV Brasil
