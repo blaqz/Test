@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF: -1 group-title="新马",Telenovela channel
+http://210.210.155.69/s/s70/S4/mnf.m3u8|X-Forwarded-For=89.187.163.193
+#EXTINF: -1 group-title="新马",Bali tv
+http://210.210.155.69/s/s82/S4/mnf.m3u8|X-Forwarded-For=89.187.163.193
+#EXTINF: -1 group-title="新马",MNC
+https://app-linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_300000=4.m3u8|X-Forwarded-For=89.187.163.193
+#EXTINF: -1 group-title="新马",Hits
+http://210.210.155.66/h/h37/01.m3u8|X-Forwarded-For=89.187.163.193
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="新马",TV1(马来西亚)
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="新马",TV2(马来西亚)
