@@ -302,7 +302,6 @@ https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="Family",TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-
 #EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="Timur Tengah",Abu Dhabi Al Oula(Arab)
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-id="AAA.AE" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="Timur Tengah",Al Aan(Arab)
@@ -315,13 +314,13 @@ http://tv.kuzeytv.com/hls/atv.m3u8
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="Timur Tengah",Kanal D(Turki)
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KRA.TR" tvg-logo="https://static.epg.best/tr/Kanal7.tr.png" group-title="Timur Tengah",Kanal 7(Turki)
+#EXTINF:-1 tvg-id="KA7.TR" tvg-logo="https://static.epg.best/tr/Kanal7.tr.png" group-title="Timur Tengah",Kanal 7(Turki)
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="KA7.TR" tvg-logo="http://www.giniko.com/logos/190x110/395.png" group-title="Timur Tengah",Kral(Turki)
+#EXTINF:-1 tvg-id="KRA.TR" tvg-logo="http://www.giniko.com/logos/190x110/395.png" group-title="Timur Tengah",Kral(Turki)
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1 tvg-id="MAK.SA" tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Timur Tengah",Makkah TV(Arab)
+#EXTINF:-1 tvg-id="MAK.SA" tvg-logo="https://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Timur Tengah",Makkah TV(Arab)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 tvg-id="MED.SA" tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="Timur Tengah",Medina TV(Arab)
+#EXTINF:-1 tvg-id="MED.SA" tvg-logo="https://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="Timur Tengah",Medina TV(Arab)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 #EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="Timur Tengah",MBC 1(Arab)
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
