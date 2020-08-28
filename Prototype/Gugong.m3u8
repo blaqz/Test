@@ -343,6 +343,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 https://www.fanmingming.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="LSD.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影",龍祥時代電影
 http://live5.ocnttv.com:8080/ZZ_shidai/ZZ_shidai.m3u8
+#EXTINF:-1 tvg-id="TYP.Asia" tvg-logo="http://www.celestialmovies.com/assets/img/cm.png" group-title="电影",天映頻道
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8|X-Forwarded-For=103.120.66.220
 
 #EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="少儿",Animax
 http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
