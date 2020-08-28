@@ -307,7 +307,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b99
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-id="AAA.AE" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="Timur Tengah",Al Aan(Arab)
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
-#EXTINF:-1 tvg-id="ARV.SA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/129_300.png" group-title="Timur Tengah",ART Variety(Arab)
+#EXTINF:-1 tvg-id="ART.SA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/129_300.png" group-title="Timur Tengah",ART Variety(Arab)
 https://p-mysat-live.ercdn.net/artvariety/artvariety_576p.m3u8
 #EXTINF:-1 tvg-id="ATV.TR" tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="Timur Tengah",ATV(Turki)
 http://tv.kuzeytv.com/hls/atv.m3u8
