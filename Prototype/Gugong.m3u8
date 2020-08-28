@@ -480,9 +480,9 @@ http://211.245.55.198:1024/m2u/239.192.67.99:49220
 #EXTINF:-1 tvg-ID="KSW.KR" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="韩国",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="MBC.KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="韩国",MBC
-http://211.54.140.36/hdmi
+http://121.160.102.99:1935/jmbc_tv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="韩国",SBS
-http://211.245.55.198:1024/m2u/239.192.41.2:49220
+http://59.25.202.81:1935/live/UBCstream/playlist.m3u8
 #EXTINF:-1 tvg-ID="SBM.KR" tvg-logo="https://static.epg.best/kr/SBSMTV.kr.png" group-title="韩国",SBS MTV
 http://211.245.55.198:1024/m2u/239.192.55.4:49220
 #EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBSCNBC.kr.png" group-title="韩国",SBS CNBC
