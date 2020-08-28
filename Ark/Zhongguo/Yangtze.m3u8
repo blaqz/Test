@@ -292,6 +292,8 @@ http://tv.boye.ml/iptv/xjtv.php?id=1tuan.png
 http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.czlogo.com/uploads/image/2019/09/19/15688776722303.jpg" group-title="中国",农林卫视
 http://39.130.206.213:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8 
+#EXTINF:-1 tvg-id="YBW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="中国",延边卫视
+http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="粵語",翡翠台                  
 http://live.crhoy.ml:8080/Yucuanli/Yucuanli/1
@@ -493,6 +495,8 @@ http://klmyyun.chinavas.com/hls/fuhai1.m3u8
 http://livehyw.sobeycache.com/xjtvs/zb2.m3u8?auth_key=1807150105-0-0-c3a098295a22448c89a29cf5df542211
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="少数民族",新疆哈語綜合
 http://livehyw.sobeycache.com/xjtvs/zb3.m3u8?auth_key=1807150116-0-0-ee46da0e36aa0d170240c1102e8c8e47
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="少数民族",延边朝鲜语综合
+http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/jwNci4iRDbc/maxresdefault.jpg" group-title="华裔卫视",亞美卫视
