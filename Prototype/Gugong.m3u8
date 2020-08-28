@@ -142,6 +142,8 @@ http://p06.iptv2asia.com:18888/http/019
 https://bcovlive-a.akamaihd.net/edc4f2dff6174d038abb49f219b43316/ap-southeast-1/5817780548001/playlist.m3u8
 #EXTINF:-1 tvg-id="FSD.TW" tvg-logo="http://www.fanstv.tw/images/logo.png" group-title="台湾",番薯電視
 http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+#EXTINF:-1 tvg-id="FSD.TW" tvg-logo="http://www.fanstv.tw/images/logo.png" group-title="台湾",番薯電視 xxx
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8|X-Forwarded-For=89.187.163.193
 
 #EXTINF:-1 tvg-id="XKW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png" group-title="中国",星空卫视
 http://103.47.132.164/PLTV/88888888/224/3221227263/index.m3u8
