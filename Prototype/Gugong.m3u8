@@ -24,6 +24,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/346_300.png" group-title="新马",Astro AEC
 http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=AEC
+#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/346_300.png" group-title="新马",Astro AEC 2
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
 http://live.crhoy.ml:8080/Yucuanli/Yucuanli/1
