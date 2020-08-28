@@ -64,7 +64,8 @@ http://210.210.155.35/qwr9ew/s/s47/02.m3u8|X-Forwarded-For=89.187.163.193
 http://210.210.155.35/qwr9ew/s/s48/02.m3u8|X-Forwarded-For=89.187.163.193
 #EXTINF: -1,TV8
 http://210.210.155.35/qwr9ew/s/s49/02.m3u8|X-Forwarded-For=89.187.163.193
-
+#EXTINF:-1 group-title="ReMy_LATINO",CINEMAWOLD
+http://210.210.155.35/session/f3bb9eba-af11-11e9-bade-8a7691426eef/uq2663/h/h04/01.m3u8|X-Forwarded-For=89.187.163.193
 
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="新马",TV1(马来西亚)
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
