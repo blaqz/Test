@@ -1,72 +1,7 @@
 #EXTM3U
 
-#EXTINF: -1,SCTV
-http://210.210.155.35/qwr9ew/s/s03/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,Dens TV
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,antv
-http://210.210.155.35/qwr9ew/s/s07/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,NET
-http://210.210.155.35/qwr9ew/s/s08/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,ELshint TV
-http://210.210.155.35/qwr9ew/s/s10/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,TVRI
-http://210.210.155.35/qwr9ew/s/s11/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,RTV
-http://210.210.155.35/qwr9ew/s/s12/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,DAAI TV
-http://210.210.155.35/qwr9ew/s/s13/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,roodja tv
-http://210.210.155.35/qwr9ew/s/s14/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,Euronews
-http://210.210.155.35/qwr9ew/s/s15/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,Al Jazeera
-http://210.210.155.35/qwr9ew/s/s16/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,Al Jazeera English
-http://210.210.155.35/qwr9ew/s/s17/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,CCTV-4 中文 国际
-http://210.210.155.35/qwr9ew/s/s19/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,CGTN
-http://210.210.155.35/qwr9ew/s/s20/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,凤凰 资讯
-http://210.210.155.35/qwr9ew/s/s21/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,PARiS
-http://210.210.155.35/qwr9ew/s/s22/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,MOSCOW
-http://210.210.155.35/qwr9ew/s/s23/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,TVSMONDE
-http://210.210.155.35/qwr9ew/s/s24/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,DW
-http://210.210.155.35/qwr9ew/s/s26/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,阿拉伯
-http://210.210.155.35/qwr9ew/s/s27/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,阿拉伯 2
-http://210.210.155.35/qwr9ew/s/s28/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,东方 卫视
-http://210.210.155.35/qwr9ew/s/s29/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,ZEEBIOSKOP
-http://210.210.155.35/qwr9ew/s/s32/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,THRILL 电影 台
-http://210.210.155.35/qwr9ew/s/s34/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,RTP
-http://210.210.155.35/qwr9ew/s/s38/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,TBN
-http://210.210.155.35/qwr9ew/s/s39/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,Vchannel
-http://210.210.155.35/qwr9ew/s/s41/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,rb 频道
-http://210.210.155.35/qwr9ew/s/s42/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,IN
-http://210.210.155.35/qwr9ew/s/s46/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,UA 1408
-http://210.210.155.35/qwr9ew/s/s47/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,SUPER sport
-http://210.210.155.35/qwr9ew/s/s48/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF: -1,TV8
-http://210.210.155.35/qwr9ew/s/s49/02.m3u8|X-Forwarded-For=89.187.163.193
-#EXTINF:-1 group-title="ReMy_LATINO",CINEMAWOLD
-http://210.210.155.35/session/f3bb9eba-af11-11e9-bade-8a7691426eef/uq2663/h/h04/01.m3u8|X-Forwarded-For=89.187.163.193
-
+#EXTINF:-1 tvg-ID="TV4.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="新马",TV4(马来西亚)
+http://tv.sason.xyz/proxy/hn.php?id=JYJS_8000
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="新马",TV1(马来西亚)
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="新马",TV2(马来西亚)
@@ -146,11 +81,11 @@ http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="台湾",民視
-http://p06.iptv2asia.com:18888/http/012
+http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="MS1.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="台湾",民視第一
-http://p06.iptv2asia.com:18888/http/014
+http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1 tvg-id="MST.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="台湾",民視台灣
-http://p06.iptv2asia.com:18888/http/013
+http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="台湾",民視新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="TSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="台湾",台視
