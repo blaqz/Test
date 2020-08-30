@@ -1000,13 +1000,15 @@ https://exodiver.github.io/IPTV/M3U8/Token/CRTVN.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/07/NEW-LOGO0047_00000_00000-300x169.png" group-title="Cameroun",Afrique+
 http://connectiktv.ddns.net:8080/afrik+/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ecable.tv/wp-content/uploads/2017/09/afrique_media_cm.png" group-title="Cameroun",Afrique Media
-ttps://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
+https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/05/AFROBIT-png-300x168.png" group-title="Cameroun",Afrobits
 http://connectiktv.ddns.net:8080/afrobit/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/06/c4c115d6-e7c7-4d82-af85-b6b95040b93f-300x169.jpg" group-title="Cameroun",Beauty Africa
 http://connectiktv.ddns.me:8080/beautyafrica/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/09/canahausa.jpg" group-title="Cameroun",Canal Hausa
 http://connectiktv.ddns.net:8080/canalhausa/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.camfaith.org/images/annuaire_medias/1343398238.jpg" group-title="Cameroun",Canal de Vie
+https://edge2.vedge.infomaniak.com/livecast/ik:canaldevie/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://coeuralouvrage.com/wp-content/uploads/2018/08/CALO-LOGO-DEGRADE-SERVICES_ACTIFS-500x208.png" group-title="Cameroun",Coeur TV
 https://coeurtv.vedge.infomaniak.com/livecast/coeurtv/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg" group-title="Cameroun",Dream TV
@@ -1048,10 +1050,6 @@ http://connectiktv.ddns.net:8080/vibe/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.directv.com/directv_logo.jpg" group-title="Kikongo",CDirect
 http://cms-streamaniak.top/Cdirect/CDIRECT/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="Kikongo",Trace Kitoko
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://trace.company/wp-content/uploads/2017/03/logo-vanilla.png" group-title="Kikongo",Trace Vanilla
-https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png" group-title="مَصر",Al Hayat
 https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8
@@ -1136,8 +1134,6 @@ http://165.22.122.126:25461/live/zero/app/9.m3u8
 https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1213240723115515909/OexfQzX-_400x400.jpg" group-title="Ghana",Kalac TV
 https://edge4.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nydjlive.com/wp-content/uploads/2020/02/Trace-Jama-750x430.png" group-title="Ghana",Trace Jama
-https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1161349153475239937/5ca4BlH1_400x400.png" group-title="Ghana",Obosso TV
 https://obossotv_1.vedge.infomaniak.com/livecast/obossotv_1/chunklist_w613825265.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetvcentral.com/imgs/tvs/3299.jpg" group-title="Ghana",Resurrection TV
@@ -1156,10 +1152,16 @@ https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rti.ci/webtv/images/logo.png" group-title="Côte d’Ivoire",RTI Web TV
 https://www.enovativecdn.com:4433/rticdn/smil:rtiwebtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://a12television.com/WEB/wp-content/uploads/2020/02/Logo-CG2.png" group-title="Côte d’Ivoire",A12
-http://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a12television.com/WEB/wp-content/uploads/2020/02/Logo-CG2.png" group-title="Côte d’Ivoire",Christ Live
 https://exodiver.github.io/IPTV/M3U8/Token/Cliv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.notretelevision.org/images/ntv1.png" group-title="Côte d’Ivoire",NTV Côte d’Ivoire
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bildodesign.com/africagospel/wp-content/uploads/2020/02/logo-new-gospel.jpg" group-title="Côte d’Ivoire",Africa Gospel TV
+https://edge9.vedge.infomaniak.com/livecast/ik:africagospeltv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.afroculturetv.com/wp-content/uploads/2020/01/g.png group-title="Côte d’Ivoire",Afro Culture TV
+https://exodiver.github.io/IPTV/M3U8/Token/AFCTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1260915766037295111/ptnzRpiy_400x400.jpg" group-title="Côte d’Ivoire",Obosso TV
+https://edge6.vedge.infomaniak.com/livecast/ik:obossotv_6/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.farmers.co.ke/assets/images/logo.png" group-title="Kenya",KTN Farmer
 https://exodiver.github.io/IPTV/M3U8/Token/KTNF.m3u8
@@ -1173,8 +1175,6 @@ https://exodiver.github.io/IPTV/M3U8/Token/Ebru.m3u8
 https://vidhttps.r.worldssl.net/inoorotv-origin/liveabr/inoorotv-origin/live3/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Switch-logo-purple.png/250px-Switch-logo-purple.png" group-title="Kenya",Switch TV
 http://api.new.livestream.com/accounts/27754751/events/8377002/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="Kenya",Trace Mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://kasstv.co.ke/wp-content/uploads/2018/01/cropped-kasstv.png" group-title="Kenya",Kass TV
 http://197.232.56.13:1935/live/_definst_/kasstv/playlist.m3u8
 
@@ -1229,8 +1229,6 @@ http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d2q0xv3544jvkb.cloudfront.net/images/programacao/novosb/TVM2-GERALW.jpg" group-title="Mozambique",TVM Internacional
 http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png" group-title="Mozambique",Trace Toca
-http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.acnntv.com/wp-content/uploads/2018/02/428ddc9c-2e6d-47b4-aa1e-85b0f9212c7a-300x54.jpg" group-title="Naija",Anglican Cable Network
 https://streaming.viewmedia.tv/viewsatstream14/viewsatstream14.smil/playlist.m3u8
@@ -1242,13 +1240,10 @@ https://streaming.viewmedia.tv/viewsatstream03/viewsatstream03.smil/playlist.m3u
 https://christianworld.ashttp9.visionip.tv/live/visiontvuk-religion-dunamistv-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://emmanuel.tv/images/Emmanueltv.jpeg" group-title="Naija",Emmanuel TV
 https://player-api.new.livestream.com/accounts/23202872/events/7200883/broadcasts/202791949.secure.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png" group-title="Naija",Trace Naija
-http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.lagostelevision.com/wp-content/uploads/2016/11/ltv-logo-1-300x158.png" group-title="Naija",Lagos Television
 http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.loveworldplus.tv/wp-content/uploads/2016/09/logo_small1.png" group-title="Naija",Love World Plus TV
 http://hls.live.metacdn.com/2450C7/bedkcjfty/lwplus_628.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rba.co.rw/IMG/rtv_logo.png" group-title="Rwanda",Rwanda TV
 http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
@@ -1262,23 +1257,23 @@ https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
 https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="الصومال‎",Somali National TV
-https://ap01.iqplay.tv:81/iqb8002/s4ne.m3u8
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.hctv.tv/wp-content/uploads/2018/12/HCTV_90x90.png" group-title="الصومال‎",Horn Cable TV
 http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://batalaalenews.net/uploads/article/photo/IMG_CB9499-460371-7315F8-84FB45-969063-049959.jpg" group-title="الصومال‎",Bulsho TV
-https://ap01.iqplay.tv:81/iqb8002/bu1sho41.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.dalkatv.net/wp-content/uploads/2019/02/logo-header.png" group-title="الصومال‎",Dalka TV
-https://ap01.iqplay.tv:8082/iq/d11k1web/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/so-dacwa-tv-9649.jpg" group-title="الصومال‎",Dacwa TV
-https://ap01.iqplay.tv:81/iqb8002/d13w1.m3u8
+https://ap02.iqplay.tv:8082/iqb8002/bu1sho41/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.puntlandtvradio.net/wp-content/uploads/2016/04/cropped-puntlandtv1-1.png" group-title="الصومال‎",Puntland TV
-https://ap01.iqplay.tv:81/iqb8002/p2t25.m3u8
+https://ap02.iqplay.tv:8082/iqb8002/p2t25/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://shaashada.com/images/somalicable.png" group-title="الصومال‎",Somali cable
-https://ap01.iqplay.tv:81/iqb8002/somc131.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://somdromo.com/wp-content/uploads/2018/07/somnews-tv.png" group-title="الصومال‎",SomNews TV 
-https://ap01.iqplay.tv:81/iqb8002/s0mnew12.m3u8
+https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.universaltvsomali.net/themes/tvuniversal/images/logo_badge.png" group-title="الصومال‎",Universal TV
 https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://kalsantv.com/wp-content/uploads/2017/11/new-size.png" group-title="الصومال‎",Kalsan TV
+http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.saabtv.com/wp-content/uploads/2018/02/SaabTV_191x180transparent.png" group-title="الصومال‎",Kalsan TV
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.saabtv.com/wp-content/uploads/2018/02/SaabTV_191x180transparent.png" group-title="الصومال‎",SBC
+http://cdn.mediavisionuae.com:1935/live/sbctv.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://ayvnews.com/wp-content/uploads/2018/09/spacer-bg-ayv-logo6.png" group-title="Sierra Leone‎",AYV
 https://1219373429.rsc.cdn77.org/live/stream-1/chunklist.m3u8
@@ -1289,17 +1284,14 @@ https://1423954428.rsc.cdn77.org/live/ngrp:stream-1_all/playlist.m3u8
 https://bozztv.com/36bay2/gin/giniko_rts1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://africa7.tv/wp-content/uploads/2019/05/cropped-logo-bon.png" group-title="Senegal",Africa 7
 https://exodiver.github.io/IPTV/M3U8/Token/AFR7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.d5tv.fr/fond-d5-v3.png" group-title="Senegal",D5 TV
-https://tv.xksgroup.com/d5tv/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://an-news.com/wp-content/uploads/2019/05/aan.png" group-title="Senegal",ANN TV
+http://vod.acangroup.org:1935/output/anntv.stream/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://d5tv.fr/wp-content/uploads/2020/07/d5tv_carre.png" group-title="Senegal",D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://d5music.tv/wp-content/uploads/2020/07/d5music.png" group-title="Senegal",D5 Music
+https://live.creacast.com/d5music/smil:d5music.smil/media.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://leeeko.tv/wp-content/uploads/2019/12/LogoTv002.png" group-title="Senegal",Leeeko TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://trace.company/wp-content/uploads/2019/07/AFRIKORA-RVB.png" group-title="Senegal",Trace Afrikora
-https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/6/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/sites/23/2016/11/logo_africa-1.png" group-title="South Africa",Trace Africa
-http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="South Africa",Trace Gospel South Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/b5/8d/8b/b58d8bd93eeca728426b5fafcdf4d50a.png" group-title="السودان",Sudan TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
