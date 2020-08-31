@@ -1065,8 +1065,6 @@ http://178.132.3.162:88/Al_Nahar_Drama/video.m3u8?token=test
 http://178.132.3.162:88/Cairo_Cinema/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.wataan.com/uploads/24112016-094644PM.png" group-title="مَصر",Cairo Drama
 http://178.132.3.162:88/Cairo_Drama/video.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://storage.googleapis.com/cbc-sofra-assets/images/sofra-logo.png" group-title="مَصر",CBC Sofra
-http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2356.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://fomny.com/Video/Egypt/Cima/logo.gif" group-title="مَصر",Cima
 http://178.132.3.162:88/Cima/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.niletc.tv/images/cinema.png" group-title="مَصر",Nile Cinema
@@ -1145,13 +1143,13 @@ https://exodiver.github.io/IPTV/M3U8/Token/WFA.m3u8
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@690091/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rti.ci/images/logo_rti1.png" group-title="Côte d’Ivoire",RTI 1
-https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rti.ci/images/logo_rti1.png" group-title="Côte d’Ivoire",RTI 2
-https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rti.ci/images/logo_la_3.png" group-title="Côte d’Ivoire",RTI La 3
-https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/playlist.m3u8
+https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rti.ci/webtv/images/logo.png" group-title="Côte d’Ivoire",RTI Web TV
-https://www.enovativecdn.com:4433/rticdn/smil:rtiwebtv.smil/playlist.m3u8
+https://www.enovativecdn.com/rticdn/smil:rtiwebtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a12television.com/WEB/wp-content/uploads/2020/02/Logo-CG2.png" group-title="Côte d’Ivoire",Christ Live
 https://exodiver.github.io/IPTV/M3U8/Token/Cliv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.notretelevision.org/images/ntv1.png" group-title="Côte d’Ivoire",NTV Côte d’Ivoire
