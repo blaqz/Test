@@ -311,6 +311,8 @@ http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist_w272324549_b6
 http://stream2.tv5.com.ph:1935/live3/smil:onesports.smil/chunklist_w730697820_b628000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1920px-PTVLogo2017.svg.png" group-title="Pilipinas",PTV 
 https://exodiver.github.io/IPTV/M3U8/Token/PTVPH.m3u8
+#EXTINF:-1 tvg-logo="https://www.knowledgechannel.org/wp-content/uploads/2020/06/2020WEBLOGO_1.png" group-title="Pilipinas",Knowledge
+https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8|X-Forwarded-For=45.134.224.4
 #EXTINF:-1 tvg-logo="http://cltv36.tv/assets/img/logo127.png" group-title="Pilipinas",Central Luzon Television
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/HopeChannel.us.png" group-title="Pilipinas",Hope Phillippines
