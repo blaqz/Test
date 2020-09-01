@@ -26,8 +26,6 @@ http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
 http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 #EXTINF:-1 tvg-id="NFW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="香港",南方衛視
 http://39.135.19.169:18890/PLTV/88888888/224/3221225738//index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="ZJP.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="香港",珠江频道
-http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/zjpd/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="TSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="台湾",台視(台湾)
 http://p06.iptv2asia.com:18888/http/001
