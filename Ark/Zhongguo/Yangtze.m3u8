@@ -298,7 +298,7 @@ http://39.130.206.213:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8
 http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="粵語",翡翠台                  
-http://61.238.6.49:8000/bysid/1
+http://live.crhoy.ga:8080/fhtv/lianyou2010/1
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="粵語",J2台                  
 http://61.238.6.49:8001/bysid/82
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="粵語",無綫明珠台(TVB Pearl)
@@ -352,7 +352,7 @@ https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ctstvnet.com/resources/res_1/pc/images/logo.png" group-title="粵語",亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 tvg-ID="618.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png" group-title="粵語",有線18台
-http://61.238.6.49:8000/bysid/17
+http://live.crhoy.ga:8080/fhtv/lianyou2010/17
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg" group-title="粵語",澳視澳門台
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
