@@ -376,6 +376,20 @@ https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://itisgadget.com/wp-content/uploads/2019/06/Myanmar-TV-Channel-MNTV-Live-Streaming.png" group-title="မြန်မာဘာသာ",MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="မြန်မာဘာသာ",MWD
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd-variety-80x80-e0a.jpg" group-title="မြန်မာဘာသာ",MWD Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdfamily3-80x80-e0a.jpg" group-title="မြန်မာဘာသာ",MWD Family
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdshopping3-80x80-e0a.jpg" group-title="မြန်မာဘာသာ",MWD Shopping
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwddoc-80x80-e0a.jpg" group-title="မြန်မာဘာသာ",MWD Documentary
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" ggroup-title="မြန်မာဘာသာ",MWD Movies
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" g group-title="မြန်မာဘာသာ",MWD Series
+http://203.81.84.130/hls/mwd_serie/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="ประเทศไทย",ดูทีวีสีช่อง 3
 https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
