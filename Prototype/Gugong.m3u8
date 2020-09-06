@@ -31,6 +31,9 @@ https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8
 https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="新马",Astro Awani(马来西亚)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/346_300.png" group-title="新马",Astro AEC
+http://62.210.127.217:8080/snwYC0SQEg/rAh0q9pwwq/28704?play_token=VJqCzLgNIO&token=QhVcUhcJRggXXQAHBFJTAVMPUgAAVlYAVlUNVwQHUlcIVlZRAlQCBw1GGURBEkJRAFtpWgVEXlFdUwVVSkAXElxFa1oAQ14QA1cFXwZSEhhDQl9eBEReUlBdAVlfVFJYDxsWQw0FRggXVgdUClESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXBg1TFBoRAgkRDREWTENcQDEmGxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABUAgNUFEs=
+
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
 http://61.238.6.49:8000/bysid/1
