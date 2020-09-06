@@ -72,8 +72,8 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://210.210.155.66/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Malaysia",TVIKIM
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tvah.png",TV Alhijrah
-https://fvtv.mywire.org/playlist/nujj7qrkcz-u0wjkpejqa.m3u8|Referer=https://www.youtube.com
+#EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png group-title="Malaysia",TV Alhijrah
+https://fvtv.mywire.org/playlist/nujj7qrkcz-u0wjkpejqa.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
