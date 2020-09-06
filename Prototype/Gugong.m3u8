@@ -34,7 +34,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/st
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/346_300.png" group-title="新马",Astro AEC
 http://62.210.127.217:8080/snwYC0SQEg/rAh0q9pwwq/28704?play_token=VJqCzLgNIO&token=QhVcUhcJRggXXQAHBFJTAVMPUgAAVlYAVlUNVwQHUlcIVlZRAlQCBw1GGURBEkJRAFtpWgVEXlFdUwVVSkAXElxFa1oAQ14QA1cFXwZSEhhDQl9eBEReUlBdAVlfVFJYDxsWQw0FRggXVgdUClESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXBg1TFBoRAgkRDREWTENcQDEmGxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABUAgNUFEs=
 
-
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="香港",J2台                  
@@ -63,8 +62,6 @@ http://livetv.dnsfor.me/channel.6.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="NFW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="香港",南方衛視
 http://39.135.19.169:18890/PLTV/88888888/224/3221225738//index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="ZJP.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="香港",珠江频道
-http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/zjpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="NOP.HK" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="香港",Now Sports 精選
 http://teslagram.com/live/channel_630.m3u8
 #EXTINF:-1 tvg-id="NOW.HK" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="香港",Now新聞
@@ -285,7 +282,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="新闻",鳳凰资讯(中国)
 http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 #EXTINF:-1 tvg-id="FHW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="新闻",鳳凰衛視中文(中国)
-http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
+http://live.centerch.com/fhzw.m3u8 
 #EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="新闻",Fox News(美国)
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FXB.US" tvg-logo="https://static.epg.best/us/FoxBusiness.us.png" group-title="新闻",FOX Business(美国)
