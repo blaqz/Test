@@ -45,8 +45,8 @@ http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Hello
 https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
-#EXTINF:-1 tvg-ID="HIT.MY" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Malaysia",Hits
-http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
+#EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png group-title="Malaysia",TV Alhijrah
+https://fvtv.mywire.org/playlist/nujj7qrkcz-u0wjkpejqa.m3u8
 #EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="Malaysia",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
