@@ -70,10 +70,10 @@ http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="Malaysia",K+
 http://210.210.155.66/h/h08/01.m3u8
-#EXTINF:-1 tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="Malaysia",One TV
-http://103.47.132.164/PLTV/88888888/224/3221227143/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Malaysia",TVIKIM
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tvah.png",TV Alhijrah
+https://fvtv.mywire.org/playlist/nujj7qrkcz-u0wjkpejqa.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
