@@ -62,8 +62,6 @@ http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 #EXTINF:-1 tvg-id="ZSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="台湾",中視
 http://live5.ocnttv.com:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 tvg-id="HSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="台湾",華視
-http://live5.ocnttv.com:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="台湾",大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
