@@ -59,7 +59,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="CNN.ID" tvg-logo="https://storage.googleapis.com/pastiumroh/images/1/XSOMnYNboBxAsfBVvgynT783VsxAr18NyimcWKpU.png" group-title="Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DAA.ID" tvg-logo="https://static.epg.best/id/DaaiTv.id.png" group-title="Indonesia",Da Ai Indonesia
-https://dcunilive7-lh.akamaihd.net/i/dclive_1@135498/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1599466399~acl=%2fi%2fdclive_1%40135498*~data=hdntl~hmac=31430c6d91cf848738fb63fcdeedc297444e58ac1449931b996b7881f892906e
+http://103.47.132.164/PLTV/88888888/224/3221227241/index.m3u8
 #EXTINF:-1 tvg-id="GTV.ID" tvg-logo="https://gtv.id/assets/images2020/logo.png" group-title="Indonesia",Global TV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="HII.ID" tvg-logo="https://brief.promax.org/images/uploads/7503/hot-spot-hi-indo-carbon__twocolumncontent.png" group-title="Indonesia",Hi! Indo
@@ -89,7 +89,7 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4
 #EXTINF:-1 tvg-id="RTV.ID" tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV
 http://103.47.132.164/PLTV/88888888/224/3221227223/index.m3u8
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV
-https://fvtv.mywire.org/playlist/id/001.m3u8|Referer=https://www.vidio.com
+http://103.47.132.164/PLTV/88888888/224/3221227227/index.m3u8
 #EXTINF:-1 tvg-id="TRA.ID" tvg-logo="https://lofrev.net/wp-content/photos/2017/05/transtv_logo.png" group-title="Indonesia",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TR7.ID" tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",Trans 7
@@ -239,6 +239,10 @@ http://51.52.156.22:8888/http/009
 https://uk.easyview.eu/hls/truemovies.m3u8|Referer=https://easyview.eu/watch.php?stream=5star-2
 #EXTINF:-1 tvg-id="WAR.Asia" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Movies",Warner TV
 http://live5.ocnttv.com:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 tvg-id="SIN.ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="Movies",Sinema Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221227233/index.m3u8
+#EXTINF:-1 tvg-id="ZBI.ID" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/zee_bioskop.png" group-title="Movies",Zee Bioskop
+http://103.47.132.164/PLTV/88888888/224/3221227537/index.m3u8
 
 #EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Family",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
