@@ -256,7 +256,7 @@ https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master480p.m3u8|X-For
 #EXTINF:-1 tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/RHM-HDTV_New-2017.gif" group-title="កម្ពុជា",Hang Meas HDTV
 http://220.158.149.26:8182/hls/TV00000000000000000119@HHZT.m3u8
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="မြန်မာဘာသာ",MRTV 4
-https://foreveralive1-a.akamaihd.net/c5a0c8cf3e84488e8051c414c09829ad/ap-southeast-1/6057949479001/profile_0/chunklist.m3u8
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/224_300.png" group-title="印度精选",Star Vijay
 http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 
