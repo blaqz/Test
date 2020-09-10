@@ -283,11 +283,6 @@ http://5.135.92.133:52841/out/u/440_1.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="拉丁精选",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
-
-#EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="中东精选",MBC 1
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
-#EXTINF:-1 tvg-id="MBC.EG" tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Timur Tengah",MBC Masr
-https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
 #EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东精选",Abu Dhabi Aloula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-id="ATV.TR" tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="中东精选",ATV
