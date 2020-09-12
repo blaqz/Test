@@ -492,15 +492,42 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvzoom.com.br/wp-content/uploads/2019/03/cropped-logo1.png" group-title="Português/Brasil",Zoom
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/24Horas.es.png" group-title="Español",24 Horas
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="Español",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="Español",LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="Español",LA Sexta
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="Español",LA Sexta
 https://a3m-la6-live-dash.secure.footprint.net/live/nas_live/la6/dash/la6.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d5fd1778c0756d5749a2f6ca2c5b63f4984c67cb
-#EXTINF:-1 tvg-logo="https://static.epg.best/es/24Horas.es.png" group-title="Español",24 Horas
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Español",Antena 3
+https://a3m-a3-live-dash.secure.footprint.net/live/nas_live/a3/dash/a3.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=00ff29da4e0598b0de8a5b930b5c969d4997f9010
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Atreseries.es.png" group-title="Español",Atreseries
+https://a3m-a3s-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06179f00f76e46bf918b09c17e47079a1efa09954
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="Español",Boing
+https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="Español",Be Mad
+https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="Español",Cuatro
+https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Divinity.es.png" group-title="Español",divinity
+https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="Español",Energy
+https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/FactoriaFiccion.es.png" group-title="Español",FDF
+https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2018/12/10/a73d6e6782962b1b45a2ae20e9d06ed21544435933.jpg" group-title="Español",mtmad 24h
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="Español",Neox
+https://a3m-neox-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0c83968d0468c93bf4e3e0738e60ece3f3c5ee9c0
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Mega.es.png" group-title="Español",Mega
+https://a3m-nova-live-dash.secure.footprint.net/live/nas_live/nova/dash/nova.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06b89b965159503223e9617ee4f6d9a022132ea16
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="Español",Telecinco
+https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
+#EXTINF:-1 tvg-id="RCN.CO" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="Español",Teledeporte
+https://rtvelivestream.akamaized.net/tdp_dvr.m3u8|X-Forwarded-For=188.208.141.21
+
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png" group-title="Español",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/CANAL-PARLAMENTO.png" group-title="Español",Canal Parlamento
@@ -511,17 +538,12 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_2000_av-b.m3u8
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ru/RTEspanol.ru.png" group-title="Español",RT Español
 http://rt-esp.secure.footprint.net:80/1102_2500Kb.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/DeutscheWelleEs.de.png" group-title="Español",DW (Español)
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="Español",Intereconomia
-https://strvideo1.ondamedia.es/hls/eltorotv.m3u8
+https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8|X-Forwarded-For=188.208.141.21
 #EXTINF:-1 tvg-logo="https://ocio.lne.es/img_contenido/noticias/2018/12/717579/la_voz_canal_24_horas.jpg" group-title="Español",La Voz 24h 
 https://pull12.atresmedia.com/lavoz/master.m3u8
-#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2018/12/10/a73d6e6782962b1b45a2ae20e9d06ed21544435933.jpg" group-title="Español",mtmad 24h
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/pl/TNT.pl.png" group-title="Español",TNT Español
-http://5.101.145.18:4000/tnt
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg" group-title="Español",TPA 7
 https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Español",Zee Mundo
