@@ -247,15 +247,14 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnline1arsbt/master.m3u8
 http://178.132.3.162:88/Baraem/video.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ksa-channel_logo.png" group-title="السعودية",Al Saudiya
+https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=5.41.253.25
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="السعودية",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="السعودية",القرآن الكريم
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="السعودية",القرآن الكريم
-http://103.47.132.164/PLTV/88888888/224/3221227311/index.m3u8
+http://m.live.net.sa:1935/live/quran/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="السعودية",السنة النبوية
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.artonline.tv/UploadImages/aflam-1-blue.png" group-title="السعودية",ART Aflam 1
 https://p-mysat-live.ercdn.net/artaflam1/artaflam1_576p.m3u8
@@ -285,7 +284,7 @@ https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_1080p/chun
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="السعودية",Rotana Comedy
 https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="السعودية",Rotana Drama
-https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_480p/chunks.m3u8
+https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="السعودية",Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="السعودية",Rotana Khaleejiya
