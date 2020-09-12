@@ -516,7 +516,7 @@ https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
 https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/FactoriaFiccion.es.png" group-title="Español",FDF
 https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
-#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2018/12/10/a73d6e6782962b1b45a2ae20e9d06ed21544435933.jpg" group-title="Español",mtmad 24h
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/cimg/1001/2019/10/01/mtmad-logo_7fd4.gif" group-title="Español",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="Español",Neox
 https://a3m-neox-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0c83968d0468c93bf4e3e0738e60ece3f3c5ee9c0
