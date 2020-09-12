@@ -883,7 +883,7 @@ http://150.161.93.220/hls/1080/index.m3u8
 #EXTINF:-1 tvg-id="TVP.PE" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="拉丁精选",TV Perú
 http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 
-#EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东精选",Abu Dhabi Aloula
+#EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东精选",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="السعودية",Rotana Drama
 https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_1080p/chunks.m3u8
