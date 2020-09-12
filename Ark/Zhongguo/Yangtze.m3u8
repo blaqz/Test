@@ -41,7 +41,7 @@ http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%B9%B4%E4%BB%A3ERANewsHD.png" group-title="新闻台",年代新聞
 http://live5.ocnttv.com:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 tvg-id="DLX.TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="新闻台",東森新聞
-http://live5.ocnttv.com:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="新闻台",東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="新闻台",三立財經新聞
@@ -414,7 +414,7 @@ http://live5.ocnttv.com:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1 tvg-id="ZTL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="臺灣",中天娱乐
 http://live5.ocnttv.com:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-id="DLX.TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="臺灣",東森新聞
-http://live5.ocnttv.com:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DLC.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="臺灣",東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="GS1.TW" tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="臺灣",公視
