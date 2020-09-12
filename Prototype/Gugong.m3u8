@@ -792,32 +792,6 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 
 
-#EXTINF:-1 tvg-id="ONC.MX" tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="拉丁精选",Canal Once
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-ID="TEL.AR" tvg-logo="https://telefe-static2.akamaized.net/media/143174/logo-rosario-368x80.png" group-title="拉丁精选",Telefe Rosario
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-#EXTINF:-1 tvg-id="CV9.DO" tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-HD-full.png" group-title="拉丁精选",Color Visión
-https://exodiver.github.io/IPTV/M3U8/Token/COV9.m3u8
-#EXTINF:-1 tvg-id="CUB.CU" tvg-logo="https://todocubaonline.com/wp-content/uploads/2016/01/cubavisi%C3%B3n-internacional.png" group-title="拉丁精选",Cubavision International
-https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-id="ECU.EC" tvg-logo="https://www.ecuavisa.com/sites/default/files/otro_logo.png" group-title="拉丁精选",Ecuavisa
-http://173.212.247.99/hls/tvec2.m3u8
-#EXTINF:-1 tvg-id="ETO.ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="拉丁精选",El Toro
-https://strvideo1.ondamedia.es/hls/eltorotv.m3u8
-#EXTINF:-1 tvg-id="MUT.MX" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="拉丁精选",Multimedios
-https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
-#EXTINF:-1 tvg-id="CA6.CR" tvg-logo="https://cdn.repretel.com/2018/v3/images/canal_6.png" group-title="拉丁精选",Repretel 6
-http://cr-repretel-canal6-app-2xtaqe-live-0-cdn-0.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
-#EXTINF:-1 tvg-id="RPC.PA" tvg-logo="https://static.epg.best/pa/RPCCanal4.pa.png" group-title="拉丁精选",RPC Canal 4
-https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
-#EXTINF:-1 tvg-id="RT3.PT" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="拉丁精选",RTP 3
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RPC.PY" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="拉丁精选",Trece
-http://174.138.118.252/live/trece.m3u8
-#EXTINF:-1 tvg-id="TVB.BR" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png" group-title="拉丁精选",TV Brasil
-http://150.161.93.220/hls/1080/index.m3u8
-#EXTINF:-1 tvg-id="TVP.PE" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png" group-title="拉丁精选",TV Perú
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东精选",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
