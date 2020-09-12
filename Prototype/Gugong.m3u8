@@ -885,9 +885,11 @@ http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东精选",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="السعودية",Rotana Drama
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="中东精选",Rotana Drama
 https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="ATV.TR" tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png" group-title="中东精选",ATV
 http://tv.kuzeytv.com/hls/atv.m3u8
 #EXTINF:-1 tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="中东精选",Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ksa-channel_logo.png" group-title="中东精选",Al Saudiya
+http://livecdnh3.tvanywhere.ae/hls/dmchd/index.m3u8|X-Forwarded-For=45.9.249.246
