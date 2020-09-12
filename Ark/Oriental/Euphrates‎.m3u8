@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alaraby_TV_Logo.png/280px-Alaraby_TV_Logo.png" group-title="Pan Arabic",Al Araby 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="Pan Arabic",Al Araby 1
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alhurra.com/themes/custom/voa/images/sites_logos/logo_Al_Hurra.png" group-title="Pan Arabic",Al Hurra
 http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
