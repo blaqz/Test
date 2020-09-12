@@ -33,6 +33,8 @@ https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/346_300.png" group-title="新马",Astro AEC
 http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/10295
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/ch8.png" group-title="新马",ช่อง 8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8|X-Forwarded-For=45.64.186.133
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
 http://61.238.6.49:8000/bysid/1
