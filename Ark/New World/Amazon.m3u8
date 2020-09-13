@@ -526,6 +526,8 @@ https://a3m-nova-live-dash.secure.footprint.net/live/nas_live/nova/dash/nova.mpd
 https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
 #EXTINF:-1 tvg-id="RCN.CO" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="Español",Teledeporte
 https://rtvelivestream.akamaized.net/tdp_dvr.m3u8|X-Forwarded-For=188.208.141.21
+#EXTINF:-1 tvg-logo="https://static.epg.best/es/13TV.es.png" group-title="Español",Trece
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png" group-title="Español",3/24
