@@ -508,6 +508,8 @@ https://a3m-a3s-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?be
 https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="Español",Be Mad
 https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/ClanTVE.es.png" group-title="Español",Clan
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=188.208.141.21
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="Español",Cuatro
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Divinity.es.png" group-title="Español",divinity
