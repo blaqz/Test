@@ -793,8 +793,8 @@ https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
 https://rtvelivestream.akamaized.net/tdp_dvr.m3u8|X-Forwarded-For=188.208.141.21
 #EXTINF:-1 tvg-id="RCN.CO" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/logo-canal-rcn-2019.png" group-title="拉丁精选",RCN
 https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
-#EXTINF:-1 tvg-id="RCN.CO" tvg-logo="https://static.epg.best/es/ClanTVE.es.png group-title="拉丁精选",Clan
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=188.208.141.21
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="拉丁精选",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东精选",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
