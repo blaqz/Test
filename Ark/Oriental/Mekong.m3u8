@@ -183,10 +183,14 @@ http://103.47.132.164/PLTV/88888888/224/3221227223/index.m3u8
 #EXTINF:-1 tvg-id="ZBI.ID" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/zee_bioskop.png" group-title="Indonesia",Zee Bioskop
 http://103.47.132.164/PLTV/88888888/224/3221227537/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.antaranews.com/img/antaranews.com.png" group-title="Indonesia",Antara
+https://zalogi.xyz/exo/playlist/antara-saya-coba-dulu.m3u8
 #EXTINF:-1 tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="Indonesia",ADiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="Indonesia",Albahjah tv
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balitv.tv/wp-content/uploads/2017/12/logobalitv2.png group-title="Indonesia",Bali TV
+https://zalogi.xyz/exo/playlist/balitv-saya-coba-dulu.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/DaaiTv.id.png" group-title="Indonesia",Da Ai Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221227241/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyJunior.uk.png" group-title="Indonesia",Disney Jr Indonesia
