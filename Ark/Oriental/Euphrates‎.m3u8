@@ -83,7 +83,7 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 http://185.105.4.106:1935/live/Bahrain%20Sports%202/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/jo/JordanTV.jo.png" group-title="الْأُرْدُنّ",Jordan TV
-http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/jo/JordanSports.jo.png" group-title="الْأُرْدُنّ",Jordan Sports
 http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jascotvstreaming.com/uploads/topics/15602802937098.png" group-title="الْأُرْدُنّ",A ONE
@@ -101,7 +101,7 @@ http://82.212.74.100:8000/live/hls/8131.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kaifatv.com/images/logo1.jpg group-title="الْأُرْدُنّ",Kaifa TV
 http://192.34.153.37:7777/Kaifa_HD/Kaifa_High.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/jo/AlRoyaTV.jo.png" group-title="الْأُرْدُنّ",Ro'ya TV
-https://roya-live.ercdn.net/roya/roya.m3u8
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://content.osn.com/bob/745x419/KT1.jpg" group-title="الكويت",Kuwait 1
 https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8
@@ -127,7 +127,7 @@ http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://aghaniaghani.com/images/logo.png" group-title="لبنان",Aaghani
-https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
+https://mysat-live.ercdn.net/aghanitv/aghanitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/lb/AlManar.lb.png" group-title="لبنان",Al Manar
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/lb/AlJadeed.lb.png" group-title="لبنان",Al Jadeed
@@ -140,6 +140,8 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
 https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alqanat9.com/wp-content/uploads/2017/03/logo.png" group-title="لبنان",Al Qanat
 https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://arabicagroup.tv/images/logo.png" group-title="لبنان",Arabica Music
+https://mysat-live.ercdn.net/arabicatv/arabicatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png" group-title="لبنان",Charity TV
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="لبنان",Future TV
@@ -247,7 +249,6 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnline1arsbt/master.m3u8
 http://178.132.3.162:88/Baraem/video.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ksa-channel_logo.png" group-title="السعودية",Al Saudiya
-http://livecdnh3.tvanywhere.ae/hls/dmchd/index.m3u8|X-Forwarded-For=45.9.249.246
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="السعودية",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
@@ -520,6 +521,11 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemusa-icon.png" group-title="العراق",GEM USA
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemusa-icon.png" group-title="العراق",Gem Travel
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemusa-icon.png" group-title="العراق",Gem Modern Economy
+https://d2e40kvaojifd6.cloudfront.net/stream/modern_enonomy/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/hmn.png" group-title="العراق",Health Media Network
 https://livestream.5centscdn.com/cls092118/8f8400b79584fa2a1315aa5e7612d4f3.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="العراق",Hodhod
@@ -560,10 +566,31 @@ https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/
 https://live2.parnian.tv/hls/live/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" group-title="العراق",PBC Tapesh
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana 1
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana Family
 http://51.15.229.209/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana Cinema
 http://51.15.193.156/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana+ HD
+http://51.158.106.105/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana Family
+http://51.15.229.209/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana Iranian
+http://51.158.97.214/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana Junior
+http://51.158.74.129/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana Music
+http://163.172.147.113/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana Classic
+http://163.172.138.186/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana Comedy
+http://51.158.116.146/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana Documentary
+http://163.172.174.60/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Persiana Nostalgia
+http://163.172.128.92/hls/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/persianbazar.png" group-title="العراق",Persian Bazar
 https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pmc.tv/img/logo-light@2x.png" group-title="العراق",PMC
@@ -576,8 +603,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 http://51.15.254.60/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Poker TV Arabic
 http://51.15.193.127/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Salamat Tube
-http://51.158.116.146/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiofarda.com/Content/responsive/RFE/fa-IR/img/logo.png" group-title="العراق",Radio Farda
 https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://amoosat.com/wp-content/uploads/2016/12/rjtv-1.jpg" group-title="العراق",Radio Javan
