@@ -224,18 +224,19 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2e
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="家庭娱乐",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="家庭娱乐",HGTV
 http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="家庭娱乐",HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
 #EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="家庭娱乐",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="家庭娱乐",National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="家庭娱乐",Nat Geo People
-http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
-#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="家庭娱乐",Nat Geo Wild
-http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
@@ -248,11 +249,8 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="家庭娱乐",Nat Geo People
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
-
 #EXTINF:-1 tvg-ID="SBF.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/ad6c5b49-3c34-4a6d-ab5b-d1bd2eea8fda.png" group-title="家庭娱乐",SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="USA",TLC
-http://103.47.132.164/PLTV/88888888/224/3221227113/index.m3u8
 
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="新闻",Al Jazeera(中东)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -430,8 +428,15 @@ https://e10.julinewr.xyz/ingestnb4s/sec_network/f.m3u8|Referer=https://espn-live
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
 #EXTINF:-1 tvg-ID="TBE.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="美国",TBS
 https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
+
 #EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="美国",TLC
 http://103.47.132.164/PLTV/88888888/224/3221227113/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-ID="TLC.IN" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="美国",TLC
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
 #EXTINF:-1 tvg-ID="TNT.US" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="美国",TNT
 https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
 #EXTINF:-1 tvg-ID="TVL.US" tvg-logo="https://static.epg.best/us/TVLandEast.us.png" group-title="美国",TV Land
