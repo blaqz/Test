@@ -63,8 +63,10 @@ http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 http://live5.ocnttv.com:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="电影",CCTV-6 电影
 http://221.230.141.252/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
-#EXTINF:-1 tvg-id="TYP.Asia" tvg-logo="http://www.celestialmovies.com/assets/img/cm.png" group-title="电影",天映頻道
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8|X-Forwarded-For=89.187.163.193
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 group-title="TYP.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="电影",天映频道
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC 高清电影
 https://www.fanmingming.cn/hls/chchd.m3u8
