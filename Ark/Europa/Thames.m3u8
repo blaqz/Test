@@ -400,10 +400,17 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2013/12/foodfood-new-logo.jpg" group-title="Infotainment",Food Food
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Infotainment",History
-http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
-#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Infotainment",History
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Infotainment",HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
 #EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Infotainment",HGTV
 http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png" group-title="Infotainment",Outdoor Channel
