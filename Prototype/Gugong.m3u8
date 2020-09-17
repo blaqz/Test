@@ -334,7 +334,6 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 
 #EXTINF:-1 tvg-id="WXD.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
 http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
-
 #EXTINF:-1 tvg-id="DLY.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="电影",東森洋片
 http://live5.ocnttv.com:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-id="DLP.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影",東森電影
@@ -755,10 +754,16 @@ https://itpolly.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 tvg-ID="STG.IN" tvg-logo="https://static.epg.best/nl/StarGold.nl.png" group-title="印度精选",Star Gold
 https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:-1 tvg-id="ZTV.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/androidapphover_2.png" group-title="印度精选",Zee TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 group-title="ZTV.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/androidapphover_2.png" group-title="印度精选",Zee TV
+https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-id="ZZC.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="印度精选",Zee Cinema
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 
 #EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/224_300.png" group-title="印度精选",Star Vijay
 http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
