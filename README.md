@@ -43,8 +43,7 @@ d) Some TV station introduced DRM to their link to block non paying customers fr
 2. Why the mediacorp links from singapore can't work for me? <br />
 
 Ans:
-Mediacorp recently blocked all non Singaporean users from using their link. Please use a vpn that allows you to connect to a singapore server 
-if these channels are what you want to watch<br />
+Mediacorp have implemented DRM for their links. Please use a IPTV players that supports playing DRM links.<br />
 
 3. Why the links so slow or stuttering?  <br />
 
@@ -106,18 +105,15 @@ As a hobby<br />
 
 1. What software did you use to make the EPGs  <br />
 
-Ans: 
-Webgrabplus. It is 5 Euros a year.<br />
+Ans: Webgrabplus. It is 5 Euros a year.<br />
 
 2. Why no tv guide for my channel?<br />
 
-Ans: 
-Because no one published a tv guide for your channel on the internet. If there isn't one,I can't do anything.<br />
+Ans: Because no one published a tv guide for your channel on the internet. If there isn't one,I can't do anything.<br />
 
 3. Any plans for a compressed EPG? The EPG is like 30MB and I am on a internet plan that offers very little data  <br />
 
-Ans: 
-Very soon<br />
+Ans: Very soon<br />
 
 4. Why the tv guide for my channel does not appear,despite it being in the EPG?
 
