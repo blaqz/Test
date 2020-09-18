@@ -540,9 +540,9 @@ http://211.245.55.198:1024/m2u/239.192.67.99:49220
 #EXTINF:-1 tvg-ID="KSW.KR" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="韩国",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="MBC.KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="韩国",MBC
-http://121.160.102.99:1935/jmbc_tv/myStream/playlist.m3u8
+http://211.245.55.198:1024/m2u/239.192.67.101:49220
 #EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="韩国",SBS
-http://59.25.202.81:1935/live/UBCstream/playlist.m3u8
+http://211.245.55.198:1024/m2u/239.192.67.98:49220
 #EXTINF:-1 tvg-ID="SBM.KR" tvg-logo="https://static.epg.best/kr/SBSMTV.kr.png" group-title="韩国",SBS MTV
 http://211.245.55.198:1024/m2u/239.192.55.4:49220
 #EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBSCNBC.kr.png" group-title="韩国",SBS CNBC
@@ -551,12 +551,9 @@ http://211.245.55.198:1024/m2u/239.192.53.8:49220
 http://211.245.55.198:1024/m2u/239.192.58.7:49220
 #EXTINF:-1 tvg-ID="JBG.KR" tvg-logo="http://image.jtbcgolf.joins.com/main/191218_h_top_logo.png" group-title="韩国",JTBC Golf
 http://211.245.55.198:1024/m2u/239.192.67.165:49220
-#EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="韩国",tvN
-http://211.245.55.198:1024/m2u/239.192.53.7:49220
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="tvN.Asia" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="韩国",tvN Asia
+#EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="韩国",tvN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
