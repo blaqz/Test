@@ -376,14 +376,9 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1 tvg-id="WXK.TW" tvg-logo="https://www.nowtv.now.com/media/logo/140-wbg-e.png" group-title="电影",衛視卡式
 https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 
-#EXTINF:-1 tvg-id="DLY.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="电影",東森洋片
-http://live5.ocnttv.com:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-#EXTINF:-1 tvg-id="DLP.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影",東森電影
-http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/200px-Phoenix_Movies.svg.png" group-title="电影",凤凰电影
 https://www.fanmingming.cn/hls/fhdy.m3u8
-#EXTINF:-1 tvg-id="LSD.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影",龍祥時代電影
-http://live5.ocnttv.com:8080/ZZ_shidai/ZZ_shidai.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
