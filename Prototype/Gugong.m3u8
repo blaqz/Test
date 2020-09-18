@@ -1,6 +1,11 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.indtv.online/jiotvplus/Suvarna_News.mpd
+#EXTINF:-1 tvg-id="626" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png" group-title="Kannada",Suvarna News
+https://drm.indtv.online/jiotvplus/Suvarna_News.mpd|user-agent="KAIOS"
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.192.208.255
 #KODIPROP:inputstream.adaptive.license_key_headers=X-Forwarded-For=14.192.208.255
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4|X-Forwarded-For=14.192.208.255
