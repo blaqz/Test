@@ -135,6 +135,17 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="Football",Матч!
 https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd1.png" group-title="Sports",Premier League 1
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd1_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd2.png" group-title="Sports",Premier League 2
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd3.png" group-title="Sports",Premier League 3
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd3_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd4.png" group-title="Sports",Premier League 4
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd4_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/premier_hd5.png" group-title="Sports",Premier League 5
+https://cdn161.cloud-streaming.com/ilike4kin_x5/premierhd5_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/GolfChannel.us.png" group-title="Golf",Golf Channel
 http://190.122.109.218:8888/http/010
 #EXTINF:-1 tvg-id="" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="Golf",One Golf
