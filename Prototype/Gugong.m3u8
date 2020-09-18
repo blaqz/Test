@@ -1,14 +1,9 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.indtv.online/jiotvplus/Suvarna_News.mpd
-#EXTINF:-1 tvg-id="626" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png" group-title="Kannada",Suvarna News
-https://drm.indtv.online/jiotvplus/Suvarna_News.mpd|user-agent="KAIOS"
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.192.208.255
 #KODIPROP:inputstream.adaptive.license_key_headers=X-Forwarded-For=14.192.208.255
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4|X-Forwarded-For=14.192.208.255
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 group-title="MPD" tvg-logo="https://i.postimg.cc/d1LB2Nm4/myunifi.png",SPORTS 1
 http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd|X-Forwarded-For=14.192.208.255
 
@@ -39,10 +34,6 @@ https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.m
 
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="新马",亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 tvg-id="tv.9" tvg-logo="https://i.mjh.nz/.images/tv.9.png" group-title="Malaysia",TVNZ 1
-https://i.mjh.nz/nz/tv.9.m3u8|X-Forwarded-For=180.149.231.44
-
 
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="新马",TV1(马来西亚)
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
