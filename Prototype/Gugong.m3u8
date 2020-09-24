@@ -552,7 +552,7 @@ http://211.245.55.198:1024/m2u/239.192.55.4:49220
 http://live2.abcdsky.com:1935/live/MNET/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OCN.KR" tvg-logo="https://static.epg.best/kr/OCN.kr.png" group-title="韩国",OCN
-http://live.yingtaotvapp.com/OCN/playlist.m3u8
+http://live2.abcdsky.com:1935/live/OCN/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
