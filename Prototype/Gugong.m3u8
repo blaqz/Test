@@ -523,19 +523,21 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-ID="KS1.KR" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="韩国",KBS 1
-http://211.245.55.198:1024/m2u/239.192.67.100:49220
+http://live2.abcdsky.com:1935/live/KBS1/playlist.m3u8
 #EXTINF:-1 tvg-ID="KS2.KR" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="韩国",KBS 2
-http://211.245.55.198:1024/m2u/239.192.67.99:49220
+http://live2.abcdsky.com:1935/live/KBS2/playlist.m3u8
 #EXTINF:-1 tvg-ID="KSW.KR" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="韩国",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="MBC.KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="韩国",MBC
-http://211.245.55.198:1024/m2u/239.192.67.101:49220
+http://live2.abcdsky.com:1935/live/MBC/playlist.m3u8
 #EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="韩国",SBS
-http://211.245.55.198:1024/m2u/239.192.67.98:49220
+http://live2.abcdsky.com:1935/live/SBS/playlist.m3u8
 #EXTINF:-1 tvg-ID="JB1.KR" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="韩国",JTBC
-http://211.245.55.198:1024/m2u/239.192.58.7:49220
+http://live2.abcdsky.com:1935/live/JTBC/playlist.m3u8
 #EXTINF:-1 tvg-ID="JBG.KR" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png" group-title="韩国",JTBC Sports
 http://211.245.55.198:1024/m2u/239.192.69.7:49220
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
