@@ -826,7 +826,7 @@ https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master480p.m3u8|X-For
 https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8|X-Forwarded-For=202.143.111.214
 #EXTINF:-1 tvg-id="VT6.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="东南亚精选",VTV 6(越南)
 https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8|X-Forwarded-For=202.143.111.214
-#EXTINF:-1 tvg-logo="https://zekerxa.com/img/Mrtv.101fd7fc.png" group-title="东南亚精选",MRTV(缅甸)
+#EXTINF:-1 tvg-id="" tvg-logo="https://zekerxa.com/img/Mrtv.101fd7fc.png" group-title="东南亚精选",MRTV(缅甸)
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="东南亚精选",MRTV-4(缅甸)
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
