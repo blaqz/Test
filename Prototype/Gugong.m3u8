@@ -652,18 +652,10 @@ http://51.52.156.22:8888/http/006
 http://51.52.156.22:8888/http/007
 #EXTINF:-1 tvg-id="CTV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="英国",CITV
 http://51.52.156.22:8888/http/001
-#EXTINF:-1 tvg-id="CH4.UK" tvg-logo="https://static.epg.best/gb/Channel4.uk.png" group-title="英国",Channel 4
-https://uk.easyview.eu/hls/channel4.m3u8|Referer=https://easyview.eu/watch.php?stream=channel4
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="英国",4 Music
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
-#EXTINF:-1 tvg-id="4SV.UK" tvg-logo="https://static.epg.best/gb/4Seven.uk.png" group-title="英国",4Seven
-https://uk.easyview.eu/hls/4seven.m3u8|Referer=https://easyview.eu/watch.php?stream=4seven
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gb/5star.uk.png" group-title="英国",5 Star
-https://uk.easyview.eu/hls/5star.m3u8|Referer=https://easyview.eu/watch.php?stream=5star
 #EXTINF:-1 tvg-id="FOC.UK" tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="英国",Forces TV
 https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GLD.UK" tvg-logo="https://static.epg.best/gb/GOLD.uk.png" group-title="英国",Gold
-https://uk.easyview.eu/hls/gold.m3u8|Referer=https://easyview.eu/watch.php?stream=gold
 #EXTINF:-1 tvg-id="KIS.UK" tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="英国",Kiss
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
 #EXTINF:-1 tvg-id="KER.UK" tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="英国",Kerrang!
