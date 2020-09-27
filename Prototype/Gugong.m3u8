@@ -826,7 +826,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="东南亚精选",ดูทีวีสีช่อง 3(泰国)
 https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="东南亚精选",ททบ. 5(泰国)
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
+http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 #EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="东南亚精选",ช่อง 7(泰国)
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="东南亚精选",Workpoint(泰国)
