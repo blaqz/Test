@@ -51,11 +51,12 @@ https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9NzUwNzI1MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJuaWNraGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkxZRkN2aER4LUt5TzJMSlRGRVptQjZEdzF0a2szLXdYTUhDbkEyTm51dTNOd092c2VCb1VsY08tRXVia3pGSnYzR2dmU2hWaVpHMXpUWEs4c180QThkbVBkMGQ4VzhtVzEtRmhWb0trMWZENWVwajhETGo5YWNhRVVwYUNOTl9IazJtVVMwU0RRdTRTemtFaDM4eElEWHpENXQ4MTZtcFp2WnpPVjdnNThsV0xiOGJGQ2RBeE1TOXN3Z04xSnlnVVZVNDgyNV96R3FYdjdxZ0tlYmVJZHdvQUw3TWpSRG5JWWdDTkdsRmg4RThLSnBBSGhmQlZqaEdRN0FNc2RyNVlBPT0iLCJ1ZGlkIjoiOGZjYmM3NDQ5MWQ4N2I5MSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=isSiO0V6FOZ8%2bmkj7jp%2b3Ud%2fID0%3d
-#EXTINF:-1 tvg-logo="https://static.epg.best/za/Nickelodeon.za.png" group-title="मनोरंजन",Nickelodeon India
-https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="मनोरंजन",Nick Jr India
+https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZoZExpdmVfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkxZRkN2aER4LUt5TzJMSlRGRVptQjZEdzF0a2szLXdYTUhDbkEyTm51dTNOd092c2VCb1VsY08tRXVia3pGSnYzR2dmU2hWaVpHMXpUWEs4c180QThkbVBkMGQ4VzhtVzEtRmhWb0trMWZENWVwajhETGo5YWNhRVVwYUNOTl9IazJtVVMwU0RRdTRTemtFaDM4eElEWHpENXQ4MTZtcFp2WnpPVjdnNThsV0xiOGJGQ2RBeE1TOXN3Z04xSnlnVVZVNDgyNV96R3FYdjdxZ0tlYmVJZHdvQUw3TWpSRG5JWWdDTkdsRmg4RThLSnBBSGhmQlZqaEdRN0FNc2RyNVlBPT0iLCJ1ZGlkIjoiOGZjYmM3NDQ5MWQ4N2I5MSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=woN6w5C3RnowAIFR%2b7R3G8oSKz0%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODMzNjMwMiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJzb25pY19kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmTFlGQ3ZoRHgtS3lPMkxKVEZFWm1CNkR3MXRrazMtd1hNSENuQTJObnV1M053T3ZzZUJvVWxjTy1FdWJrekZKdjNHZ2ZTaFZpWkcxelRYSzhzXzRBOGRtUGQwZDhXOG1XMS1GaFZvS2sxZkQ1ZXBqOERMajlhY2FFVXBhQ05OX0hrMm1VUzBTRFF1NFN6a0VoMzh4SURYekQ1dDgxNm1wWnZaek9WN2c1OGxXTGI4YkZDZEF4TVM5c3dnTjFKeWdVVlU0ODI1X3pHcVh2N3FnS2ViZUlkd29BTDdNalJEbklZZ0NOR2xGaDhFOEtKcEFIaGZCVmpoR1E3QU1zZHI1WUE9PSIsInVkaWQiOiI4ZmNiYzc0NDkxZDg3YjkxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=VcX3eSm5D4yC4meoEqT8wwlR4Qs%3d
+#EXTINF:-1 tvg-logo="https://cdn.sonicgang.com/wp-content/uploads/2019/03/logo.png" group-title="मनोरंजन",Nickelodeon Sonic
 https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -866,8 +867,6 @@ https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
 #EXTINF:-1 tvg-id="ZZC.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="印度精选",Zee Cinema
 https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 
-#EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/224_300.png" group-title="印度精选",Star Vijay
-http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="Raj.IN" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="印度精选",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="印度精选",Kalaignar
@@ -879,12 +878,6 @@ https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3
 
 #EXTINF:-1 tvg-ID="ABA.IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="印度精选",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-ID="SBA.IN" tvg-logo="https://static.epg.best/in/SangeetBangla.in.png" group-title="印度精选",Sangeet Bangla
-https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1 tvg-ID="STJ.IN" tvg-logo="https://static.epg.best/in/StarJalsha.in.png" group-title="印度精选",Star Jalsha
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1 tvg-ID="ZZB.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="印度精选",Zee Bangla
-https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-id="BAL.IN" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="印度精选",Balle Balle
 https://live.wmncdn.net/balleballe/dfe65ad07232e060b007d2483602c06a.sdp/chunks.m3u8
