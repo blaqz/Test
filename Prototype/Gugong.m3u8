@@ -886,12 +886,12 @@ https://rtvelivestream.akamaized.net/tdp_dvr.m3u8|X-Forwarded-For=188.208.141.21
 #EXTINF:-1 tvg-id="RCN.CO" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/logo-canal-rcn-2019.png" group-title="拉丁精选",RCN
 https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 
+#EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="中东精选",MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 #EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东精选",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="中东精选",LBC International
 https://shls-lbci-prod.shahid.net/lbci-prod.m3u8
-#EXTINF:-1 tvg-id="MB3.SA" tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="中东精选",MBC 3
-https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.artonline.tv/UploadImages/aflam-1-blue.png" group-title="中东精选",ART Aflam 1
 https://p-mysat-live.ercdn.net/artaflam1/artaflam1_576p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="中东精选",Rotana Drama
