@@ -15,26 +15,51 @@ https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="मनोरंजन",Colors Rishtey
 https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/ColorsInfinity.in.png" group-title="मनोरंजन",Colors Infinity
-https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFeGdqT2ZiRzd1V21BNm1CZ2JzRnpQSWpOeDhXSG5Md2xIN1k3WkRNa0doendfeDZCdEdqQlk2emJGV0ZBUFdQakYxNHk4ZWZyZGlzanJseklaQjhHR1FyWkFxZGU0WnZqRUxQeXJPS19uTHE0bnRWZGhzc3RfWHVnSWcxaHhHWWMtSk14Q0FLTnRWeUw3bW9iM1JTVzhFQmJhY1VCVzJkTGxsNERrSk1OTDFaYkl3blRNVk16WUxETFBNc25pUHdEN1ZiTHRsZXVZYkhOUnR5ZnQ3M1BDTk56cXk2VzdMVGRKMnFUZnhRUlFYWmU1SEl6S0t0SjM0cXFmWkY5LUFYZmFDZnIybVhxUnZNQ0VJTnhFbk1zRkF3RWlLc3VMNWxhNEZPR3RVdzBhR1k1M190NzFkMXVSYjY0VHJkeFBmakV1VTk5OV9Lc3MwN00xajZfZ1RDSlU9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTA3NDk1MjAiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzaW5maW5pdHlfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkV4Z2pPZmJHN3VXbUE2bUJnYnNGelBJak54OFdIbkx3bEg3WTdaRE1rR2h6d194NkJ0R2pCWTZ6YkZXRkFQV1BqRjE0eThlZnJkaXNqcmx6SVpCOEdHUXJaQXFkZTRadmpFTFB5ck9LX25McTRudFZkaHNzdF9YdWdJZzFoeEdZYy1KTXhDQUtOdFZ5TDdtb2IzUlNXOEVCYmFjVUJXMmRMbGw0RGtKTU5MMVpiSXduVE1WTXpZTERMUE1zbmlQd0Q3VmJMdGxldVliSE5SdHlmdDczUENOTnpxeTZXN0xUZEoycVRmeFFSUVhaZTVISXpLS3RKMzRxcWZaRjktQVhmYUNmcjJtWHFSdk1DRUlOeEVuTXNGQXdFaUtzdUw1bGE0Rk9HdFV3MGFHWTUzX3Q3MWQxdVJiNjRUcmR4UGZqRXVVOTk5X0tzczA3TTFqNl9nVENKVT0iLCJ1ZGlkIjoiSHJUSVlTUm9NRVd3UlNhZm43TklPWXN5bjVzMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=gBhqX3aeUEQMeuW8%2fXEvI98VFf8%3d
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ColorsInfinity.in.png" group-title="मनोरंजन",Colors Infinity
 https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd
 
+      "name": "Colors Cineplex HD",
+      "cat": "Movies",
+      "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Colors%20Cineplex%20HD.png",
+      "agent": "playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6@skr@https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09IiwidWRpZCI6IjhmY2JjNzQ0OTFkODdiOTEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=kDDuaRYMluIZgvBF%2bOaY3z97df0%3d",
+      "link": "https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd"
+	  
+    {
+      "name": "Nick Jr.",
+      "cat": "Kids",
+      "imglink": "https://github.com/skr1405/A2Z-Shows/raw/master/Image/Nick%20Jr.png",
+      "agent": "playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6@skr@https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTA3NDg5NDciLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoibmlja2p1bmlvcl9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmTFlGQ3ZoRHgtS3lPMkxKVEZFWm1CNkR3MXRrazMtd1hNSENuQTJObnV1M053T3ZzZUJvVWxjTy1FdWJrekZKdjNHZ2ZTaFZpWkcxelRYSzhzXzRBOGRtUGQwZDhXOG1XMS1GaFZvS2sxZkQ1ZXBqOERMajlhY2FFVXBhQ05OX0hrMm1VUzBTRFF1NFN6a0VoMzh4SURYekQ1dDgxNm1wWnZaek9WN2c1OGxXTGI4YkZDZEF4TVM5c3dnTjFKeWdVVlU0ODI1X3pHcVh2N3FnS2ViZUlkd29BTDdNalJEbklZZ0NOR2xGaDhFOEtKcEFIaGZCVmpoR1E3QU1zZHI1WUE9PSIsInVkaWQiOiI4ZmNiYzc0NDkxZDg3YjkxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=xHspfV23BsuJOP0jiSCdvUX8txQ%3d",
+      "link": "https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd"
+    },
+    {
+      "name": "MTV HD+",
+      "cat": "Music",
+      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8n5wtLgbTmIRWx5tFz_1-znsvM-zayiuhOw&usqp=CAU",
+      "agent": "playkit/android-3.9.4 com.tv.v18.viola/3.3.0 (Linux;Android 6.0.1) ExoPlayerLib/2.9.6@skr@https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZoZExpdmVfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkxZRkN2aER4LUt5TzJMSlRGRVptQjZEdzF0a2szLXdYTUhDbkEyTm51dTNOd092c2VCb1VsY08tRXVia3pGSnYzR2dmU2hWaVpHMXpUWEs4c180QThkbVBkMGQ4VzhtVzEtRmhWb0trMWZENWVwajhETGo5YWNhRVVwYUNOTl9IazJtVVMwU0RRdTRTemtFaDM4eElEWHpENXQ4MTZtcFp2WnpPVjdnNThsV0xiOGJGQ2RBeE1TOXN3Z04xSnlnVVZVNDgyNV96R3FYdjdxZ0tlYmVJZHdvQUw3TWpSRG5JWWdDTkdsRmg4RThLSnBBSGhmQlZqaEdRN0FNc2RyNVlBPT0iLCJ1ZGlkIjoiOGZjYmM3NDQ5MWQ4N2I5MSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=woN6w5C3RnowAIFR%2b7R3G8oSKz0%3d",
+      "link": "https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd"
+    },
+ 
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="मनोरंजन",DD National 
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9NzUwNzI1MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJuaWNraGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkxZRkN2aER4LUt5TzJMSlRGRVptQjZEdzF0a2szLXdYTUhDbkEyTm51dTNOd092c2VCb1VsY08tRXVia3pGSnYzR2dmU2hWaVpHMXpUWEs4c180QThkbVBkMGQ4VzhtVzEtRmhWb0trMWZENWVwajhETGo5YWNhRVVwYUNOTl9IazJtVVMwU0RRdTRTemtFaDM4eElEWHpENXQ4MTZtcFp2WnpPVjdnNThsV0xiOGJGQ2RBeE1TOXN3Z04xSnlnVVZVNDgyNV96R3FYdjdxZ0tlYmVJZHdvQUw3TWpSRG5JWWdDTkdsRmg4RThLSnBBSGhmQlZqaEdRN0FNc2RyNVlBPT0iLCJ1ZGlkIjoiOGZjYmM3NDQ5MWQ4N2I5MSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=isSiO0V6FOZ8%2bmkj7jp%2b3Ud%2fID0%3d
 #EXTINF:-1 tvg-logo="https://static.epg.best/za/Nickelodeon.za.png" group-title="मनोरंजन",Nickelodeon India
-https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODMzNjMwMiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJzb25pY19kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmTFlGQ3ZoRHgtS3lPMkxKVEZFWm1CNkR3MXRrazMtd1hNSENuQTJObnV1M053T3ZzZUJvVWxjTy1FdWJrekZKdjNHZ2ZTaFZpWkcxelRYSzhzXzRBOGRtUGQwZDhXOG1XMS1GaFZvS2sxZkQ1ZXBqOERMajlhY2FFVXBhQ05OX0hrMm1VUzBTRFF1NFN6a0VoMzh4SURYekQ1dDgxNm1wWnZaek9WN2c1OGxXTGI4YkZDZEF4TVM5c3dnTjFKeWdVVlU0ODI1X3pHcVh2N3FnS2ViZUlkd29BTDdNalJEbklZZ0NOR2xGaDhFOEtKcEFIaGZCVmpoR1E3QU1zZHI1WUE9PSIsInVkaWQiOiI4ZmNiYzc0NDkxZDg3YjkxIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=VcX3eSm5D4yC4meoEqT8wwlR4Qs%3d"
 #EXTINF:-1 tvg-logo="https://cdn.sonicgang.com/wp-content/uploads/2019/03/logo.png" group-title="मनोरंजन",Nickelodeon Sonic
-https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
+https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png" group-title="मनोरंजन",Sony ETV
 http://216.144.250.174/Sony_TV_HD_01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png" group-title="मनोरंजन",Sony ETV
-http://216.144.250.174/Sony_TV_HD_o2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png" group-title="मनोरंजन",Sony ETV
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="मनोरंजन",Sony SAB
 http://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="मनोरंजन",Sony Yay
