@@ -873,9 +873,9 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 https://a3m-la6-live-dash.secure.footprint.net/live/nas_live/la6/dash/la6.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d5fd1778c0756d5749a2f6ca2c5b63f4984c67cb
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="拉丁精选",Antena 3
 https://a3m-a3-live-dash.secure.footprint.net/live/nas_live/a3/dash/a3.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=00ff29da4e0598b0de8a5b930b5c969d4997f9010
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="拉丁精选",Azteca Uno
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="拉丁精选",Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8|X-Forwarded-For=194.41.112.22
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="拉丁精选",Azteca Uno 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="拉丁精选",Azteca Uno 2
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8|X-Forwarded-For=194.41.112.22
 #EXTINF:-1 tvg-id="AZ7.MX" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="拉丁精选",Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
