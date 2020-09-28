@@ -856,19 +856,19 @@ https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/index_1_av-p.
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 #EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东精选",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="中东精选",LBC International
-https://shls-lbci-prod.shahid.net/lbci-prod.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.artonline.tv/UploadImages/aflam-1-blue.png" group-title="中东精选",ART Aflam 1
+#EXTINF:-1 tvg-id="LBI.LB" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="中东精选",LBC International
+https://mysat-live.ercdn.net/lbcinternational/lbcinternational_720p.m3u8
+#EXTINF:-1 tvg-id="AF1.SA" tvg-logo="https://www.artonline.tv/UploadImages/aflam-1-blue.png" group-title="中东精选",ART Aflam 1
 https://p-mysat-live.ercdn.net/artaflam1/artaflam1_576p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="中东精选",Rotana Drama
+#EXTINF:-1 tvg-id="ROT.EG" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="中东精选",Rotana Drama
 https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="中东精选",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="中东精选",Kanal D
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/3.ir.png" group-title="中东精选",IRIB 3 
-https://soltaan.com/iptv/irib3hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="中东精选",IRIB 1
+https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="中东精选",Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" group-title="中东精选",2M Monde
+#EXTINF:-1 tvg-id="2MD.MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" group-title="中东精选",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
