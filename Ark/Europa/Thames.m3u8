@@ -127,7 +127,7 @@ http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="GOL.US" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="Football",GolTV
 https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="FXS.US" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="Football",Fox Soccer Plus
-https://e10.julinewr.xyz/ingestnb4s/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
+https://e10.habrox.xyz/ingestnb4s/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/es/RealMadridTV.es.png" group-title="Football",Real Madrid TV Español
