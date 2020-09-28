@@ -153,8 +153,6 @@ https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="لبنان",LBC
 https://mysat-live.ercdn.net/lbchd/lbchd_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="لبنان",LBC International
-https://shls-lbci-prod.shahid.net/lbci-prod.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="لبنان",LBC International
 https://mysat-live.ercdn.net/lbcinternational/lbcinternational_720p.m3u8
 
 
@@ -436,9 +434,9 @@ http://82.212.74.3:8000/live/hls/7506.m3u8
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="العراق",IRIB 1
-https://live.farsiland.com/tv1/stream.m3u8
+https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/TV2English.ir.png" group-title="العراق",IRIB 2
-https://live.farsiland.com/tv2/stream.m3u8
+https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/3.ir.png" group-title="العراق",IRIB 3 
 https://soltaan.com/iptv/irib3hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/ChannelFour.ir.png" group-title="العراق",IRIB 4
