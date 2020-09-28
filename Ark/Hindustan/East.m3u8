@@ -229,10 +229,12 @@ http://wpc.c175.taucdn.net/24C175/ankhilapunjabz/rbstreamrb.m3u8
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://akaalchannel.tv/assets/images/logo.png" group-title="मनोरंजन",Channel Akkal
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 tvg-logo="http://live.timetv.news/uploads/tv_image/time-tv-live.png" group-title="मनोरंजन",Chardik Time
-http://radio.lapunjabiradio.com/hls/chardikalatimetv.m3u8
+#EXTINF:-1 tvg-logo="https://timetv.news/wp-content/uploads/2020/09/new-3d-logo-2.jpg" group-title="मनोरंजन",Chardik Time
+https://rtmp.smartstream.video/cttvindia/cttvindia/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://live.timetv.news/uploads/tv_image/chardikla-time-tv-north-america.jpg" group-title="मनोरंजन",Chardik Time North America
 http://radio.lapunjabiradio.com/hls/chardiklanorthamerica.m3u8
+#EXTINF:-1 tvg-logo="http://live.timetv.news/uploads/tv_image/chardikla-time-tv-north-america.jpg" group-title="मनोरंजन",Chardik Gabruu
+http://radio.lapunjabiradio.com/hls/gtv.m3u8
 #EXTINF:-1 tvg-logo="http://www.desichannel.in/wp-content/uploads/2019/12/desi-logo.png" group-title="मनोरंजन",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://ektatv.com/wp-content/uploads/2018/07/01-1.png" group-title="मनोरंजन",Fastway TV
@@ -285,7 +287,7 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://steelbirdmusic.tv/assets/images/logo1.png" group-title="ਸੰਗੀਤ",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pitaara.tv/wp-content/uploads/2018/12/logo.png" group-title="ਫਿਲਮਾਂ",Pitaara
-http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8
+https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dreamdth.com/wp-content/uploads/2019/12/Maha-Punjabi-1024x579.jpg" group-title="फ़िल्म",Maha Punjabi
 http://103.144.200.7:8080/hls/ttv/index.m3u8
 
