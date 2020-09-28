@@ -6,7 +6,7 @@
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 tvg-ID="ACC.US" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2016/07/acc_network.png" group-title="USA/Canada",ACCN
-https://e10.julinewr.xyz/ingestnb4s/accn/f.m3u8|Referer=https://espn-live.stream/stream/45458.html
+https://e10.habrox.xyz/ingestnb4s/accn/f.m3u8|Referer=https://espn-live.stream/stream/45458.html
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="USA/Canada",24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
@@ -15,12 +15,12 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top2.png" group-title="USA/Canada",AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="ACC.US" tvg-logo="https://espnpressroom.com/us/files/2019/10/ACCNETWORK-780x405.png" group-title="USA/Canada", ACC Network
-https://e10.julinewr.xyz/ingestnb4s/accn/f.m3u8|Referer=https://espn-live.stream/stream/45458.html
+https://e10.habrox.xyz/ingestnb4s/accn/f.m3u8|Referer=https://espn-live.stream/stream/45458.html
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.datocms-assets.com/14027/1574124139-afvsundaysabc-5400x3616.png" group-title="USA/Canada",AFV!
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AHC.US" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" group-title="USA/Canada",AHC
-https://e10.julinewr.xyz/ingestnb4s/ahc/f.m3u8|Referer=https://espn-live.stream/stream/70077.html
+https://e10.habrox.xyz/ingestnb4s/ahc/f.m3u8|Referer=https://espn-live.stream/stream/70077.html
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/04/logo.png" group-title="USA/Canada",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/AdultSwimOnAir.us.png" group-title="USA/Canada",Adult Swim
@@ -43,9 +43,9 @@ https://americateve-rokuus.amagi.tv/master.m3u8
 
 
 #EXTINF:-1 tvg-id="BET.CA" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="USA/Canada",BET
-https://e10.julinewr.xyz/ingestnb4s/bet/f.m3u8|Referer=https://espn-live.stream/stream/68076.html
+https://e10.habrox.xyz/ingestnb4s/bet/f.m3u8|Referer=https://espn-live.stream/stream/68076.html
 #EXTINF:-1 tvg-id="BTN.US" tvg-logo="https://static.epg.best/us/BigTenNetwork.us.png" group-title="USA/Canada",BTN
-https://e10.julinewr.xyz/ingestnb4s/btn/d.m3u8|Referer=https://espn-live.stream/stream/45629.html
+https://e10.habrox.xyz/ingestnb4s/btn/d.m3u8|Referer=https://espn-live.stream/stream/45629.html
 #EXTINF:-1 tvg-id="" tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="USA/Canada",Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="USA/Canada",Bek Sports West
@@ -136,12 +136,12 @@ https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
 
 #EXTINF:-1 tvg-id="ESN.US" tvg-logo="https://static.epg.best/us/ESPNNews.us.png" group-title="USA/Canada",ESPN News
-https://e10.julinewr.xyz/ingestnb4s/espn_news/f.m3u8|Referer=https://espn-live.stream/stream/45458.html
+https://e10.habrox.xyz/ingestnb4s/espn_news/f.m3u8|Referer=https://espn-live.stream/stream/45458.html
 #EXTINF:-1 tvg-id="ESU.US" tvg-logo="https://static.epg.best/us/ESPNU.us.png" group-title="USA/Canada",ESPN U
-https://e10.julinewr.xyz/ingestnb4s/espn_u/d.m3u8|Referer=https://espn-live.stream/stream/45457.html
+https://e10.habrox.xyz/ingestnb4s/espn_u/d.m3u8|Referer=https://espn-live.stream/stream/45457.html
 
 #EXTINF:-1 tvg-id="SEC.US" tvg-logo="http://static.epg.best/us/SECNetwork.us.png" group-title="USA/Canada",SEC Network
-https://e10.julinewr.xyz/ingestnb4s/sec_network/f.m3u8|Referer=https://espn-live.stream/stream/46070.html
+https://e10.habrox.xyz/ingestnb4s/sec_network/f.m3u8|Referer=https://espn-live.stream/stream/46070.html
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/PH1Gg4p.png" group-title="USA/Canada",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
@@ -149,13 +149,13 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 https://itpolly.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FS1.US" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="USA/Canada",FS1 USA
-https://e10.julinewr.xyz/ingestnb4s/fs1/f.m3u8|Referer=https://espn-live.stream/stream/45459.html
+https://e10.habrox.xyz/ingestnb4s/fs1/f.m3u8|Referer=https://espn-live.stream/stream/45459.html
 #EXTINF:-1 tvg-id="FS2.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA/Canada",FS2 USA
-https://e10.julinewr.xyz/ingestnb4s/fs2/d.m3u8|Referer=https://espn-live.stream/stream/45460.html
+https://e10.habrox.xyz/ingestnb4s/fs2/d.m3u8|Referer=https://espn-live.stream/stream/45460.html
 #EXTINF:-1 tvg-id="FS2.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA/Canada",FS2 USA
 http://198.144.159.43/upl3_2.m3u8
 #EXTINF:-1 tvg-id="FSD.US" tvg-logo="https://static.epg.best/us/FoxDeportes.us.png" group-title="USA/Canada",Fox Deportes
-https://e10.julinewr.xyz/ingestnb4s/foxdep/d.m3u8|Referer=https://sportsbay.org/embed/45529/1/fox-deportes-live.html
+https://e10.habrox.xyz/ingestnb4s/foxdep/d.m3u8|Referer=https://sportsbay.org/embed/45529/1/fox-deportes-live.html
 
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="USA/Canada",Fox
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
