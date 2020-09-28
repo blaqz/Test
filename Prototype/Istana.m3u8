@@ -642,7 +642,7 @@ https://cdn3.wowza.com/1/ZE9CSWR3ZDV2WEFQ/VENORDlI/hls/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Peo.US" tvg-logo="https://poster.starhubgo.com/Linear_channels2/440_1920x1080_HTV.png" group-title="USA",People TV
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+https://a.jsrdn.com/broadcast/b5d2k0x/c.m3u8
 #EXTINF:-1 tvg-ID="POP.US" tvg-logo="https://static.epg.best/us/PopTV.us.png" group-title="USA",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-id="SEC.US" tvg-logo="https://static.epg.best/us/SECNetwork.us.png" group-title="USA",SEC Network
