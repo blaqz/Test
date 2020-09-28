@@ -526,7 +526,7 @@ https://a3m-neox-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd
 https://a3m-nova-live-dash.secure.footprint.net/live/nas_live/nova/dash/nova.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06b89b965159503223e9617ee4f6d9a022132ea16
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="Español",Telecinco
 https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
-#EXTINF:-1 tvg-id="RCN.CO" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="Español",Teledeporte
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="Español",Teledeporte
 https://rtvelivestream.akamaized.net/tdp_dvr.m3u8|X-Forwarded-For=188.208.141.21
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/13TV.es.png" group-title="Español",Trece
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
@@ -717,7 +717,10 @@ http://45.6.4.50:50601/America_Tucuman/video.m3u8
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://telefe-static2.akamaized.net/media/143210/logo-santa-fe-368x80.png" group-title="Argentina",Telefe Santa Fe
 http://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/master.m3u8
-#EXTINF:-1 tvg-logo="http://b.canalnet.tv/wp-content/uploads/2019/10/cumplea%C3%B1os-net-logo.png" group-title="Argentina",NET TV 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.04.01/images/logo-telefe.3874c0defd1c086d07474d5caed4df1f.png" group-title="Argentina",Telefe Bahia
+https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png group-title="Argentina",NET TV 
 https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="http://agenfor.com.ar/wp-content/uploads/2017/04/544X180-1.png" group-title="Argentina",Agenfor
@@ -988,6 +991,10 @@ http://181.189.225.36:8990/UneTv/tracks-v1a1/mono.m3u8
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 #EXTINF:-1 tvg-name="A72.MX" tvg-logo="https://static.epg.best/mx/Amastv.mx.png" group-title="México",A+
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="México",Azteca Uno
+https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8|X-Forwarded-For=194.41.112.22
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="México",Azteca Uno 2
+https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8|X-Forwarded-For=194.41.112.22
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="México",Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="México",Canal Once 
