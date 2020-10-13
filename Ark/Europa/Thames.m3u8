@@ -82,10 +82,16 @@ http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg" group-title="Financial News",NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@2.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="B01.th" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1 Asia
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2 Asia
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8"
 #EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Sports",ESPN
