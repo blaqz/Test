@@ -29,7 +29,7 @@ http://imagetvonline.imagekhabar.com:1935/live/image/playlist.m3u8
 https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png" group-title="বাংলা",BTV World
-https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/225px-Asian_TV_Logo.svg.png" group-title="বাংলা",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.atnbangla.tv/wp-content/uploads/2015/09/atn-bangla-logo-last.png" group-title="বাংলা",ATN Bangla
@@ -165,6 +165,8 @@ http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://arymusik.tv/wp-content/uploads/2018/01/ARY_Musik.png" group-title="تفریح",ARY Musik
 https://stream.arylive.com/MusikLive/index.m3u8
+#EXTINF:-1 tvg-id="APP.PK" tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png" group-title="تفریح",A-Plus
+http://niazitv.tk:8080/A-Plus-27/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.aryzindagi.tv/wp-content/uploads/2014/10/Final-logo-2.gif" group-title="تفریح",ARY Zindagi
 https://stream.arylive.com/ZindagiLive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://karytv.com/wp-content/uploads/2018/04/canada-one-channel-logo.jpg" group-title="تفریح",Canada One
