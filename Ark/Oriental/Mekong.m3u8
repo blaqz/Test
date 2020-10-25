@@ -496,7 +496,7 @@ http://27.254.130.56:80/live01/ch7.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/th/true4U.th.png" group-title="ประเทศไทย",True4U
 http://183.182.100.184/live/true4u/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="ประเทศไทย",GMM 25
-http://183.182.100.184/live/mcothd/playlist.m3u8
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="ประเทศไทย",GMM 25 HD
 https://exodiver.github.io/IPTV/M3U8/Thailand/GMM25.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/mono29.png" group-title="ประเทศไทย",Mono 29
