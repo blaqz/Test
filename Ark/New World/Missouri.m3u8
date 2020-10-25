@@ -57,7 +57,7 @@ https://thegateway.app/BizAndYou/Biz_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BrighamYoungUniversity.us.png" group-title="USA/Canada",BYUtv
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BuzzrTV.us.png" group-title="USA/Canada",Buzzr
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+https://buzzrota-web.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="USA/Canada",CBN News
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8
