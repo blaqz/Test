@@ -100,6 +100,8 @@ http://185.59.223.135/espn/index.m3u8
 http://185.59.223.135/espn2/index.m3u8
 #EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Sports",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gr/EdgeSport.gr.png" group-title="Sports",Edge Sports
+https://edgesports-stirr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports 2 Asia
