@@ -243,20 +243,18 @@ http://tvl-live.fl.freecaster.net/live/telemb/telemb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telesambre.be/sites/telesambre.easydev.be/files/logotls.png" group-title="Belgium",Telesambre
 https://tvl-live.fl.freecaster.net/live/telesambre/telesambre.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/1200px-RTRS_Logo.svg.png" group-title="Bosna",RTRS
-http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bhrt.ba/wp-content/uploads/2019/10/logo_bhrtx250.png" group-title="Bosna",BHT TV
+http://bhrtstream.bhtelecom.ba/hls15/bhrtportal_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtrs.tv/_bmp/logo-127x37.png" group-title="Bosna",RTRS
+https://parh.rtrs.tv/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.b1tv.ba/wp-content/uploads/2018/11/Logo-finish-veliki-300x300.png" group-title="Bosna",B1
 http://wowza.bihnet.net:88/hls/b1-live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-vratsa.bg/user_pic/images/bn_music.jpg" group-title="Bosna",BN Music
 https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="Bosna",777 Tehnika TV
-http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.rtvusk.ba/images/logo.png" group-title="Bosna",RTV USK
-http://ott.dobratv.net:8888/rtvusk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://televizija5.ba/wp-content/uploads/2018/04/logo_white.png" group-title="Bosna",Televizija 5
 http://37.59.21.217:8809/live/tv5web.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvtopsound.com/design/images/logo-novi-7.png" group-title="Bosna",Top Sound
-http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvtopsound.com/design/topsound.png" group-title="Bosna",Top Sound
+https://cdn.tvtopsound.com:1443/TopSoundTV/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/24Kitchen.tr.png" group-title="България",24 Kitchen България
 https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
