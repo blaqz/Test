@@ -791,8 +791,10 @@ https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/chunklist_b3128000.m3u8
 https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="Türkiye",Canlı 360
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Beyaz TV" tvg-name="Beyaz TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png" group-title="",Beyaz TV
+#EXTINF:-1 tvg-id=""" tvg-logo="https://i.ibb.co/Msq17kK/beyaztv.png" group-title="Türkiye",Beyaz TV
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=""" tvg-logo="http://www.arazitv.net/FileUpload/bs651759/File/logo.png" group-title="Türkiye",Ciftci tv
+https://waw1.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/Fox.tr.png" group-title="Türkiye",Fox Türkiye
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="Türkiye",Kanal D
