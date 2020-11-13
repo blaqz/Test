@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://static.epg.best/in/SunMusic.in.png group-title="பொழுதுபோக்கு",Sun Music
+#EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://static.epg.best/in/SunMusic.in.png" group-title="பொழுதுபோக்கு",Sun Music
 https://load.airtelxstream.in/sunmusic/smil:common.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://static.epg.best/in/SunLife.in.png" group-title="பொழுதுபோக்கு",Sun Life
