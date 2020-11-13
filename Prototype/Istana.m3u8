@@ -63,7 +63,7 @@ http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Hello
 https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
-#EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png group-title="Malaysia",TV Alhijrah
+#EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" group-title="Malaysia",TV Alhijrah
 https://fvtv.mywire.org/playlist/nujj7qrkcz-u0wjkpejqa.m3u8
 #EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="Malaysia",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
@@ -641,7 +641,7 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/PBSWPSU.us.png" group-title="USA",PBS Pennsylvania(WPSU)
 https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://d1b7flq4e9knh1.cloudfront.net/wp-content/plugins/wnet-station-wrappers/libs/images/NJTV/logo.png group-title="USA",PBS New Jersey(NJTV)
+#EXTINF:-1 tvg-ID="" tvg-logo="https://d1b7flq4e9knh1.cloudfront.net/wp-content/plugins/wnet-station-wrappers/libs/images/NJTV/logo.png" group-title="USA",PBS New Jersey(NJTV)
 https://cdn3.wowza.com/1/Yk9VdzI2QnptdXZ2/YjdacytV/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/themes/wnet/libs/images/WNET-Logo-new.png" group-title="USA",PBS Thirteen(WNET)
 https://cdn3.wowza.com/1/ZE9CSWR3ZDV2WEFQ/VENORDlI/hls/live/playlist.m3u8
