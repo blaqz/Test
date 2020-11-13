@@ -114,7 +114,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="Sports",Olympic Channel 2
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/Sportsnet360.ca.png group-title="Sports",Sportsnet 360
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/Sportsnet360.ca.png" group-title="Sports",Sportsnet 360
 https://hackey.stream/hlsrio/test.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/DDSports.in.png" group-title="Cricket",DD Sports
