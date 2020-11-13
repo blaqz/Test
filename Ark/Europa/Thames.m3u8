@@ -103,23 +103,22 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/Sportsnet360.ca.png" group-title="Sports",Sportsnet 360
 https://hackey.stream/hlsrio/test.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/DDSports.in.png" group-title="Cricket",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.exchange4media.com/news-photo/94729-dsportMain.jpg" group-title="Cricket",Discovery Sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Cricket",Star Sports Select 1
-http://103.214.202.218:8081/live/select1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Cricket",Star Sports Select 2
-http://103.214.202.218:8081/live/select2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN1.ca.png" group-title="Sports",TSN 1
+http://digitalxpress2.gcdn.co/live1/tsn11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN2ca.png" group-title="Sports",TSN 2
+http://digitalxpress2.gcdn.co/live1/tsn22/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN3.ca.png" group-title="Sports",TSN 3
+http://digitalxpress2.gcdn.co/live1/tsn33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN4.ca.png" group-title="Sports",TSN 4
+http://digitalxpress2.gcdn.co/live1/tsn44/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN4.ca.png" group-title="Sports",TSN 5
+http://digitalxpress2.gcdn.co/live1/tsn55/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Cricket",Sony Ten 1
 https://load.airtelxstream.in/sonyten1/smil:common.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Cricket",Sony Ten 2
-http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Cricket",Sony Ten 3
 https://load.airtelxstream.in/sonyten3hd/smil:common.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Cricket",Sony Six
-http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-ID="GOL.US" tvg-logo="https://static.epg.best/us/GolTVSpanish.us.png" group-title="Football",GolTV
 https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="FXS.US" tvg-logo="https://static.epg.best/us/FOXSoccerPlus.us.png" group-title="Football",Fox Soccer Plus
