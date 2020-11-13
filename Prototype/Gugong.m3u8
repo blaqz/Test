@@ -824,7 +824,7 @@ https://exodiver.github.io/IPTV/M3U8/Token/WPTV.m3u8
 https://amdottlive.akamaized.net/hls/live/2014575/iwantabscbn/master480p.m3u8|X-Forwarded-For=45.134.224.4
 #EXTINF:-1 tvg-id="ANC.PH" tvg-logo="https://static.epg.best/ph/ANC.ph.png" group-title="东南亚精选",ANC
 https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master480p.m3u8|X-Forwarded-For=45.134.224.4
-#EXTINF:-1 tvg-id="VT1.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="东南亚精选",VTV 1
+#EXTINF:-1 tvg-id="VT1.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="东南亚精选",VTV 1
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="东南亚精选",MRTV-4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
