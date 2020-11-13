@@ -391,7 +391,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://www.poplife.com.ph/sites/default/files/styles/featured_schedule_image/public/thumbnail_poplifelogo_131.jpg" group-title="Pilipinas",POP Life
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.untvweb.com/wp-content/themes/untvweb-2016/images/untv-news-and-rescue-logo.png" group-title="Pilipinas",UNTV Public
-https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b2592000.m3u8
+https://www.untvweb.com/live-stream/untvweb.m3u8
 
 #EXTINF:-1 tvg-logo="https://zekerxa.com/img/Mrtv.101fd7fc.png" group-title="မြန်မာဘာသာ",MRTV
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
