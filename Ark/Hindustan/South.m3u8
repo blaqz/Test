@@ -7,7 +7,7 @@ https://load.airtelxstream.in/sunlife/smil:common.smil/playlist.m3u8
 https://load.airtelxstream.in/suntv/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/222_300.png" group-title="பொழுதுபோக்கு",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-podhigai%20orginal_2.png group-title="பொழுதுபோக்கு",3DD Podhigai
+#EXTINF:-1 tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-podhigai%20orginal_2.png group-title="பொழுதுபோக்கு",DD Podhigai
 https://load.airtelxstream.in/ddpodhigai/smil:common.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://threetamil.tv/wp-content/uploads/2019/03/cropped-3-tamil-1.png" group-title="பொழுதுபோக்கு",3 Tamil
@@ -39,7 +39,7 @@ https://ibctamilcanada-live.ibctamil.com/transcode/ibccanada.m3u8
 #EXTINF:-1 tvg-logo="http://www.cvstv.in/images/cvs.png" group-title="பொழுதுபோக்கு",CVS TV
 http://45.79.203.234:1935/cvstv/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.aasaitvlive.in/img/aasai_tv.png" group-title="பொழுதுபோக்கு",Aasai TV
-https://osaitv.livebox.co.in/osaihls/live.m3u8
+http://osaitv.livebox.co.in/osaihls/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.asianetmobiletv.com/channels/Dheeran.png" group-title="பொழுதுபோக்கு",Dheeran
 https://5c75277727cd1.streamlock.net/dheeran/dheeran/chunklist_w1814131663.m3u8
 #EXTINF:-1 tvg-logo="https://www.jaytv.in/wp-content/uploads/2018/06/Jay-TV-Transparant-Logo.png" group-title="பொழுதுபோக்கு",Jay
@@ -130,6 +130,8 @@ http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 http://akaram.zecast.net/akaram-live/akaramgalatta1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png" group-title="நகைச்சுவை",IBC Comedy
 https://ibccomedy-live.ibctamil.com/transcode/ibccomedy_std.m3u8
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/ADTYA.png" group-title="நகைச்சுவை",Adithya TV
+https://load.airtelxstream.in/adithyatv/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Sirippoli_tv.jpg/150px-Sirippoli_tv.jpg" group-title="நகைச்சுவை",Sirippoli
 https://load.airtelxstream.in/sirippoli/smil:common.smil/playlist.m3u8
 
@@ -215,7 +217,6 @@ https://load.airtelxstream.in/v6news/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/10tv_telugu.jpg/150px-10tv_telugu.jpg" group-title="తెలుగు",10TV
 https://load.airtelxstream.in/10tvtelugunews/smil:common.smil/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.amritatv.com/vf-image/amritatv_logo.png" group-title="മലയാളം",Amrita
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title="മലയാളം",ACV
@@ -236,6 +237,10 @@ http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 http://vidnetcdn.vidgyor.com:80/janamtv-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.asianetnews.com/v1/images/kannada_prabha_icon_2.png" group-title="മലയാളം",Suvarna News
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://sunnetwork.in/ChannelLogo/46surya-music.jpg" group-title="മലയാളം",Surya Music
+https://load.airtelxstream.in/suryamusic/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sunnetwork.in/ChannelLogo/20surya-tv.jpg" group-title="മലയാളം",Surya TV
+https://load.airtelxstream.in/suryatv/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.asianetmobiletv.com/channels/Flowers.png" group-title="മലയാളം",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/897672724880936964/DaWnKvjI.png" group-title="മലയാളം",GoSree Vision
@@ -285,12 +290,16 @@ https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.abplive.com/wp-content/themes/abp-majha/images/logo/majhaLogoD.png" group-title="मराठी ",ABP Majha
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo="https://www.satlogo.com/hires/jj/jai_maharashtra_in.png" group-title="मराठी ",Jai Maharashtra
-https://streamidvo.multitvsolution.in/live/JaiMaharashtra-f/p4.m3u8
-#EXTINF:-1 tvg-logo="http://www.sunnetwork.in/ChannelLogo/3ktv.jpg" group-title="मराठी ",KTV Marathi Movie Classics
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.sunnetwork.in/ChannelLogo/3ktv.jpg" group-title="मराठी ",KTV Premium Marathi
-https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d282wbz2keffpz.cloudfront.net/wp-content/uploads/2018/04/16001830/TV9_MARATHI-wecompress.com_.png" group-title="मराठी ",TV9 Marathi
+https://vidcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Sangeet_Marathi.jpg" group-title="मराठी ",Sangeet Marathi
+https://load.airtelxstream.in/sangeetmarathi/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.9xjhakaas.in/wp-content/uploads/2015/07/site-logo.png" group-title="मराठी ",9X Jhakaas
+https://load.airtelxstream.in/9xjhakaas/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/24taaslogo_nav.png" group-title="मराठी ",Zee 24 Taas
+https://load.airtelxstream.in/zee24taas/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.zeetalkies.com/images/talkies-logo_v1.png" group-title="मराठी ",Zee Talkies 
+http://z5amshls.akamaized.net/ztalkieshd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vnews.mv/themes/vmedia/images/vtv.png" group-title="ިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",VTV
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
