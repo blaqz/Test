@@ -195,7 +195,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="Português/Brasil",TVI
-http://185.59.222.120:88/tvi/index.m3u8?token=test
+http://85.25.103.21:8081/live/TVI/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/pt/Tvi24.pt.png" group-title="Português/Brasil",TVI 24
+http://85.25.103.21:8081/live/TVI24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/Odisseia.pt.png" group-title="Português/Brasil",Odisseia
 http://178.132.3.162:88/odessa/index.m3u8?token=test
