@@ -280,7 +280,7 @@ https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://nstv.org/wp-content/uploads/2019/09/cropped-NSTV_logo_OL_2C_RGB.png" group-title="USA/Canada",North Shore TV
 http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/oann/wp-content/uploads/2019/10/OANtoplogo.jpg group-title="USA/Canada",OANN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/oann/wp-content/uploads/2019/10/OANtoplogo.jpg" group-title="USA/Canada",OANN
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/oann/wp-content/uploads/2019/10/OANtoplogo.jpg" group-title="USA/Canada",OAN Encore
 https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
@@ -291,7 +291,7 @@ https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/PBSWPSU.us.png" group-title="USA/Canada",PBS Pennsylvania(WPSU)
 https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://d1b7flq4e9knh1.cloudfront.net/wp-content/plugins/wnet-station-wrappers/libs/images/NJTV/logo.png group-title="USA/Canada",PBS New Jersey(NJTV)
+#EXTINF:-1 tvg-ID="" tvg-logo="https://d1b7flq4e9knh1.cloudfront.net/wp-content/plugins/wnet-station-wrappers/libs/images/NJTV/logo.png" group-title="USA/Canada",PBS New Jersey(NJTV)
 https://cdn3.wowza.com/1/Yk9VdzI2QnptdXZ2/YjdacytV/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/themes/wnet/libs/images/WNET-Logo-new.png" group-title="USA/Canada",PBS Thirteen(WNET)
 https://cdn3.wowza.com/1/ZE9CSWR3ZDV2WEFQ/VENORDlI/hls/live/playlist.m3u8
@@ -322,7 +322,7 @@ https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="USA/Canada",TLC
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png group-title="USA/Canada",Telemundo New York(WNJU)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="USA/Canada",Telemundo New York(WNJU)
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="USA/Canada",Telemundo Chiago(WMAQ)
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-b.m3u8?sd=10&rebase=on
