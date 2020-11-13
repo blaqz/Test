@@ -115,6 +115,8 @@ http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeeworld.png" group-title="मनोरंजन",Zee World
 http://z5amshls.akamaized.net/world/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/B4UAflam.ae.png group-title="International (India)",B4U Aflam
+http://digitalxpress.gcdn.co/live1/B4U_Aflam/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://doordarshan.gov.in/sites/default/files/DD-India-logo.png" group-title="International (India)",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://doordarshan.gov.in/sites/default/files/DD-India-logo.png" group-title="International (India)",DD India
@@ -139,6 +141,9 @@ http://z5amshls.akamaized.net/magic/tracks-v1a1/playlist.m3u8
 https://load.airtelxstream.in/ndtvgoodtimes/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="International (India)",Zee Cafe
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.zeeaflam.com/wp-content/themes/zeeaflam/images/logo.png" group-title="International (India)",Zee Aflam
+http://digitalxpress.gcdn.co/live1/zeeaflam/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://drop.ndtv.com/homepage/profit/images/profit_logo2017.png" group-title="International (India)",NDTV Profit Prime
 https://load.airtelxstream.in/ndtvprofitprime/smil:common.smil/playlist.m3u8
 
