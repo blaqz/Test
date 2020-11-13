@@ -1,26 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH1%20HD.png" group-title="Shqipëria/Kosovës",RTSH 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1920px-RTSH_1_HD_%282020_Logo%29.svg.png" group-title="Shqipëria/Kosovës",RTSH 1
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH2%20HD.png" group-title="Shqipëria/Kosovës",RTSH 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/RTSH_2_HD_%282020_Logo%29.svg/1920px-RTSH_2_HD_%282020_Logo%29.svg.png" group-title="Shqipëria/Kosovës",RTSH 2
 http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH3%20HD.png" group-title="Shqipëria/Kosovës",RTSH 3
 http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Plus.png" group-title="Shqipëria/Kosovës",RTSH Plus
 http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Shqip.png" group-title="Shqipëria/Kosovës",RTSH Shqip
-http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Sport.png" group-title="Shqipëria/Kosovës",RTSH Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_%282020_Logo%29.svg/1920px-RTSH_Sport_%282020_Logo%29.svg.png" group-title="Shqipëria/Kosovës",RTSH Sport
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://albepg.com/tvlogi/RTSH%20Muzike.png" group-title="Shqipëria/Kosovës",RTSH Muzike
 http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.rtsh.al/rtsh-live/RTSH24.png" group-title="Shqipëria/Kosovës",RTSH 24
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/RTSH_24_%282020_Logo%29.svg/1920px-RTSH_24_%282020_Logo%29.svg.png" group-title="Shqipëria/Kosovës",RTSH 24
 http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.rtsh.al/rtsh-live/RTSH_film_large.png" group-title="Shqipëria/Kosovës",RTSH Film
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/RTSH_Film_%282020_Logo%29.svg/1920px-RTSH_Film_%282020_Logo%29.svg.png" group-title="Shqipëria/Kosovës",RTSH Film
 http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/RTSH_Shkoll%C3%AB_%282020_Logo%29.svg/1920px-RTSH_Shkoll%C3%AB_%282020_Logo%29.svg.png" group-title="Shqipëria/Kosovës",RTSH Shkollë
+https://tvlive.rtsh.dev/live/rtsh_shkolle_ott_p2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/RTSH_F%C3%ABmij%C3%AB_%282020_Logo%29.svg/1920px-RTSH_F%C3%ABmij%C3%AB_%282020_Logo%29.svg.png" group-title="Shqipëria/Kosovës",RTSH Fëmijë
+https://tvlive.rtsh.dev/live/rtsh_femije_ott_p2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/RTSH_Shqip_%282020_Logo%29.svg/1920px-RTSH_Shqip_%282020_Logo%29.svg.png" group-title="Shqipëria/Kosovës",RTSH Shqip
+http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTSH_Kor%C3%A7a_%282020_Logo%29.svg/1920px-RTSH_Kor%C3%A7a_%282020_Logo%29.svg.png" group-title="Shqipëria/Kosovës",RTSH Korça
+https://tvlive.rtsh.dev/live/rtsh_korca_ott_p2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/RTSH_Kuk%C3%ABsi_%282020_Logo%29.svg/1920px-RTSH_Kuk%C3%ABsi_%282020_Logo%29.svg.png" group-title="Shqipëria/Kosovës",RTSH Kukësi
+https://tvlive.rtsh.dev/live/rtsh_kukesi_ott/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria/Kosovës",RTK 1
-http://176.31.74.161:8081/live/rtk1/chunks.m3u8
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" group-title="Shqipëria/Kosovës",RTK 2
 http://176.31.74.161:8081/live/rtk2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png" group-title="Shqipëria/Kosovës",RTK 3
