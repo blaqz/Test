@@ -97,11 +97,6 @@ http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeemagic.png" group-title="मनोरंजन",Zee Magic
 http://z5amshls.akamaized.net/magic/tracks-v1a1/playlist.m3u8
-
-#EXTINF:0,Music India
-#EXTGRP:unsorted
-http://dx3.gcdn.co/hindi-MUSICINDIA/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeeimage.png" group-title="मनोरंजन",Zee Sarthak
 http://z5amshls.akamaized.net/sarthaktv/tracks-v1a1/playlist.m3u8
 
@@ -117,6 +112,8 @@ https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u
 https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/aajtak_6/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/tezlogo.png" group-title="न्यूज़",तेज
 https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/zaubatrademarks/265de37a-2bf7-4b72-b828-f53dda6f9951.png" group-title="न्यूज़",A1 TV News
+https://load.airtelxstream.in/a1tv/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://livetvmania.net/wp-content/uploads/2018/04/dilli-aajtak.png" group-title="न्यूज़",ABP न्यूज़
 https://tvtodaylive.akamaized.net/hls/live/2014266-b/dat/datlive/dat_5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://d2r2ijn7njrktv.cloudfront.net/apnlive/uploads/2016/11/APN-Logo_new.png" group-title="न्यूज़",APN News
@@ -131,12 +128,18 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="न्यूज़",Janta TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.jantv.in/Images/jantv_logo.jpeg" group-title="न्यूज़",Jan TV
+http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/chunklist_w111567474.m3u8
 #EXTINF:-1 tvg-logo="https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg" group-title="न्यूज़",Khabrain Abhi Tak
 https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.knews.in/assets/front_panel/images/logo.png" group-title="न्यूज़",K News India
+https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/NDTVIndia.in.png" group-title="न्यूज़",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/150px-News24_Logo.jpg" group-title="न्यूज़",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/network_10_in.png" group-title="न्यूज़", Network 10
+https://load.airtelxstream.in/network10/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.newsnation.in/images/newsnation-logo.png" group-title="न्यूज़",News Nation
 https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.newsstate.com/static/images/logo.jpg" group-title="न्यूज़",News State
@@ -147,6 +150,9 @@ https://hls3.newsnation.in/NS2_HTTP_LIVE/ngrp:mystream3_all/chunklist.m3u8
 https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_720p.m3u8
 #EXTINF:-1 tvg-logo="https://images.newsx.com/wp-content/uploads/2019/09/up-uk-6-104289-RhlOsVLc.png" group-title="न्यूज़",Surya Samachar
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
+#EXTINF:-1 tvg-logo="https://d2k7qun4ucuqn1.cloudfront.net/wp-content/themes/tv9bharavarsh/images/logo.png" group-title="न्यूज़",TV9 Bharatvarsh
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeNews.in.png" group-title="न्यूज़",Zee News
@@ -154,37 +160,10 @@ https://liveanevia.mncnow.id/live/eds/ZeeNews/sa_dash_vmx/ZeeNews.mpd
 
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-24-kalak-small-97x45.png" group-title="न्यूज़",Zee 24 Kalak
 http://z5amshls.akamaized.net/kalak/tracks-v1a1/playlist.m3u8
-
-
-#EXTINF:244 tvg-id="MWTV_LIVETVCHANNEL_10000000018430000" tvg-name="K News 24X7" group-title="News;Airtel;Hindi" tvg-chno="1042" tvg-logo="https://wxca.cf/images/a/xQAPOoSZkt.png",K News 24X7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://load.airtelxstream.in/knews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:245 tvg-id="MWTV_LIVETVCHANNEL_10000000062350000" tvg-name="News J" group-title="News;Airtel;Tamil" tvg-chno="1047" tvg-logo="https://wxca.cf/images/a/uwyIcPtoUv.png",News J
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://load.airtelxstream.in/newsj/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:247 tvg-id="MWTV_LIVETVCHANNEL_10000000062120000" tvg-name="A1 TV" group-title="News;Airtel;Hindi" tvg-chno="1054" tvg-logo="https://wxca.cf/images/a/KwmWbvQWbR.png",A1 TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://load.airtelxstream.in/a1tv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:248 tvg-id="MWTV_LIVETVCHANNEL_10000000065110000" tvg-name="TV9 Bharatvarsh" group-title="News;Airtel;Hindi" tvg-chno="1055" tvg-logo="https://wxca.cf/images/a/kBofOyAaHt.png",TV9 Bharatvarsh
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://load.airtelxstream.in/tv9bharatvarsh/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:249 tvg-id="MWTV_LIVETVCHANNEL_10000000009380000" tvg-name="Jan TV" group-title="News;Airtel;Hindi" tvg-chno="1057" tvg-logo="https://wxca.cf/images/a/WKYHPbEdha.png",Jan TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://load.airtelxstream.in/jantv/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:250 tvg-id="MWTV_LIVETVCHANNEL_10000000043860000" tvg-name="Network 10" group-title="News;Airtel;Hindi" tvg-chno="1058" tvg-logo="https://wxca.cf/images/a/tvnwXEpiuN.png",Network 10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://load.airtelxstream.in/network10/smil:common.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-rajasthan-45.png" group-title="न्यूज़",Zee Rajasthan
+https://load.airtelxstream.in/zeerajasthan/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-upuk-45.png" group-title="न्यूज़",Zee Uttar Pradesh Uttarakhand
+https://load.airtelxstream.in/zeeup/smil:common.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="फ़िल्म",And Pictures
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
@@ -195,7 +174,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="फ़िल्म",B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/05/20190530_183654.jpg" group-title="फ़िल्म",B4U Kadak
-https://load.airtelxstream.in/moviehouseb4ukadak/smil:common.smil/playlist.m3u8?DVR
+https://load.airtelxstream.in/moviehouseb4ukadak/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://b4utv.com/b4uadmin/uploads/link_images/0_43557100_1522757901.png"  group-title="फ़िल्म",B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Enterr_10.png" group-title="फ़िल्म",Enterr10
@@ -244,14 +223,12 @@ http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
 https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/Mastiii.in.png" group-title="संगीत",Mastiii
 https://load.airtelxstream.in/mastiii/smil:common.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="संगीत",MTV Beats
-https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png" group-title="संगीत",Music India
+http://dx3.gcdn.co/hindi-MUSICINDIA/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.hungama.com/assets/images/logo.png" group-title="संगीत",Pop Pataka
 https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/WowMusic.in.png" group-title="संगीत",Wow Music
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="संगीत",Zoom
-https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
