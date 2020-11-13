@@ -464,7 +464,7 @@ https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="体育",Premier HD5
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="Football",Movistar Liga de Campeones
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="体育",Movistar Liga de Campeones
 http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="体育",Astro Supersport
@@ -531,7 +531,7 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN1.ca.png" group-title="体育",TSN 1
 http://digitalxpress2.gcdn.co/live1/tsn11/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN2ca.png" group-title="体育",TSN 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN2.ca.png" group-title="体育",TSN 2
 http://digitalxpress2.gcdn.co/live1/tsn22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN3.ca.png" group-title="体育",TSN 3
 http://digitalxpress2.gcdn.co/live1/tsn33/index.m3u8
@@ -849,7 +849,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
 #EXTINF:-1 tvg-id="ZIN.IN" tvg-logo="https://static.epg.best/in/Zing.in.png" group-title="印度精选",Zing
 https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
 
-#EXTINF:-1 tvg-ID="SUN.IN" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="印度精选",Sun TV
+#EXTINF:-1 tvg-ID="SUN.IN" tvg-logo="https://static.epg.best/in/SunTV.in.png" group-title="印度精选",Sun TV
 https://load.airtelxstream.in/suntv/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="Raj.IN" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="印度精选",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
