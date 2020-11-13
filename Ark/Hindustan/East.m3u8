@@ -97,11 +97,6 @@ http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeemagic.png" group-title="मनोरंजन",Zee Magic
 http://z5amshls.akamaized.net/magic/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeeimage.png" group-title="मनोरंजन",Zee Sarthak
-http://z5amshls.akamaized.net/sarthaktv/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.zeetalkies.com/images/talkies-logo_v1.png" group-title="मनोरंजन",Zee Talkies 
-http://z5amshls.akamaized.net/ztalkieshd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeeworld.png" group-title="मनोरंजन",Zee World
 http://z5amshls.akamaized.net/world/tracks-v1a1/playlist.m3u8
@@ -155,9 +150,16 @@ https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeNews.in.png" group-title="न्यूज़",Zee News
 https://liveanevia.mncnow.id/live/eds/ZeeNews/sa_dash_vmx/ZeeNews.mpd
-
-#EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-24-kalak-small-97x45.png" group-title="न्यूज़",Zee 24 Kalak
-http://z5amshls.akamaized.net/kalak/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeNews.in.png" group-title="न्यूज़",Zee News
+https://load.airtelxstream.in/zeenews/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.zeebiz.com/html/images/zee-business.png" group-title="न्यूज़",Zee Business
+https://load.airtelxstream.in/zeebusiness/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://hindi.cdn.zeenews.com/images/zee-hindustan-orange-english.png" group-title="न्यूज़",Zee Hindustan
+https://load.airtelxstream.in/zeehindustan/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-bihar-jharkhand-45.png" group-title="न्यूज़",Zee Bihar Jharkhand
+https://load.airtelxstream.in/zeebiharjh/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-mpcg-45.png" group-title="न्यूज़",Zee Madhya Pradesh Chhattisgarh
+https://load.airtelxstream.in/zeempch/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-rajasthan-45.png" group-title="न्यूज़",Zee Rajasthan
 https://load.airtelxstream.in/zeerajasthan/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-upuk-45.png" group-title="न्यूज़",Zee Uttar Pradesh Uttarakhand
@@ -176,7 +178,7 @@ https://load.airtelxstream.in/moviehouseb4ukadak/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://b4utv.com/b4uadmin/uploads/link_images/0_43557100_1522757901.png"  group-title="फ़िल्म",B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Enterr_10.png" group-title="फ़िल्म",Enterr10
-https://itpolly.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
+https://load.airtelxstream.in/enterr10/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ManoranjanMovies.in.png" group-title="फ़िल्म",Manoranjan
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MahaMovie.png" group-title="फ़िल्म",Maha Movie
@@ -209,22 +211,28 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/9XO-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="संगीत",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://exchange4media.gumlet.io/news-photo/103831-9Xjalwalogo.jpg" group-title="संगीत",9X Jalwa
+https://load.airtelxstream.in/9xjalwa/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/bigganga.png" group-title="संगीत",Big Ganga
 http://z5amshls.akamaized.net/bigganga/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://b4umusic.in/images/logo.png" group-title="संगीत",B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" group-title="संगीत",Hungama Digital
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://www.dhamaal.tv/images/logo.png" group-title="संगीत",धमाल
-http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_999/Kadak_Hits176X96.png" group-title="संगीत",Hungama Kadak Hits
-https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" group-title="संगीत",Dil Se
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_999/Kadak_Hits176X96.png" group-title="संगीत",Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" group-title="संगीत",Nazrana (Ghazals)
+https://live.hungama.com/linear/nazrana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" group-title="संगीत",op Pataka
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" group-title="संगीत",Artist Aloud
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/Mastiii.in.png" group-title="संगीत",Mastiii
 https://load.airtelxstream.in/mastiii/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://musicindiatv.mwpsites-a.net/wp-content/uploads/2017/05/music-india-logo.png" group-title="संगीत",Music India
 http://dx3.gcdn.co/hindi-MUSICINDIA/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hungama.com/assets/images/logo.png" group-title="संगीत",Pop Pataka
-https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/WowMusic.in.png" group-title="संगीत",Wow Music
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(02)/index.m3u8
 
