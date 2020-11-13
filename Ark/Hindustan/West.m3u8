@@ -145,6 +145,8 @@ https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8?sd=10
 https://streamidvo.multitvsolution.in/IndiaNewsGujarat-c/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vtvgujarati.com/sites/all/themes/vtv/images/vtv-gujarati-logo.png" group-title="ગુજરાતી",VTV ગુજરાતી
 https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vtvgujarati.com/sites/all/themes/vtv/images/vtv-gujarati-logo.png" group-title="ગુજરાતી",Zee 24 Kalak
+http://z5amshls.akamaized.net/kalak/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.odishatv.in/wp-content/uploads/2018/05/logo-new-black.png" group-title="ଓଡ଼ିଆ",Odisha TV
 https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
@@ -154,6 +156,8 @@ https://live.kanaknews.com:4443/live/stream/playlist.m3u8
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.prameyanews7.com/wp-content/uploads/2018/12/NEWS7_LOGO-300x83.jpg" group-title="ଓଡ଼ିଆ",Prameya News 7
 http://news7.mycast.in/encode/news7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeeimage.png" group-title="ଓଡ଼ିଆ",Zee Sarthak
+http://z5amshls.akamaized.net/sarthaktv/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="تفریح",PTV Global
 https://itpolly.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
