@@ -1,5 +1,15 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://static.epg.best/in/SunMusic.in.png group-title="பொழுதுபோக்கு",Sun Music
+https://load.airtelxstream.in/sunmusic/smil:common.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://static.epg.best/in/SunLife.in.png" group-title="பொழுதுபோக்கு",Sun Life
+https://load.airtelxstream.in/sunlife/smil:common.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="SUN.IN" tvg-logo="https://static.epg.best/in/SunTV.in.png" group-title="பொழுதுபோக்கு",Sun TV
+https://load.airtelxstream.in/suntv/smil:common.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/224_300.png" group-title="பொழுதுபோக்கு",Star Vijay
 http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/222_300.png" group-title="பொழுதுபோக்கு",Raj TV
