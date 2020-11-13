@@ -461,12 +461,16 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="ประเทศไทย",ดูทีวีสีช่อง 3
 http://live2.dootvde.com/live/50001_ch3.stream.smil/chunklist_w487022891_b4692000_slThai.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="ประเทศไทย",ดูทีวีสีช่อง 3
+http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="ประเทศไทย",ททบ 5 SD
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="ประเทศไทย",ททบ 5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="ประเทศไทย",ช่อง 7
 https://edge6a.v2h-cdn.com/m2i1/7HD.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="ประเทศไทย",ช่อง 7
+http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/ch8.png" group-title="ประเทศไทย",ช่อง 8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/nbt.png" group-title="ประเทศไทย",NBT 2 HD
@@ -569,24 +573,54 @@ https://edge6a.v2h-cdn.com/v2h/V2H15.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/whitechannel.tv/wp-content/uploads/2019/03/whitelogo-1.png" group-title="ประเทศไทย",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://digitalsky.com.kh/uploads/channel/DTH/OneTV-Sabay.png" group-title="កម្ពុជា",One TV 1 HD
+http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://digitalsky.com.kh/uploads/channel/DTH/OneTV-Kids.png" group-title="កម្ពុជា",One TV 5 Kids
+http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://digitalsky.com.kh/uploads/channel/DTH/OneTV-Drama.png" group-title="កម្ពុជា",One TV 3 Drama 
+http://36.37.252.114:888/Apple/OneTV-003/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://digitalsky.com.kh/uploads/channel/DTH/OneTV-Cinema.png" group-title="កម្ពុជា",One TV 2 Cinema
+http://36.37.252.114:888/Apple/OneTV-004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://digitalsky.com.kh/uploads/channel/DTH/OneTV-Movies-HD.png" group-title="កម្ពុជា",One TV 7 Movies
+http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://digitalsky.com.kh/uploads/channel/DTH/OneTV-Music.png" group-title="កម្ពុជា",One TV 8 Music
+http://36.37.252.114:888/Apple/OneTV-006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://digitalsky.com.kh/uploads/channel/DTH/OneTV-Discovery.png" group-title="កម្ពុជា",One TV 6 Discovery
+http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://digitalsky.com.kh/uploads/logos/onetv_plus.png" group-title="កម្ពុជា",COne TV E-Shool Cambodia
+http://36.37.252.114:888/Apple/OneTV-013/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rVBdsQWoeKU/XLBGZ6bPsrI/AAAAAAABOAo/Y1r5eQtNmiAWULHG_Zf3p-vkt5eVqb_ZQCK4BGAYYCw/s1600/TV5-Cambodia-Logo-2017-1.png" group-title="កម្ពុជា",TV5 Cambodia
+http://36.37.252.114:888/Apple/OneTV-021/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c8/Apsara_tv.jpg" group-title="កម្ពុជា",Apsara
+http://36.37.252.114:888/Apple/OneTV-018/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bayontv.com.kh/wp-content/uploads/2020/04/bayon_logo_phone.jpg" group-title="កម្ពុជា",Bayon TV
+http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kh-bayon-tv-news.jpg" group-title="កម្ពុជា",BTV News
+http://36.37.252.114:888/Apple/OneTV-012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg" group-title="កម្ពុជា",CNC News
+http://36.37.252.114:888/Apple/OneTV-010/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.seatv.com.kh/images/logo2.png" group-title="កម្ពុជា",SEA TV
+http://36.37.252.114:888/Apple/OneTV-016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ctn.com.kh/wp-content/themes/ctntvcambodia/img/logo.png" group-title="កម្ពុជា",CTN
-http://220.158.149.26:8182/hls/TV00000000000000000123@HHZT.m3u8
+http://36.37.252.114:888/Apple/OneTV-008/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/RHM-HDTV_New-2017.gif" group-title="កម្ពុជា",Rasmey Hang Meas
-http://220.158.149.26:8182/hls/TV00000000000000000117@HHZT.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-WFY0qyWfUxQ/XDLeeUw8vJI/AAAAAAAAAM0/9bhL_Dw4TvUtiIC0BCdSMT3NqqbTt4PygCPcBGAYYCw/w115-h115-c/rhm.jpg" group-title="កម្ពុជា",Hang Meas HDTV
-http://220.158.149.26:8182/hls/TV00000000000000000119@HHZT.m3u8
+http://36.37.252.114:888/Apple/OneTV-015/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/RHM-HDTV_New-2017.gif" group-title="កម្ពុជា",Hang Meas HDTV
+http://36.37.252.114:888/Apple/OneTV-014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-rQe8CQEC28I/XEHaT1PudII/AAAAAAAAIWw/qC3aN1BZcdAXGAH0ZcE4H7N2JxvMGRSggCLcBGAs/s1600/ctv8.png" group-title="កម្ពុជា",CTV8
 http://220.158.149.28:8180/TV00000000000000000037@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a5/Tv9cambodiaHDTV.png/revision/latest?cb=20191208065712" group-title="កម្ពុជា",TV9
-http://220.158.149.26:8182/hls/TV00000000000000000123@HHZT.m3u8
-#EXTINF:-1 tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/RHM-HDTV_New-2017.gif" group-title="កម្ពុជា",Hang Meas HDTV
-http://220.158.149.26:8182/hls/TV00000000000000000119@HHZT.m3u8
+http://36.37.252.114:888/Apple/OneTV-022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.kh/wp-content/uploads/2017/08/s5_logo-1-1.png" group-title="កម្ពុជា",myTV
-http://220.158.149.26:8182/hls/TV00000000000000000122@HHZT.m3u8
+http://36.37.252.114:888/Apple/OneTV-009/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://khmer.fyi/images/portfolio/full/freshnews.png" group-title="កម្ពុជា",Fresh News
 http://167.99.65.12:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.onlineradiobin.com/radio-icon/kh/kh.towntv.webp" group-title="កម្ពុជា",Town TV HD
+http://36.37.252.114:888/Apple/OneTV-024/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pnn.com.kh/assets/img/logo.png" group-title="កម្ពុជា",PNN
-http://220.158.149.26:8182/hls/TV00000000000000000038@HHZT.m3u8
+http://36.37.252.114:888/Apple/OneTV-019/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://news.cgtn.com/news/3345544d78597a6333566d54/img/f653a0f9-12c1-4e5d-9206-6c8ebc3b590c.jpg" group-title="កម្ពុជា",Nice TV
 http://220.158.149.26:8182/hls/TV00000000000000000124@HHZT.m3u8
 #EXTINF:-1 tvg-logo="https://i.malimarcdn.com/kh/TeaTV2HD.jpg" group-title="កម្ពុជា",Tea TV
