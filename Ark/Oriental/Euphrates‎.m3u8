@@ -65,7 +65,7 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist.m3u8
 http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://pamir.tv/images/logo.png" group-title="افغانستان",Pamir TV
 http://live.pamir.tv/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shamshadtv.tv/templates/theme2018/images/logo.png group-title="افغانستان",Shamshad
+#EXTINF:-1 tvg-id="" tvg-logo="https://shamshadtv.tv/templates/theme2018/images/logo.png" group-title="افغانستان",Shamshad
 https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tuti.tv/wp-content/themes/TutiTheme/images/tuti-logo.png" group-title="افغانستان",Tuti
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8
@@ -100,7 +100,7 @@ http://api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://jascotvstreaming.com/uploads/settings/15201617635163.png" group-title="الْأُرْدُنّ",Jasco
 http://82.212.74.100:8000/live/hls/8131.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.kaifatv.com/images/logo1.jpg group-title="الْأُرْدُنّ",Kaifa TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.kaifatv.com/images/logo1.jpg" group-title="الْأُرْدُنّ",Kaifa TV
 http://192.34.153.37:7777/Kaifa_HD/Kaifa_High.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/jo/AlRoyaTV.jo.png" group-title="الْأُرْدُنّ",Ro'ya TV
 https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8
@@ -850,7 +850,7 @@ http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 https://mn-nl.mncdn.com/blutv_ertv/smil:ertv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://finansturktv.com/images/logo.png" group-title="Türkiye",Finans Turk TV
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.haberglobal.com.tr/frontend/assets/v2/images/haber-global-live.jpg group-title="Türkiye",Haber Global
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.haberglobal.com.tr/frontend/assets/v2/images/haber-global-live.jpg" group-title="Türkiye",Haber Global
 https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/fb/Haberturk_gazetesi_logosu.jpg" group-title="Türkiye",Haber Turk
 http://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
@@ -998,7 +998,7 @@ http://stream.yol.tv:9485/medialive/yol.m3u8
 http://178.132.3.162:88/canal_algerie/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Algeria3.png" group-title="الدزاير",القناة الجزائرية الثالثة‎
 https://exodiver.github.io/IPTV/M3U8/Token/ThalithaA3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.algsat.net/wp-content/uploads/2020/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-EL-DJAZAIR-N1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-2020.jpg group-title="الدزاير",El Djazair N1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.algsat.net/wp-content/uploads/2020/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-EL-DJAZAIR-N1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-2020.jpg" group-title="الدزاير",El Djazair N1
 http://82.212.74.5:8000/live/hls/7728.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i2.wp.com/www.millereponses.com/wp-content/uploads/2018/11/chaine-nord-africaine-frequence-nilesat.jpg" group-title="الدزاير",Chaine Nord Africaine
 http://live.creacast.com/cna/smil:cna.smil/chunklist_w1780122037_b864000.m3u8
@@ -1182,7 +1182,7 @@ https://exodiver.github.io/IPTV/M3U8/Token/Cliv.m3u8
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bildodesign.com/africagospel/wp-content/uploads/2020/02/logo-new-gospel.jpg" group-title="Côte d’Ivoire",Africa Gospel TV
 https://edge9.vedge.infomaniak.com/livecast/ik:africagospeltv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.afroculturetv.com/wp-content/uploads/2020/01/g.png group-title="Côte d’Ivoire",Afro Culture TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.afroculturetv.com/wp-content/uploads/2020/01/g.png" group-title="Côte d’Ivoire",Afro Culture TV
 https://exodiver.github.io/IPTV/M3U8/Token/AFCTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1260915766037295111/ptnzRpiy_400x400.jpg" group-title="Côte d’Ivoire",Obosso TV
 https://edge6.vedge.infomaniak.com/livecast/ik:obossotv_6/chunklist.m3u8
