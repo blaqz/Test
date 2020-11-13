@@ -73,6 +73,8 @@ https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist.m3u8
 http://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="मनोरंजन",Sony Yay
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://d2r4co1lu5hctj.cloudfront.net/media_content/images/logo-with-tagline1.png" group-title="मनोरंजन",Sony WAH
+https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="मनोरंजन",Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="मनोरंजन",Star Plus
@@ -107,9 +109,6 @@ http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 #EXTINF:0,Sony Max 2
 #EXTGRP:unsorted
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
-#EXTINF:0,Sony WAH
-#EXTGRP:unsorted
-https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
 #EXTINF:0,Zee Action
 #EXTGRP:unsorted
 http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8
@@ -308,7 +307,7 @@ http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/index_2128_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_999/Kadak_Hits176X96.png" group-title="संगीत",Hungama Kadak Hits
 https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/Mastiii.in.png" group-title="संगीत",Mastiii
-https://itpolly.iptv.digijadoo.net/live/mastii/chunks.m3u8
+https://load.airtelxstream.in/mastiii/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="संगीत",MTV Beats
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.hungama.com/assets/images/logo.png" group-title="संगीत",Pop Pataka
