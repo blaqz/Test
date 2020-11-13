@@ -532,6 +532,8 @@ https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
 https://rtvelivestream.akamaized.net/tdp_dvr.m3u8|X-Forwarded-For=188.208.141.21
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/13TV.es.png" group-title="Español",Trece
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/pequeradio-tv.png" group-title="Español",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png" group-title="Español",3/24
