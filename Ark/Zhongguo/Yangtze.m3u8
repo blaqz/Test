@@ -300,7 +300,7 @@ http://39.130.206.213:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8
 http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="粵語",翡翠台                  
-http://live.crhoy.ga:8080/fhtv/lianyou2010/1
+http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="粵語",J2台                  
 http://61.238.6.49:8001/bysid/82
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="粵語",無綫明珠台(TVB Pearl)
@@ -368,8 +368,6 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 https://live4.tdm.com.mo/tv/ch21.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Regional_Emblem_of_Macau.svg/340px-Regional_Emblem_of_Macau.svg.png" group-title="粵語",澳門立法會直播 (葡文)
 https://live4.tdm.com.mo/tv/ch22.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.lotustv.cc/Public/images/top_logo.png" group-title="粵語",蓮花衛視
-https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.macaucabletv.com/wp-content/uploads/CH1.png" group-title="粵語",澳門有線 CH1
 http://202.175.127.77/live/show/ch1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.macaucabletv.com/wp-content/uploads/CH2.png" group-title="粵語",澳門有線互動新聞
@@ -378,6 +376,8 @@ http://202.175.127.77/live/show/ch2/index.m3u8
 http://202.175.127.77/live/show/ch3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.passiontimes.hk/4.0/img/PASSIONTIMES_C.png" group-title="粵語",熱血時報
 http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.imastv.com/img/eqwe12qe2.png" group-title="粵語",澳亚卫视
+http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="臺灣",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
