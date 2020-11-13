@@ -130,7 +130,7 @@ https://load.airtelxstream.in/sonyten1/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Cricket",Sony Ten 2
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Cricket",Sony Ten 3
-http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+https://load.airtelxstream.in/sonyten3hd/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="Cricket",Sony Six
 http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 
