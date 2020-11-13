@@ -909,3 +909,5 @@ https://neaoiomcci.vieon.vn/hls/28407e4cb67131ff64846e3c66f7a45c/1584110778603/l
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/211.png" group-title="Việt Nam",Yen Bai TV
 https://yenbaitv.org.vn/hls/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png" group-title="Việt Nam",K+ 1
+http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
