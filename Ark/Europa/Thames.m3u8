@@ -96,6 +96,8 @@ https://bein-plutolive-vo.akamaized.net/playlist.m3u8"
 http://185.59.223.135/espn/index.m3u8
 #EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="Sports",ESPN 2
 http://185.59.223.135/espn2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/br/ESPNExtra.br.png" group-title="Sports",ESPN Extra (Latinoamérica)
+http://digitalxpress.gcdn.co/live1/SP-ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Sports",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gr/EdgeSport.gr.png" group-title="Sports",Edge Sports
@@ -411,7 +413,7 @@ https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="Infotainment",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Infotainment",Discovery
+#EXTINF:-1 tvg-id="DIS.US" tvg-logo="https://static.epg.best/au/DiscoveryChannel.au.png" group-title="Infotainment",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Infotainment",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
