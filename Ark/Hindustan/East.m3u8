@@ -76,7 +76,6 @@ https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
 #EXTINF:-1 tvg-logo="https://cdn.sonicgang.com/wp-content/uploads/2019/03/logo.png" group-title="मनोरंजन",Nickelodeon Sonic
 https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/517px-SET_India_logo.svg.png" group-title="मनोरंजन",Sony ETV
 http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="मनोरंजन",Sony Max
@@ -84,11 +83,12 @@ https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="मनोरंजन",Sony Max 2
 https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="मनोरंजन",Sony SAB
-http://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="मनोरंजन",Sony Yay
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index.m3u8
+http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://d6nl3kd6gxfx7.cloudfront.net/images/logo.png" group-title="मनोरंजन",Sony Pal
+http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://d2r4co1lu5hctj.cloudfront.net/media_content/images/logo-with-tagline1.png" group-title="मनोरंजन",Sony WAH
 https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="मनोरंजन",Star Bharat
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="मनोरंजन",Star Plus
@@ -97,6 +97,7 @@ http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="मनोरंजन",Star Gold
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mygoodtimes.in/wp-content/uploads/2018/07/LOGO-Goodtimes2.png" group-title="मनोरंजन",Good Times (Hindi)
 https://load.airtelxstream.in/ndtvgoodtimeshindi/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-181/list/170x120/qindia_1170x658.png" group-title="मनोरंजन",The Q
