@@ -1,17 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://static.epg.best/in/SunMusic.in.png" group-title="பொழுதுபோக்கு",Sun Music
-https://load.airtelxstream.in/sunmusic/smil:common.smil/playlist.m3u8?DVR
-
 #EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://static.epg.best/in/SunLife.in.png" group-title="பொழுதுபோக்கு",Sun Life
-https://load.airtelxstream.in/sunlife/smil:common.smil/playlist.m3u8?DVR
+https://load.airtelxstream.in/sunlife/smil:common.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SUN.IN" tvg-logo="https://static.epg.best/in/SunTV.in.png" group-title="பொழுதுபோக்கு",Sun TV
 https://load.airtelxstream.in/suntv/smil:common.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/224_300.png" group-title="பொழுதுபோக்கு",Star Vijay
-http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/222_300.png" group-title="பொழுதுபோக்கு",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://threetamil.tv/wp-content/uploads/2019/03/cropped-3-tamil-1.png" group-title="பொழுதுபோக்கு",3 Tamil
@@ -88,7 +83,6 @@ http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/index.m3u8
 http://ctamiltv.livebox.co.in/ctamiltvhls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0ApLXUi.png" group-title="பொழுதுபோக்கு",Thalapathy TV
 http://7starcloud.com:1935/thalapathytv/livethalapathy/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tamilmtv.com/wp-content/uploads/2020/01/cropped-oie_16158404ZMyWAPI.png" group-title="தமிழ்",Tamil MTV
 https://player.yarlsriserver.com/tamilmtv/b9869bec82b6ab24d914fdba43450a1e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TviHd1.png/1200px-TviHd1.png" group-title="தமிழ்",Tamil Vision
@@ -97,8 +91,6 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 http://206.47.41.166:8080/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_lxlDzVuFMw/maxresdefault.jpg" group-title="பொழுதுபோக்கு",Thirumalai
 https://abcmedias.livewebcast.in/abcmedias/abcmediaslive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" group-title="தமிழ்",Thanthi TV
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://vasanth.tv/wp-content/uploads/2018/07/VASANTH-TV-LOGO-FINAL-1.png" group-title="தமிழ்",Vasanth TV
 http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9J5HJuI.png" group-title="தமிழ்",Vani TV
@@ -107,10 +99,16 @@ http://7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/532196435702198274/Dcl1GXNu_400x400.png" group-title="தமிழ்",Vendharm
 http://45.79.203.234:1935/vendharm/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.kalvitholaikaatchi.com/assets/front/images/kalvilogo-3.png" group-title="தமிழ்",Kalvi Tholaikatchi
+https://load.airtelxstream.in/kalvitv/smil:common.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tamil.de/wp-content/uploads/2018/01/Bildschirmfoto-2018-01-28-um-12.33.09.png" group-title="செய்திகள்",Tamil Business
+#EXTINF:-1 tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" group-title="செய்தி",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.newsj.tv/assets/templates/ts_news247/images/presets/preset1/logo.png" group-title="செய்தி",News J
+https://load.airtelxstream.in/newsj/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tamil.de/wp-content/uploads/2018/01/Bildschirmfoto-2018-01-28-um-12.33.09.png" group-title=""செய்தி",Tamil Business
 http://santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2020/06/Malaimurasu-Seithigal-Logo-Copy-2.png" group-title="செய்திகள்",Malaimurasu Seithigal
+#EXTINF:-1 tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2020/06/Malaimurasu-Seithigal-Logo-Copy-2.png" group-title=""செய்தி",Malaimurasu Seithigal
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/malaimurasu/49992ade0624eda468a31e137996d044.sdp1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="திரைப்படம்",ACN Cinema
@@ -157,6 +155,8 @@ http://santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 https://account11.livebox.co.in/ntvhls/ntv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IktuwaW.jpg" group-title="இசை",Raasi Music
 http://singamcloud.in/rasimusic/playlist.m3u8
+#EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://static.epg.best/in/SunMusic.in.png" group-title="இசை",Sun Music
+https://load.airtelxstream.in/sunmusic/smil:common.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dheeran.tv/img/1.png" group-title="மதம்",Dheeran TV
 https://5c75277727cd1.streamlock.net/dheeran/dheeran/playlist.m3u8
