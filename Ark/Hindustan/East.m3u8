@@ -75,11 +75,12 @@ https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
 http://103.214.202.218:8081/live/stargold/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-181/list/170x120/qindia_1170x658.png" group-title="मनोरंजन",The Q
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/androidapphover_2.png" group-title="मनोरंजन",Zee TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Anmol.png" group-title="मनोरंजन",Zee Anmol
-http://216.144.250.174/Zee_Anmol_HD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeetv.png" group-title="मनोरंजन",Zee TV (USA)
+http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeetv.png" group-title="मनोरंजन",Zee TV (Middle East)
+http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/canada.png" group-title="मनोरंजन",Zee TV (Canada)
+http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="मनोरंजन",Zee Cafe
 http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
@@ -119,9 +120,6 @@ https://hls3.newsnation.in/NS2_HTTP_LIVE/ngrp:mystream3_all/chunklist.m3u8
 https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_720p.m3u8
 #EXTINF:-1 tvg-logo="https://images.newsx.com/wp-content/uploads/2019/09/up-uk-6-104289-RhlOsVLc.png" group-title="न्यूज़",Surya Samachar
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeehindustan/list/170x120/09zeehindustanzeehindustan.png" group-title="न्यूज़",Zee Hindustan
-http://103.144.200.7:8080/hls/zeetv/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeNews.in.png" group-title="न्यूज़",Zee News
@@ -151,10 +149,13 @@ https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="https://shopping.shemaroo.com/India/images/logo.png" group-title="फ़िल्म",Shemaroo Bollywood Premier
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="फ़िल्म",Zee Cinema
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="फ़िल्म",Zee Classic
-https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="फ़िल्म",Zee Cinema USA
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="फ़िल्म",Zee Cinema Middle East
+https://z5amshls.akamaized.net/zeecinemame/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/Zee_Smile.png" group-title="फ़िल्म",Zee Smile
+http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="संगीत",9XO
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/9XO-audio_208482_und=208000-video=877600.m3u8
