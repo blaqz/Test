@@ -108,7 +108,7 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://210.210.155.66/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Malaysia",TVIKIM
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
-#EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png group-title="Malaysia",TV Alhijrah
+#EXTINF:-1 tvg-ID="TVA.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" group-title="Malaysia",TV Alhijrah
 https://fvtv.mywire.org/playlist/nujj7qrkcz-u0wjkpejqa.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="Indonesia",TVRI
@@ -229,7 +229,7 @@ https://zalogi.xyz/exo/playlist/antara-saya-coba-dulu.m3u8
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B-kbP9oVewA/XGycwsK2VJI/AAAAAAAAnSA/l8Nej1aGSos4Nukut8wO4iSKbbhf4ohuACLcBGAs/s1600/al-bahjah-tv-channel-logo.png" group-title="Indonesia",Albahjah tv
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://balitv.tv/wp-content/uploads/2017/12/logobalitv2.png group-title="Indonesia",Bali TV
+#EXTINF:-1 tvg-logo="https://balitv.tv/wp-content/uploads/2017/12/logobalitv2.png" group-title="Indonesia",Bali TV
 https://zalogi.xyz/exo/playlist/balitv-saya-coba-dulu.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/DaaiTv.id.png" group-title="Indonesia",Da Ai Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221227241/index.m3u8
@@ -330,7 +330,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227231/index.m3u8
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(f7350a6d-a73b-124e-a604-fefb0d1c8e01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://rumah.tv/wp-content/uploads/2019/11/logo-web-3.png" group-title="Indonesia",Rumah TV
 https://video2.onlivestreaming.net/rumahtv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Salam_TV.png group-title="Indonesia",Salam TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Salam_TV.png" group-title="Indonesia",Salam TV
 http://103.47.132.164/PLTV/88888888/224/3221227107/index.m3u8
 #EXTINF:-1 tvg-logo="https://sbo.co.id/wp-content/uploads/2019/12/175x90.png" group-title="Indonesia",SBO
 https://rvs.zet.co.id:4432/sbotv/live/playlist.m3u8
@@ -355,7 +355,7 @@ https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master480p.m3u8|X-For
 https://amdottlive.akamaized.net/hls/live/2014575/iwantabscbn/master480p.m3u8|X-Forwarded-For=45.134.224.4
 #EXTINF:-1 tvg-logo="https://static.epg.best/ph/CNNPhilippines.ph.png" group-title="Pilipinas",CNN Phillippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/graphics/dzmm-logo-lrg.jpg group-title="Pilipinas",DZMM TeleRadyo
+#EXTINF:-1 tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/graphics/dzmm-logo-lrg.jpg" group-title="Pilipinas",DZMM TeleRadyo
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Pilipinas",5 Network
 http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist_w272324549_b628000.m3u8
@@ -499,7 +499,7 @@ https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/mono29.png" group-title="ประเทศไทย",Mono 29
 https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
-#EXTINF:-1 tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_monoplus.png group-title="ประเทศไทย",MONO Plus
+#EXTINF:-1 tvg-logo="https://monoplus.mthai.com/app/themes/monoplus/images/logo_monoplus.png" group-title="ประเทศไทย",MONO Plus
 https://edge2-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w1160888669.m3u8
 #EXTINF:-1 tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" group-title="ประเทศไทย",MCOT HD
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
