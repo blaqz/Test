@@ -31,15 +31,15 @@ http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/225px-Asian_TV_Logo.svg.png" group-title="বাংলা",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.atnbangla.tv/wp-content/uploads/2015/09/atn-bangla-logo-last.png" group-title="বাংলা",ATN Bangla
-https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+http://master.beeiptv.com:8081/MB/atnbangla/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/180px-ATN_News_Logo_3.GIF" group-title="বাংলা",ATN News
-https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+http://master.beeiptv.com:8081/MB/atnnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/839738269717798912/9uA-mUAI_400x400.jpg" group-title="বাংলা",Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="বাংলা",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://banglavision.tv/wp-content/uploads/2017/05/logo.png" group-title="বাংলা",Bangla Vision
-https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+http://master.beeiptv.com:8081/MB/banglavision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.banglanews24.com/media/imgAll/2016October/bg/banglanews_logo20180725112204.jpg" group-title="বাংলা",Bangla News 24
 https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.boishakhionline.com/frontend_source/assets/images/logo.png" group-title="বাংলা",Boishakhi TV
@@ -77,12 +77,14 @@ https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="বাংলা",Ekattor
 https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ekushey-tv.com/media/common/EkusheyTVLogo.png" group-title="বাংলা",Ekushey TV
-https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://gaanbangla.tv/img/logo.png" group-title="বাংলা",Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://gazitv.com/wp-content/uploads/2016/08/Logo.png" group-title="বাংলা",Gazi Tv
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://43.251.86.6:8080/hls/channel_1.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-id="" tvg-logo="http://independent24.com/assets/img/independent_tv.png" group-title="বাংলা",Independent News
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="বাংলা",Jamuna TV
@@ -208,6 +210,8 @@ https://tvreg.klemit.net/regionalna/stream/index.m3u8
 http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="خبریں",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://arynews.tv/wp-content/uploads/2018/03/news-logo-2-1.jpgg" group-title="تفریح",Ary News
+http://95.211.211.168/live/arynews0012/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://southasiandaily.com/wp-content/uploads/2015/10/channely31-685x3201.jpg" group-title="تفریح",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/DunyaNews.pk.png" group-title="خبریں",Dunya
