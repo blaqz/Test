@@ -1127,10 +1127,13 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVPInfo.pl.png" group-title="Polska",TVP Info
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVPKultura.pl.png" group-title="Polska",Tvp Kultura
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+
 #EXTINF: -1,TVP 3
 http://digitalxpress.gcdn.co/live1/tvp3/index.m3u8
-#EXTINF: -1,TVP KULTURA
-http://digitalxpress.gcdn.co/live1/tvpkultura/index.m3u8
+
+
 #EXTINF: -1,TVP HISTORIA
 http://digitalxpress.gcdn.co/live1/tvphistoria/index.m3u8
 #EXTINF: -1,TVP ABC
@@ -1142,8 +1145,7 @@ http://digitalxpress.gcdn.co/live1/tvpinfo/index.m3u8
 #EXTINF: -1,tvpsport
 http://digitalxpress.gcdn.co/live1/tvpsport/index.m3u8
 
-#EXTINF: -1,Movistar Liga de Campeones HD
-http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8
+
 #EXTINF: -1,canal + sport2
 http://digitalxpress.gcdn.co/live1/canal+sport2/index.m3u8
 #EXTINF: -1,polsat
