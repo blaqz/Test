@@ -280,8 +280,6 @@ https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://nstv.org/wp-content/uploads/2019/09/cropped-NSTV_logo_OL_2C_RGB.png" group-title="USA/Canada",North Shore TV
 http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/oann/wp-content/uploads/2019/10/OANtoplogo.jpg" group-title="USA/Canada",OANN
-http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d2pggiv3o55wnc.cloudfront.net/oann/wp-content/uploads/2019/10/OANtoplogo.jpg" group-title="USA/Canada",OAN Encore
 https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
 
