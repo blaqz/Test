@@ -1299,11 +1299,11 @@ http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo1-dark-bg.png" group-title="Slovenija",Slovenija 1
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo2-dark-bg.png" group-title="Slovenija",Slovenija 2
-https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo3-dark-bg.png" group-title="Slovenija",Slovenija 3
-https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo1-dark-bg.png" group-title="Slovenija",Maribor TV
-https://24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+https://24-rtvslo-tv-mb-slo.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvkp-dark-bg.png" group-title="Slovenija",TV Koper-Capodistria
 https://rtvslolive.akamaized.net/hls/live/689305/tv_kp/tvkp/r-playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvmmc-dark-bg.png" group-title="Slovenija",MMC TV
