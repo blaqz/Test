@@ -42,9 +42,23 @@ https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
       "link": "https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd"
     },
  
+#EXTINF:-1 tvg-logo="http://dangaltv.enterr10tv.com/images/dangaltv_logo.png" group-title="मनोरंजन",Dangal
+https://load.airtelxstream.in/dangal/smil:common.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="मनोरंजन",DD National 
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://doordarshan.gov.in/sites/default/files/dd_bharati_logo.png" group-title="मनोरंजन",DD Bharati
+https://load.airtelxstream.in/ddbharati/smil:common.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-madhya-pradesh.png" group-title="मनोरंजन",DD Madhya Pradesh
+https://load.airtelxstream.in/ddmp/smil:common.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://doordarshan.gov.in/sites/default/files/6.gif" group-title="मनोरंजन",DD Uttar Pradesh
+https://load.airtelxstream.in/ddup/smil:common.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-kisam_0.png" group-title="मनोरंजन",DD Kisan
+https://load.airtelxstream.in/ddkisan/smil:common.smil/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -83,8 +97,10 @@ http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="मनोरंजन",Star Gold
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.mygoodtimes.in/wp-content/uploads/2018/07/LOGO-Goodtimes2.png" group-title="मनोरंजन",Good Times (Hindi)
+https://load.airtelxstream.in/ndtvgoodtimeshindi/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-181/list/170x120/qindia_1170x658.png" group-title="मनोरंजन",The Q
-https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
+https://load.airtelxstream.in/theqyou/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeetv.png" group-title="मनोरंजन",Zee TV
 http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeetv.png" group-title="मनोरंजन",Zee TV (USA)
@@ -93,16 +109,42 @@ http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/canada.png" group-title="मनोरंजन",Zee TV (Canada)
 http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="मनोरंजन",Zee Cafe
-http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeemagic.png" group-title="मनोरंजन",Zee Magic
-http://z5amshls.akamaized.net/magic/tracks-v1a1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeeworld.png" group-title="मनोरंजन",Zee World
 http://z5amshls.akamaized.net/world/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://doordarshan.gov.in/sites/default/files/DD-India-logo.png" group-title="International (India)",DD India
+https://load.airtelxstream.in/ddindia/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/r-logo.png" group-title="International (India)",Republic News
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png" group-title="International (India)",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pbs.twimg.com/profile_images/844708508989841408/HLuil94O_400x400.jpg" group-title="International (India)",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="International (India)",News X
+https://itvorigin.multitvsolution.com/hls/newsx_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/logo.png" group-title="International (India)",Times Now
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/NDTV24x7.in.png" group-title="International (India)",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/WION.in.png" group-title="International (India)",Wion
+http://z5amshls.akamaized.net/wion/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeemagic.png" group-title="International (India)",Zee Magic
+http://z5amshls.akamaized.net/magic/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mygoodtimes.in/wp-content/uploads/2018/07/LOGO-Goodtimes2.png" group-title="International (India)",Good Times (English)
+https://load.airtelxstream.in/ndtvgoodtimes/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="International (India)",Zee Cafe
+http://z5amshls.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://drop.ndtv.com/homepage/profit/images/profit_logo2017.png" group-title="International (India)",NDTV Profit Prime
+https://load.airtelxstream.in/ndtvprofitprime/smil:common.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.businessworld.in/article/article_extra_large_image/1563014361_0ywduU_india_news.jpg" group-title="न्यूज़",India Khabar
+https://load.airtelxstream.in/indianews/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="न्यूज़",इंडिया टीवी
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://firstindianews.com/images/logo.png" group-title="न्यूज़",1st इंडिया
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://firstindianews.com/images/logo.png" group-title="न्यूज़",First India News Rajasthan
+https://load.airtelxstream.in/firstindianewsrajasthan/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/homeLogo.png" group-title="न्यूज़",आज तक
 https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/aajtak_6/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/tezlogo.png" group-title="न्यूज़",तेज
@@ -110,7 +152,7 @@ https://tvtodaylive.akamaized.net/hls/live/2014266/tez/tezlive/tez_5/chunklist.m
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/zaubatrademarks/265de37a-2bf7-4b72-b828-f53dda6f9951.png" group-title="न्यूज़",A1 TV News
 https://load.airtelxstream.in/a1tv/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://livetvmania.net/wp-content/uploads/2018/04/dilli-aajtak.png" group-title="न्यूज़",ABP न्यूज़
-https://tvtodaylive.akamaized.net/hls/live/2014266-b/dat/datlive/dat_5/chunklist.m3u8
+https://load.airtelxstream.in/abpnews/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://d2r2ijn7njrktv.cloudfront.net/apnlive/uploads/2016/11/APN-Logo_new.png" group-title="न्यूज़",APN News
 https://itpolly.iptv.digijadoo.net/live/apn_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="न्यूज़",दिल्ली न्यूज़
@@ -119,8 +161,6 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="न्यूज़",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png" group-title="न्यूज़",इंडिया टीवी
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.jantatv.com/images/logos/logo.png" group-title="न्यूज़",Janta TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.jantv.in/Images/jantv_logo.jpeg" group-title="न्यूज़",Jan TV
@@ -141,8 +181,8 @@ https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist.m3u8
 https://hls2.newsstate.com/NS1_HTTP_LIVE/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.newsstate.com/static/images/logo.jpg" group-title="न्यूज़",News State Madhya Pradesh
 https://hls3.newsnation.in/NS2_HTTP_LIVE/ngrp:mystream3_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.republicworld.com/assets/images/rbharat-logo-ltv.jpg" group-title="न्यूज़",Republic Bharat
-https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bharat.republicworld.com/assets/images/livetv/rbharat-logo.png" group-title="न्यूज़",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://d2k7qun4ucuqn1.cloudfront.net/wp-content/themes/tv9bharavarsh/images/logo.png" group-title="न्यूज़",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 
@@ -175,8 +215,10 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/05/20190530_183654.jpg" group-title="फ़िल्म",B4U Kadak
 https://load.airtelxstream.in/moviehouseb4ukadak/smil:common.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://b4utv.com/b4uadmin/uploads/link_images/0_43557100_1522757901.png"  group-title="फ़िल्म",B4U Plus
+#EXTINF:-1 tvg-logo="https://b4utv.com/b4uadmin/uploads/link_images/0_43557100_1522757901.png" group-title="फ़िल्म",B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Logo_of_cinematv.png" group-title="फ़िल्म",Cinema TV India
+https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Enterr_10.png" group-title="फ़िल्म",Enterr10
 https://load.airtelxstream.in/enterr10/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ManoranjanMovies.in.png" group-title="फ़िल्म",Manoranjan
@@ -206,7 +248,6 @@ http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/Zee_Smile.png" group-title="फ़िल्म",Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="संगीत",9XO
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/9XO-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="संगीत",9XM
@@ -224,7 +265,7 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" group-title="संगीत",Nazrana (Ghazals)
 https://live.hungama.com/linear/nazrana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" group-title="संगीत",op Pataka
+#EXTINF:-1 tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" group-title="संगीत",Pop Pataka
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.hungama.org/wp-content/uploads/2019/06/logo.png" group-title="संगीत",Artist Aloud
 https://live.hungama.com/linear/artist-aloud/playlist.m3u8
@@ -259,9 +300,8 @@ https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
 #EXTINF:-1 tvg-logo="https://img.onesignal.com/permanent/9fa457c4-0092-4dff-934c-2f43c60e759a.jpg" group-title="मनोरंजन",Colors Cineplex
 https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
 
-
 #EXTINF:-1 tvg-logo="http://www.bhaktisagartv.com/images/HD-Logo.png" group-title="धर्म",Bhakti Sagar E24
-http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/index_2128_av-p.m3u8
+https://load.airtelxstream.in/e24/smil:common.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://channeldivya.com/wp-content/uploads/2018/12/logo.png" group-title="धर्म",दिव्या
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/roku/images/skyworth/v5/Hare_Krishna_TV_new_roku.jpg" group-title="धर्म",Hare Krshna
@@ -341,6 +381,8 @@ http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/62/dd/32/62dd329e-af60-9ca1-6776-ec54352dbbcd/AppIcon-1x_U007emarketing-85-220-0-9.png/1200x630wa.png" group-title="ਫਿਲਮਾਂ",Prime Canada
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://primeasia.tv/assets/front/images/logo-new1.png" group-title="ਫਿਲਮਾਂ",Prime Asia
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/punjab_music.png" group-title="ਸੰਗੀਤ",5aab Music
