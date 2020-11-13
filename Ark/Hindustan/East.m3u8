@@ -94,9 +94,11 @@ http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="मनोरंजन",Star Plus
 http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/StarWorld.sa.png" group-title="मनोरंजन",Star World
-https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
+http://digitalxpress.gcdn.co/live1/OSNSTARWORLD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="मनोरंजन",Star Gold
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="मनोरंजन",Star Movies
+http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mygoodtimes.in/wp-content/uploads/2018/07/LOGO-Goodtimes2.png" group-title="मनोरंजन",Good Times (Hindi)
 https://load.airtelxstream.in/ndtvgoodtimeshindi/smil:common.smil/playlist.m3u8
