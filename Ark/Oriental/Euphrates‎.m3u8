@@ -14,6 +14,10 @@ https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="Pan Arabic",DW عربى
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.fatafeat.com/static/images/logo.png" group-title="Pan Arabic",Fatafeat
+http://digitalxpress.gcdn.co/live1/beinfatafeathd/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="Pan Arabic",MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="Pan Arabic",MBC 2
