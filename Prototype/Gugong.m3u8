@@ -74,6 +74,8 @@ http://livetv.dnsfor.me:80/channel.5.m3u8
 http://livetv.dnsfor.me/channel.6.m3u8
 #EXTINF:-1 tvg-id="KAI.HK" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港开電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-ID="NFW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="香港",南方卫视
+http://39.135.139.9:6610/PLTV/88888888/224/3221226203/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="NOP.HK" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="香港",Now Sports Prime
 http://teslagram.com/live/channel_630.m3u8
 #EXTINF:-1 tvg-ID="668.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/bf/HKJC_Horse_Racing.jpg" group-title="香港",赛马直击
