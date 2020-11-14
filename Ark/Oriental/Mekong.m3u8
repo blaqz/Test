@@ -436,7 +436,7 @@ https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channel/dvb.jpg" group-title="မြန်မာဘာသာ",DVB
 https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="မြန်မာဘာသာ",Mahar TV
-http://maharlive.b-cdn.net/stream.m3u8
+http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8
 #EXTINF:-1 tvg-logo="https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg" group-title="မြန်မာဘာသာ",Mahar Bawdi
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" group-title="မြန်မာဘာသာ",MVTV Myanmar
