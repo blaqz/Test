@@ -359,7 +359,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="WXD.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
+#EXTINF:-1 tvg-id="SCM.Asia" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -453,10 +453,10 @@ http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EP2.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="体育",Premier HD2
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="体育",Movistar Liga de Campeones
+#EXTINF:-1 tvg-id="LDC.ES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="体育",Liga de Campeones
 http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8
 
-#EXTINF:-1 tvg-id=AS1.MY"" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="体育",Astro Supersport
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="体育",Astro Supersport
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="体育",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
