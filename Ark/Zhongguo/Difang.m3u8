@@ -189,6 +189,21 @@ http://live5.ocnttv.com:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
 http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/tvs4/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/yingyufudao.png" group-title="广东",广东经济科教
 http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/yingyufudao.png" group-title="广东",广州南国都市
+http://120.221.226.226/aplay.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/yingyufudao.png" group-title="广东",广州影视
+http://120.221.226.226/aplay.gztv.com/sec/yingshi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/yingyufudao.png" group-title="广东",广州新闻
+http://120.221.226.226/aplay.gztv.com/sec/xinwen.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/yingyufudao.png" group-title="广东",广州法治
+http://120.221.226.226/aplay.gztv.com/sec/fazhi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/yingyufudao.png" group-title="广东",广州竞赛
+http://120.221.226.226/aplay.gztv.com/sec/jingsai.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/yingyufudao.png" group-title="广东",广州综合
+http://120.221.226.226/aplay.gztv.com/sec/zhonghe.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="广东",嘉佳卡通
 http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/jjkt/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/yingyufudao.png" group-title="广东",英语辅导
