@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:-1,Россия 1 (Ивтелерадио)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_ROSSIA1/variant.m3u8
+#EXTINF:-1,Россия 24 (Ивтелерадио)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTT_CT_IVAN_ROSSIA24/variant.m3u8
+#EXTINF:-1,Матч ТВ (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_ROSSIA2/variant.m3u8
+#EXTINF:-1,Карусель (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTT_CT_IVAN_KARUSEL/variant.m3u8
+#EXTINF:-1,ТНТ (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTT_CT_IVAN_TNT/variant.m3u8
+#EXTINF:-1,ТВ-3 (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTT_CT_IVAN_TV3/variant.m3u8
+#EXTINF:-1,Пятый канал (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_OTT_CT_IVAN_5TV/variant.m3u8
+#EXTINF:-1,РЕН-ТВ (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_OTT_CT_IVAN_RENTV/variant.m3u8
+#EXTINF:-1,Россия К (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_OTT_CT_IVAN_ROSSIAK/variant.m3u8
+#EXTINF:-1,СТС (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_OTT_CT_IVAN_STS/variant.m3u8
+#EXTINF:-1,Че (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:-1,Первый канал (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R03_OTT_CT_IVAN_1TV/variant.m3u8
+#EXTINF:-1,НТВ (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R03_OTT_CT_IVAN_NTV/variant.m3u8
+#EXTINF:-1,Звезда (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R03_OTT_CT_IVAN_ZVEZDA/variant.m3u8
+#EXTINF:-1,Ю (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R03_U/variant.m3u8
+#EXTINF:-1,Домашний (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_DOMASHNY/variant.m3u8
+#EXTINF:-1,ТВ Центр (Иваново)
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_TVC/variant.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5頻道
