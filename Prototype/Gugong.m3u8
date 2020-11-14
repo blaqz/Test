@@ -564,8 +564,8 @@ http://digitalxpress2.gcdn.co/live1/tsn33/index.m3u8
 http://digitalxpress2.gcdn.co/live1/tsn44/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN4.ca.png" group-title="体育",TSN 5
 http://digitalxpress2.gcdn.co/live1/tsn55/index.m3u8
-
-
+#EXTINF:-1 tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="体育",Матч
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_ROSSIA2/variant.m3u8
 #EXTINF:-1 tvg-id="WWE.US" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="体育",WWE
 https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 
