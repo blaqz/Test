@@ -339,7 +339,7 @@ http://51.52.156.22:8888/http/009
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="电影",Thrill
+#EXTINF:-1 tvg-id="THR.MY" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="电影",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -354,7 +354,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="TYP.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/ec697ac53e8b3f6607cf7aeaf42a47c2da5a7607.png" group-title="电影",天映经典频
+#EXTINF:-1 tvg-id="TYJ.Asia" tvg-logo="http://console.celestialtiger.com/images/upload/ec697ac53e8b3f6607cf7aeaf42a47c2da5a7607.png" group-title="电影",天映经典频
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -844,7 +844,7 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 
 #EXTINF:-1 tvg-id="ZZB.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="印度精选",Zee Bangla
 http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d1gf51qhpllsl2.cloudfront.net/images/logo.png" group-title="印度精选",Sony Aath
+#EXTINF:-1 tvg-id="SAA.IN" tvg-logo="https://d1gf51qhpllsl2.cloudfront.net/images/logo.png" group-title="印度精选",Sony Aath
 http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="印度精选",Pitaara
