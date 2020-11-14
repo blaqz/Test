@@ -121,6 +121,9 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/Sportsnet360.ca.png" group-title="Sports",Sportsnet 360
 https://hackey.stream/hlsrio/test.m3u8
 
+#EXTINF:-1 tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="Sports",Матч
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_ROSSIA2/variant.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN1.ca.png" group-title="Sports",TSN 1
 http://digitalxpress2.gcdn.co/live1/tsn11/index.m3u8
