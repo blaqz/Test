@@ -126,24 +126,6 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m
 http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8
 #EXTINF:-1,U
 http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_U/variant.m3u8
-#EXTINF:-1,1TV
-http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_1TV/variant.m3u8
-#EXTINF:-1,Первый канал HD
-http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_1TVHD/variant.m3u8
-#EXTINF:-1,Первый канал HD (2)
-http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_2TVHD/variant.m3u8
-#EXTINF:-1,Первый канал HD (3)
-http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_3TVHD/variant.m3u8
-#EXTINF:-1,Первый канал HD (4)
-http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_4TVHD/variant.m3u8
-#EXTINF:-1,Первый канал HD (5)
-http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_5TVHD/variant.m3u8
-#EXTINF:-1,Первый канал HD (6)
-http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_6TVHD/variant.m3u8
-#EXTINF:-1,Первый канал HD (8)
-http://rt-vlg-kzn-htlive.cdn.ngenix.net:80/hls/CH_R03_OTT_VLG_KZN_18TVHD/variant.m3u8
-#EXTINF:-1,Волгоград 1
-http://rt-sth-vgrad-htlive.cdn.ngenix.net:80/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
 #EXTINF:-1,ОТС HD
 http://rt-sib-nsk-htlive.cdn.ngenix.net:80/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1,Волга (Н. Новгород)
@@ -516,10 +498,10 @@ http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.myudm.ru/sites/all/themes/myudmnew/images/logo.png" group-title="Россия",Моя Удмуртия
 https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://volgograd24.tv/tmpl/main/images/logo.png" group-title="Россия",Волгоград 24
-http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://xn--b1ats.xn--80asehdb/img/logo.png" group-title="Россия",Муниципальное Телевидение Волгограда
-http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://volgograd1.tv/assets/img/logo.png" group-title="Россия",Волгоград 1
+http://rt-sth-vgrad-htlive.cdn.ngenix.net:80/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://xn--b1ats.xn--80asehdb/img/logo.png" group-title="Россия",Муниципальное Телевидение Волгограда
+https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mtvmix.ru/meropriyatiya/images/500.png" group-title="Россия",MTV Mix
 http://81.30.182.82:18092/hls/live.m3u8
 #EXTINF:-1 tvg-logo="http://muz.tv-soyuz.ru/images/logo.png" group-title="Россия",Muz Sojuz
