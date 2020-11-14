@@ -890,7 +890,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-id="LBI.LB" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="中东精选",LBC International
 https://mysat-live.ercdn.net/lbcinternational/lbcinternational_720p.m3u8
 #EXTINF:-1 tvg-id="AF1.SA" tvg-logo="https://www.artonline.tv/UploadImages/aflam-1-blue.png" group-title="中东精选",ART Aflam 1
-https://p-mysat-live.ercdn.net/artaflam1/artaflam1_576p.m3u8
+http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
 #EXTINF:-1 tvg-id="ROT.EG" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="中东精选",Rotana Drama
 https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="中东精选",TRT 1
