@@ -1405,8 +1405,6 @@ https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunkl
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dmsat.tv/images/stories/dmsat_logo_m.jpg" group-title="Србија/Црна Гора",DM Satelitska Televizija
 https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/hr/PinkPlus.hr.png" group-title="Србија/Црна Гора",Pink Plus
-http://62.210.205.41:8080/PINK/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://nextgen-iptv.com/logo/rtv-duga-logo.png" group-title="Србија/Црна Гора",Duga TV
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
