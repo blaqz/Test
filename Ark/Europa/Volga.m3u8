@@ -867,7 +867,7 @@ http://tv.cdn.xsg.ge/universehd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://rtrk.kz/qazaqstan.png" group-title="Казахстан",Qazaqstan
-https://qazaqstantv-stream.daitsuna.net/qazaqstantv/qazaqstantv/index.m3u8
+https://qazaqstantv-stream.daitsuna.net/qazaqstantv2/qazaqstantv_1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.qazaqstan.tv/qazsport.png" group-title="Казахстан",Qazsport
 https://live-qazsport.cdnvideo.ru/qazsport_kz/qazsport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.qazaqstan.tv/balapan.png" group-title="Казахстан",Balapan TV
