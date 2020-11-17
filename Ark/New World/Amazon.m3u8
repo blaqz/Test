@@ -240,32 +240,6 @@ https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.cnnbrasil.com.br/_next/static/images/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="Português/Brasil",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png" group-title="Português/Brasil",Discovery Brasil
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png" group-title="Português/Brasil",Discovery Kids
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="Português/Brasil",ESPN Brasil
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Português/Brasil",ESPN 1 Brasil
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN2.us.pn" group-title="Português/Brasil",ESPN 2 Brasil
-http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/ESPNExtra.br.png" group-title="Português/Brasil",ESPN Extra Brasil
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="Português/Brasil",Fox Brasil
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/FOXPremium1.br.png" group-title="Português/Brasil",Fox Premium 1 Brasil
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/FoxSports.br.png" group-title="Português/Brasil",Fox Sports Brasil
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/us/FX.us.png" group-title="Português/Brasil",FX Brasil
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/MTV.us.png" group-title="Português/Brasil",MTV Brasil
-https://origin-02.nxplay.com.br/MTV_BR_HD/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Português/Brasil",Nick Jr Brasil 
-https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/Nickelodeon.uk.png" group-title="Português/Brasil",Nickelodeon Brasil
-https://origin-02.nxplay.com.br/NICK_BR_HD/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2019/10/TRACE-BRAZUCA-logo-rgb.png" group-title="Português/Brasil",Trace Brazuka
 https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/TVN-Brasil-webtvonlive.com_.jpg" group-title="Português/Brasil",TVN Brasil
@@ -523,15 +497,17 @@ https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/cimg/1001/2019/10/01/mtmad-logo_7fd4.gif" group-title="Español",mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="Español",Neox
-https://a3m-neox-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0c83968d0468c93bf4e3e0738e60ece3f3c5ee9c0
+https://livestartover.atresmedia.com/geoneox/master.m3u8|X-Forwarded-For=188.208.141.21
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Mega.es.png" group-title="Español",Mega
-https://a3m-nova-live-dash.secure.footprint.net/live/nas_live/nova/dash/nova.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06b89b965159503223e9617ee4f6d9a022132ea16
+https://livestartover.atresmedia.com/geomega/master.m3u8|X-Forwarded-For=188.208.141.21
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="Español",Telecinco
 https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/13TV.es.png" group-title="Español",Trece
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/pequeradio-tv.png" group-title="Español",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="Español" tvg-name="Nova",Nova
+https://livestartover.atresmedia.com/geonova/master.m3u8|X-Forwarded-For=188.208.141.21
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png" group-title="Español",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
