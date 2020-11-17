@@ -516,8 +516,8 @@ http://digitalxpress2.gcdn.co/live1/tsn33/index.m3u8
 http://digitalxpress2.gcdn.co/live1/tsn44/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN4.ca.png" group-title="体育",TSN 5
 http://digitalxpress2.gcdn.co/live1/tsn55/index.m3u8
-#EXTINF:-1 tvg-id="WWE.US" tvg-logo="http://static.epg.best/us/WWE.us.png" group-title="体育",WWE
-https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="体育",Матч
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_ROSSIA2/variant.m3u8
 
 #EXTINF:-1 tvg-ID="KS1.KR" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="韩国",KBS 1
 http://live2.abcdsky.com:1935/live/KBS1/playlist.m3u8
@@ -838,6 +838,16 @@ https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-id="SV1.SE" tvg-logo="https://static.epg.best/se/SVT2.se.png" group-title="欧洲精选",SVT1
 http://185.19.191.12:8090/SVT1/index.m3u8
+#EXTINF:-1 tvg-id="NR1.NO" tvg-logo="https://static.epg.best/no/NRK1.no.png" group-title="欧洲精选",NRK 1
+https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8|X-Forwarded-For=5.249.230.1
+#EXTINF:-1 tvg-id="DR1.DK" tvg-logo="https://static.epg.best/dk/DR1.dk.png" group-title="欧洲精选",DR 1
+https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
+#EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Slovensko",Joj
+http://nn1.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 tvg-id="HR1.HR" tvg-id="" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" group-title="欧洲精选",HRT 1 
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8 
+#EXTINF:-1 tvg-id="POS.PL" -1 tvg-logo="https://static.epg.best/pl/Polsat.pl.png" group-title="欧洲精选",Polsat
+http://digitalxpress.gcdn.co/live1/polsat/index.m3u8
 
 #EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="法国精选",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
@@ -881,14 +891,17 @@ http://rt-sib-chita-htlive.cdn.ngenix.net:80/hls/CH_R03_1TV/variant.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="R24.RU" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="苏联精选",Russia 24
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1 tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="苏联精选",Матч
-http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_ROSSIA2/variant.m3u8
-
+#EXTINF:-1 tvg-id="CTC.RU" tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="苏联精选",СТС
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_OTT_CT_IVAN_STS/variant.m3u8
+#EXTINF:-1 tvg-id="THT.RU" tvg-logo="https://static.epg.best/ru/TNTInternational.ru.png" group-title="苏联精选",ТНТ
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTT_CT_IVAN_TNT/variant.m3u8
+#EXTINF:-1 tvg-id="KAR.RU" tvg-logo="https://static.epg.best/ru/Karusel.ru.png" group-title="苏联精选",Карусель
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTT_CT_IVAN_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="苏联精选",UA:Перший
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
-#EXTINF:-1 tvg-id="B24.BY" tvg-logo="https://static.epg.best/by/Belarus24.by.png" group-title="Беларусь",Беларусь 24
+#EXTINF:-1 tvg-id="B24.BY" tvg-logo="https://static.epg.best/by/Belarus24.by.png" group-title="苏联精选",Беларусь 24
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1 tvg-id="LRT.LT" tvg-logo="https://static.epg.best/lt/LRTLituanica.lt.png" group-title="Беларусь",LRT Lituanica(Lietuva)
+#EXTINF:-1 tvg-id="LRT.LT" tvg-logo="https://static.epg.best/lt/LRTLituanica.lt.png" group-title="苏联精选",LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 tvg-id="QAZ.KZ" tvg-logo="https://rtrk.kz/qazaqstan.png" group-title="苏联精选",Qazaqstan
 https://qazaqstantv-stream.daitsuna.net/qazaqstantv2/qazaqstantv_1080/index.m3u8
