@@ -884,6 +884,12 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1 tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="苏联精选",Матч
 http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_ROSSIA2/variant.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="苏联精选",UA:Перший
+http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtrk.kz/qazaqstan.png" group-title="苏联精选",Qazaqstan
+https://qazaqstantv-stream.daitsuna.net/qazaqstantv2/qazaqstantv_1080/index.m3u8
+
+
 #EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="中东精选",MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 #EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东精选",Abu Dhabi Al Oula
