@@ -419,17 +419,17 @@ https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/FranceO.fr.png" group-title="Français",France Ô
 https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="Français",France 2
-http://85.25.103.21:8081/live/france2/playlist.m3u8
+http://178.132.3.162:88/france2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="Français",France 3
-http://85.25.103.21:8081/live/france3/playlist.m3u8
+http://178.132.3.162:88/france3/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="Français",France 3 Rhône-Alpes
 https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="Français",France 3 Alpes
 https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France4.fr.png" group-title="Français",France 4
-http://85.25.103.21:8081/live/france4/playlist.m3u8
+http://178.132.3.162:88/france4/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France5.fr.png" group-title="Français",France 5
-http://85.25.103.21:8081/live/france5/playlist.m3u8
+http://178.132.3.162:88/france5/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/FranceInfo.fr.png" group-title="Français",France Info
 https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="Français",France 24
@@ -438,7 +438,7 @@ http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/cn/CGTNFrench.cn.png" group-title="Français",CGTN Français
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="Nouvelles",BFM 
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="Français",BFM 
 https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png" group-title="Français",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
@@ -460,7 +460,7 @@ http://178.132.3.162:88/CanalJ/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="Français",DBM
 https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="Français",Gulli
-http://178.132.3.162:88/Gulli/index.m3u8?token=test
+http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="Français",L'Equipe 21
 http://82.64.13.207:2002/bysid/2562
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Français",M6
@@ -523,8 +523,6 @@ https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TF1SeriesFilms.fr.png" group-title="Français",TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TF1SeriesFilms.fr.png" group-title="Français",TF1 Séries Films
-http://82.64.13.207:2002/bysid/2561
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/TFX.fr.png" group-title="Français",TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/za/TraceUrban.za.png" group-title="Français",Trace Urban Français
