@@ -218,13 +218,13 @@ http://163.172.15.177/live/sUPPERchannel2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ln24.be/themes/custom/mmw/images/logo-ln24.png" group-title="Belgium",Les News 24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/be/een.be.png" group-title="Belgium",VRT één
-https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
+https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/.m3u8?hd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/be/Canvas.be.png" group-title="Belgium",VRT Canvas
-https://live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
+https://live-cf-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/.m3u8?hd
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/VRT_Ketnet_logo.svg/150px-VRT_Ketnet_logo.svg.png" group-title="Belgium",VRT Ketnet
-https://live-cf-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/live_aes-audio_track_0_dut=128000-video=3000000.m3u8?hd
+https://live-cf-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/.m3u8?hd
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ed/VRT_Ketnet_Junior_logo_%282018-%29.png" group-title="Belgium",VRT Ketnet jr
-http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennecentre.tv/sites/antennecentre.easydev.be/files/logoac_rev.png" group-title="Belgium",Antenne center
 http://tvl-live.fl.freecaster.net/live/actv/actv.m3u8
@@ -469,10 +469,6 @@ http://178.132.3.162:88/M6/index.m3u8?token=test
 http://178.132.3.162:88/NRJ_12/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/PIWI.fr.png" group-title="Français",Piwi
 http://178.132.3.162:88/Piwi/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/RMCStory.fr.png" group-title="Français",RMC Story
-http://82.64.13.207:2002/bysid/2565
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/RMCdecouverte.fr.png" group-title="Français",RMC Découverte
-http://82.64.13.207:2002/bysid/2564
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Teva.fr.png" group-title="Français",Téva
 http://178.132.3.162:88/Teva/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Français",TV5 Monde Asie
@@ -578,30 +574,9 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/inde
 http://193.64.188.131:8011/bysid/17
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fi/YleTV2.fi.png" group-title="Suomi",Yle 2
 http://193.64.188.131:8011/bysid/33
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fi/YleFem.fi.png" group-title="Suomi",Yle Teema Fem
-http://193.64.188.131:8011/bysid/81
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fi/Ava.fi.png" group-title="Suomi",AVA
-http://193.64.188.131:8011/bysid/155
 #EXTINF:-1 tvg-id="" tvg-logo="https://alfatv.fi/wp-content/themes/alfatv/layout/alfa-tv-logo.png" group-title="Suomi",Alfa
 https://693a74ecd6a048f2a460cc38c2259994.dlvr1.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8?organizationId=4507452&suiteItemId=4515276
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fi/MTV3.fi.png" group-title="Suomi",MTV3
-http://193.64.188.131:8011/bysid/49
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fi/Nelonen.fi.png" group-title="Suomi",Nelonen
-http://193.64.188.131:8011/bysid/65
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fi/TV5.fi.png" group-title="Suomi",TV5 Suomi
-http://193.64.188.131:8021/bysid/417
-#EXTINF:-1 tvg-id="" tvg-logo="https://eu1-prod-images.disco-api.com/2018/11/19/channel-122-11491704355733772.png" group-title="Suomi",TV6 Suomi
-http://193.64.188.131:8021/bysid/401
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/TLC.de.png" group-title="Suomi",TLC Suomi
-http://193.64.188.131:8021/bysid/145
-#EXTINF:-1 tvg-id="" tvg-logo="https://eu1-prod-images.disco-api.com/2018/11/19/channel-110-11491663699355194.png" group-title="Suomi",FRII
-http://193.64.188.131:8021/bysid/451
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fi/Sub.fi.png" group-title="Suomi",Sub.
-http://193.64.188.131:8031/bysid/273
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fi/Liv.fi.png" group-title="Suomi",Liv
-http://193.64.188.131:8031/bysid/818
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fi/Jim.fi.png" group-title="Suomi",Jim
-http://193.64.188.131:8031/bysid/129
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://greektv.pbworks.com/f/1433976522/ERT1.png" group-title="Ελλάδα",ERT 1
 https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
