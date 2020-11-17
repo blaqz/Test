@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="Español",Teledeporte
-https://rtvelivestream.akamaized.net/tdp_dvr.m3u8|X-Forwarded-For=188.208.141.21
-#EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="Generalistas" tvg-name="Neox",Neox GEO
-https://livestartover.atresmedia.com/geoneox/master.m3u8|X-Forwarded-For=188.208.141.21
-#EXTINF:-1 tvg-id="Nova.TV" tvg-logo="https://graph.facebook.com/novatdt/picture?width=200&height=200" group-title="Generalistas" tvg-name="Nova",Nova GEO
-https://livestartover.atresmedia.com/geonova/master.m3u8|X-Forwarded-For=188.208.141.21
-#EXTINF:-1 tvg-id="Mega.TV" tvg-logo="https://graph.facebook.com/megaTDT/picture?width=200&height=200" group-title="Generalistas" tvg-name="Mega",Mega GEO
-https://livestartover.atresmedia.com/geomega/master.m3u8|X-Forwarded-For=188.208.141.21
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="新马",5頻道
@@ -879,21 +870,17 @@ https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8|X-For
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="AN3.ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="拉丁精选",Antena 3
 https://livestartover.atresmedia.com/antena3/master.m3u8
-#EXTINF:-1 tvg-id="CUA.ES" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="拉丁精选",Cuatro
-https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 #EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="拉丁精选",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
 #EXTINF:-1 tvg-id="LA2.ES" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="拉丁精选",LA 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="LA6.ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="拉丁精选",LA Sexta
 https://livestartover.atresmedia.com/lasexta/master.m3u8
-#EXTINF:-1 tvg-id="RCN.CO" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/logo-canal-rcn-2019.png" group-title="拉丁精选",RCN
-https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
-#EXTINF:-1 tvg-id="TEL.ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="拉丁精选",Telecinco
-https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
 #EXTINF:-1 tvg-ID="TEL.AR" tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.04.01/images/logo-telefe.3874c0defd1c086d07474d5caed4df1f.png" group-title="拉丁精选",Telefe
-https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/index_1_av-p.m3u8
-#EXTINF:-1 tvg-ID="TVI.PTT" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="拉丁精选",TVI
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:-1 tvg-ID="RTI.PT" tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="拉丁精选",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="TVI.PT" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi.png" group-title="拉丁精选",TVI
 http://85.25.103.21:8081/live/TVI/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="中东精选",MBC 1
