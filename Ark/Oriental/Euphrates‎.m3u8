@@ -158,7 +158,7 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="لبنان",LBC
 https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="لبنان",LBC International
-https://mysat-live.ercdn.net/lbcinternational/lbcinternational_720p.m3u8
+https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg"group-title="لبنان",MTV Lebanon
 https://mysat-live.ercdn.net/mtvhd/mtvhd_720p.m3u8
