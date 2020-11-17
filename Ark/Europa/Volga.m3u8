@@ -736,6 +736,8 @@ http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
 http://streams2.livetv.az/azerbaijan/space_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.kanalturan.com/turantv.PNG" group-title="Azərbaycan",Turan TV
 http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://interaztv.com/images/logo.png" group-title="Azərbaycan",Inter Az
+http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/by/Belarus24.by.png" group-title="Беларусь",Беларусь 24
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
