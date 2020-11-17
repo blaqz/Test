@@ -1222,25 +1222,73 @@ http://digitalxpress.gcdn.co/live1/hbo2polska/index.m3u8
 http://digitalxpress.gcdn.co/live1/hbo3polska/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="România",TVR 1	
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist.m3u893.190.138.235
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="România",TVR 2	
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="România",TVR 3	
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvrhd.tvr.ro/images/logo_main_tvrhd.png" group-title="România",TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvr_hd_live/tvr_hd_live2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvri.tvr.ro/images/logo_main_tvri.png" group-title="România",TVR International 
-http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
+https://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://cluj.tvr.ro/images/logo_main_tvrcluj.png" group-title="România",TVR Cluj	
-http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8 
+https://mn-nl.mncdn.com/tvr_cluj_live/tvr_cluj_live2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://craiova.tvr.ro/images/logo_main_tvrcraiova.png" group-title="România",TVR Craiova	
-http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8 
+https://mn-nl.mncdn.com/tvr_craiova_live/tvr_craiova_live2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://timisoara.tvr.ro/images/logo_main_tvrtimisoara.png" group-title="România",TVR Timisoara 
-http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8 
+https://mn-nl.mncdn.com/tvr_timisoara_live/tvr_timisoara_live2/playlist.m3u8http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="http://iasi.tvr.ro/images/logo_main_tvriasi.png" group-title="România",TVR Iasi
-http://89.136.209.26:1935/liveedge/TVRIASI.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvr_iasi_live/tvr_iasi_live2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://mures.tvr.ro/images/logo_main_tvrmures.png" group-title="România",TVR Targu-Mures
-http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvr_tirgumures_live/tvr_tirgumures_live2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.digi24.ro/static/theme-repo/bin/images/digi24-logo.png" group-title="România",Digi 24
+http://d-e-02.cdn.rdsnet.ro/DVR/digi24hdb.stream/playlit.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ro/DigiSport1.ro.png" group-title="România",Digi Sport 1
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport1hdb.stream/playlit.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ro/DigiSport2.ro.png" group-title="România",Digi Sport 2
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/playlit.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ro/DigiSport3.ro.png" group-title="România",Digi Sport 3
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlit.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ro/DigiSport4.ro.png" group-title="România",Digi Sport 4
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",Cinemaraton
+https://cmn.digitalcable.ro/free/cm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",Comedy Est
+https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",6TV
+https://stream.chrominance.ro/clients/6tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",Iasi TV
+http://82.208.151.107:8088/high/tvriasi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",Media Regional
+http://83.103.150.198:8080
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",QTV HD
+http://encoder.inedittv.ro:9090/seconds4hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România", HD
+http://89.38.8.130:39419
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",Curier TV
+http://5.2.164.135:1935/live/curiertv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",Dotto TV
+https://dotto.edvr.ro/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",A7 TV
+https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",HD365
+https://netstreaming.eu:8080/hls/hd365.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",Alba Carolina TV
+https://www.albacarolinatv.ro/live/
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",ROCHANNEL
+http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",METROPOLA TV
+http://cdn.metropolatv.ro:9090/seconds3hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",TV Buzau
+http://95.77.16.67:8080/
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",LINK PRESS TV
+http://x1.imcr.ro:9090/seconds6hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ro/ProTV.ro.png" group-title="România",Pro TV
 https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ro/Pro2.ro.png" group-title="România",Pro 2
@@ -1253,6 +1301,7 @@ https://vid.hls.protv.ro/progoldn/progold.m3u8?1
 https://vid.hls.protv.ro/procineman/procinema.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/f/f6/Pro_TV_News.jpg/revision/latest/scale-to-width-down/340?cb=20180704232349" group-title="România",Pro TV News
 https://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ro/MusicChannel.ro.png" group-title="România",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvromanialive.com/wp-content/uploads/2019/06/alfa-omega-tv.png" group-title="România",Alfa Omega TV
@@ -1265,8 +1314,6 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.credo.tv/wp-content/uploads/2019/07/logo-2.png" group-title="România",Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/chunklist_b1128000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.digi24.ro/static/theme-repo/bin/images/digi24-logo.png" group-title="România",Digi 24
-http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://inedittv.ro/wp-content/uploads/2019/02/itvhd_web-1.png" group-title="România",Inedit TV
 http://encoder.inedittv.ro:9090/seconds3hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i2.wp.com/movingrecords.ro/wp-content/uploads/2016/11/KapitalTV-Spot-Noiembrie-2016.jpg" group-title="România",Kaptial TV
@@ -1281,8 +1328,6 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=L
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-logo="https://mooz.tv/site/img/mooz-ro1.png" group-title="România",MOOZ RO!
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/330px-Logo_Pro_TV_%282017%29.svg.png" group-title="România",Pro TV News
-http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-logo="http://stvron.com/canale/512/profit-ro.png" group-title="România",Profit
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Realitatea_TV_Logo2007.png" group-title="România",Realitatea 
