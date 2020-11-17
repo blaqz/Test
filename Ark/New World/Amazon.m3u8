@@ -240,8 +240,6 @@ https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.cnnbrasil.com.br/_next/static/images/logo-0457804d41d68a5c1c3de124ff229c35.png" group-title="Português/Brasil",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2019/10/TRACE-BRAZUCA-logo-rgb.png" group-title="Português/Brasil",Trace Brazuka
-https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/TVN-Brasil-webtvonlive.com_.jpg" group-title="Português/Brasil",TVN Brasil
 http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png" group-title="Português/Brasil",TV Brasil
@@ -917,15 +915,9 @@ http://mangotv01.streamprolive.com/hls/live.m3u8
 https://cdn4.hostlagarto.com:8081/miavisiontv/index.m3u8
 #EXTINF:-1 tvg-logo="https://teleuniversotv.com/wp-content/uploads/2018/11/logo_teleuniverso_400px.png" group-title="República Dominicana",Teleuniverso
 http://ss1.domint.net:2302/tu_str/universo/chunklist_w767339678.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/za/TraceUrban.za.png" group-title="República Dominicana",Trace Urban Dom
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbandom/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title=""República Dominicana",Trace Tropical
-http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/nago.tv/wp-content/uploads/2019/04/NAGO-TV-LOGO-BON.png" group-title="Ayiti",Nago TV
 https://lakay.haitilive.net/hb/nagotv/web/index.m3u8
-https://www.dailymotion.com/video/x72rkvx"
-
 #EXTINF:-1 tvg-logo="https://www.haititelevision.com/images/kajou-tv-ch9.jpg" group-title="Ayiti",Kajou TV
 https://video1.getstreamhosting.com:1936/8604/8604/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/Tele_Haiti_2012.png/revision/latest/scale-to-width-down/340?cb=20180717225327" group-title="Ayiti",Tele Haiti
@@ -938,8 +930,6 @@ http://mt2.cdnak.mt.neulion.com/nlds/hln/hln_lumi/as/live/hln_lumi_4.m3u8
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_soleil/as/live/hln_soleil_1.m3u8
 #EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2018/04/TRACE-AYITI-LOGO-png.png" group-title="Ayiti",Trace Ayti
 http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://radiotele6univers.net/wp-content/uploads/2019/11/head-logo-radio-tele-6-univers.png" group-title="Ayiti",Radio Télé 6 Univers
-https://lakay.haitilive.net/app/tvlakay/tele6univers/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s13525g.png" group-title="Ayiti",Radio Télé Ginen
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s230708/images/logoq.jpg" group-title="Ayiti",Tele Louange
@@ -948,6 +938,8 @@ https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
 http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_opatv/as/live/hln_opatv_3.m3u8
 #EXTINF:-1 tvg-logo="https://radiotelehirondelle.com/wp-content/uploads/2020/08/logo.png" group-title="Ayiti",RTV Hirondelle 16
 http://play.acwstream.com:2000/live/acw_01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/tva30.com/wp-content/uploads/2019/08/cropped-tvachaine30logo-1.png" group-title="Ayiti",TVA30
+https://play.haitibroadcasting.com/tva/30/live/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvlive.altervista.org/wp-content/uploads/2018/06/Canal-5-Honduras-200x180.png" group-title="Honduras",Canal 5 Honduras
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
