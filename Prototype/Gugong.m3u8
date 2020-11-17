@@ -693,8 +693,6 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
 #EXTINF:-1 tvg-ID="CBC.News" tvg-logo="https://static.epg.best/ca/CBCNews.ca.png" group-title="美国",CBC News
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.20
-#EXTINF:-1 tvg-ID="CBC.News" tvg-logo="https://static.epg.best/ca/CBCNews.ca.png" group-title="美国",CBC News
-https://1111296894.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
 #EXTINF:-1 tvg-id="CMT.US" tvg-logo="https://static.epg.best/us/CMT.us.png" group-title="美国",CMT
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="COU.US" tvg-logo="http://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png" group-title="美国",Court TV
