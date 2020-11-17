@@ -884,9 +884,13 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1 tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="苏联精选",Матч
 http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_ROSSIA2/variant.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="苏联精选",UA:Перший
+#EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="苏联精选",UA:Перший
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtrk.kz/qazaqstan.png" group-title="苏联精选",Qazaqstan
+#EXTINF:-1 tvg-id="B24.BY" tvg-logo="https://static.epg.best/by/Belarus24.by.png" group-title="Беларусь",Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 tvg-id="LRT.LT" tvg-logo="https://static.epg.best/lt/LRTLituanica.lt.png" group-title="Беларусь",LRT Lituanica(Lietuva)
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+#EXTINF:-1 tvg-id="QAZ.KZ" tvg-logo="https://rtrk.kz/qazaqstan.png" group-title="苏联精选",Qazaqstan
 https://qazaqstantv-stream.daitsuna.net/qazaqstantv2/qazaqstantv_1080/index.m3u8
 
 
