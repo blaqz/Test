@@ -833,13 +833,13 @@ https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/.m3u8?hd
 #EXTINF:-1 tvg-id="AN1.GR" tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="欧洲精选",ANT1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
-#EXTINF:-1 tvg-id="SV1.SE" tvg-logo="https://static.epg.best/se/SVT2.se.png" group-title="欧洲精选",SVT1
+#EXTINF:-1 tvg-id="SV1.SE" tvg-logo="https://static.epg.best/se/SVT1.se.png" group-title="欧洲精选",SVT1
 http://185.19.191.12:8090/SVT1/index.m3u8
 #EXTINF:-1 tvg-id="NR1.NO" tvg-logo="https://static.epg.best/no/NRK1.no.png" group-title="欧洲精选",NRK 1
 https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8|X-Forwarded-For=5.249.230.1
 #EXTINF:-1 tvg-id="DR1.DK" tvg-logo="https://static.epg.best/dk/DR1.dk.png" group-title="欧洲精选",DR 1
 https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
-#EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Slovensko",Joj
+#EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="欧洲精选",Joj
 http://nn1.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1 tvg-id="HR1.HR" tvg-id="" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" group-title="欧洲精选",HRT 1 
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8 
