@@ -672,17 +672,7 @@ http://hls.atvmedia.ru/atv800.m3u8
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/am/Armenia1.am.png" group-title="Հայաստան",Հ1
-http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/am/H2TV.am.png" group-title="Հայաստան",H2
-http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/2.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/am/ArmeniaTV.am.png" group-title="Հայաստան",Արմենիա
-http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/3.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeline.am/images/channel/1/15498787087232.png" group-title="Հայաստան",ATV
-http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/5.m3u8
-#EXTINF:-1 tvg-logo="https://www.beeline.am/images/channel/1/15498788193838.png" group-title="Հայաստան",Arm News
-http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/6.m3u8
-#EXTINF:-1 tvg-logo="https://www.kentron.tv/images/logo.png" group-title="Հայաստան",Կենտրոն
-http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/7.m3u8
+https://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeline.am/images/channel/1/15499534949333.png" group-title="Հայաստան",5 Channel
 https://live-5tvam.cdnvideo.ru/5tvam/5tvam/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://artn.tv/theme_5b7f3ebdc0a68/assets/5ba5a4abe66dd.png" group-title="Հայաստան",ARTN
