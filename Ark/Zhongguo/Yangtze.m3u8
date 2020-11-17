@@ -395,10 +395,6 @@ http://seb.sason.top/ptv/ftv.php?id=ly
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="臺灣",中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-id="ZTZ.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="臺灣",中天综合
-http://live5.ocnttv.com:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 tvg-id="ZTL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="臺灣",中天娱乐
-http://live5.ocnttv.com:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-id="DLX.TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="臺灣",東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DLC.TW" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="臺灣",東森財經新聞
@@ -426,7 +422,7 @@ https://bcovlive-a.akamaihd.net/a735d612667b460185bd29f9978178bd/ap-northeast-1/
 #EXTINF:-1 tvg-id="WXD.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="臺灣",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-id="HAK.TW" tvg-logo="http://www.hakkatv.org.tw/img/logo-f.png" group-title="臺灣",客家電視
-http://p06.iptv2asia.com:18888/http/019
+https://youtu.be/LWwepk1p5kE
 #EXTINF:-1 tvg-id="YZM.TW" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" group-title="臺灣",原住民電視
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.fanstv.tw/images/logo.png" group-title="臺灣",番薯電視
