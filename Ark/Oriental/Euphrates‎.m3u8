@@ -339,25 +339,25 @@ https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.embratoria.net/uploads/tv_image/lana-tv.png" group-title="سوريا",Lana TV
-https://mysat-live.ercdn.net/lanatv/lanatv_720p.m3u8
+https://stream.lanacanal.tv:444/live/5f8976fdc153f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.embratoria.net/uploads/tv_image/lana-plus.png" group-title="سوريا",Lana Plus
-https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
+https://stream.lanacanal.tv:444/live/5f897da5763f3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://i5.satexpat.com/cha/sy/syrianTV-95x30.gif" group-title="سوريا",Syrian TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/snews_logo.png" group-title="سوريا",Alikhbaria TV
-http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
+http://82.137.248.16:1935/Snews/stream10112020/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2018/08/%D9%84%D9%88%D8%BA%D9%88-%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9-3.png" group-title="سوريا",Halab Today TV
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/sedu_logo.png" group-title="سوريا",Syrian Education
-http://82.137.248.16:1935/SEdu/stream31122019/playlist.m3u8
+http://82.137.248.16:1935/SEdu/stream10112020/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.gov.online/rtv_icons/syrian_logo.png" group-title="سوريا",Syrian Satellite
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_sat
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png" group-title="سوريا",Sama TV
 https://svs.itworkscdn.net/samatvlive/sama.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.gov.online/rtv_icons/nour_logo.png" group-title="سوريا",Noor Al-Sham
-http://82.137.248.16:1935/Nour/stream31122019/playlist.m3u8
+http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/souryana_logo.png" group-title="سوريا",Radio Souryana
-http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8
+http://82.137.248.16:1935/Souryana/stream10112020/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ortas.online/rtv_icons/ugarit_logo.png" group-title="سوريا",Ugarit TV 
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sy/OrientTV.sy.png" group-title="سوريا",Orient TV
