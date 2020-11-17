@@ -528,15 +528,6 @@ http://211.245.55.198:1024/m2u/239.192.53.4:49220
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/MBCNet.kr.png" group-title="한국",MBC NET
 http://211.245.55.198:1024/m2u/239.192.69.75:49220
 
-#EXTINF:-1,MBC
-http://live.yingtaotvapp.com/MBC/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",MBC Sports Plus
-http://live.yingtaotvapp.com/MBCSPO/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",MBC Drama
-http://live.yingtaotvapp.com/mbck/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",MBC Every1
-http://live.yingtaotvapp.com/MBCevery1/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://busan.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/03/b491f65688b33a01c91e335f19130164cacf5cb7cc99cf3a1e3dca37f26c79d2e5d2231c8e0f867adef39fd2cfad8bcdee0661309e11e4f57d92216a035aafef.png" group-title="한국",부산MBC(MBC Busan)
 https://5ca29b882aaf6.streamlock.net:443/livetv/BusanMBC_TV_livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://busan.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2018/12/6e1a8d912bd32dca479bbf74667f7caf0716dd4e358e61136cecb8ca29b5b99a46b47b1d42b4a487d582c6ad6132929ff20a4cb41b344da26694ca115f5ee90a.png" group-title="한국",대전MBC(MBC Daejeon)
@@ -615,10 +606,6 @@ http://211.245.55.198:1024/m2u/239.192.58.7:49220
 http://211.245.55.198:1024/m2u/239.192.69.7:49220
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.jtbcgolf.joins.com/main/191218_h_top_logo.png" group-title="한국",JTBC Golf
 http://211.245.55.198:1024/m2u/239.192.59.5:49220
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="한국",JTBC
-http://live.yingtaotvapp.com/JTBC/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://image.jtbcgolf.joins.com/main/191218_h_top_logo.png" group-title="한국",JTBC Golf
-http://live.yingtaotvapp.com/JTBCGolf/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jtbc4.joins.com/images/common/logo.png" group-title="한국",JTBC 4
 http://211.245.55.198:1024/m2u/239.192.69.171:49220
 
@@ -743,8 +730,6 @@ http://211.245.55.198:1024/m2u/239.192.66.3:49220
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.natv.go.kr/renew09/brd/img/common/logo.gif group-title="한국",국회 방송
 http://211.245.55.198:1024/m2u/239.192.64.5:49220
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/OBS.kr.png" group-title="한국",OBS
-http://live.yingtaotvapp.com/OBS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-obs-w.jpg" group-title="한국",OBS W
 http://121.160.102.99:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-obs-w.jpg" group-title="한국",OBS W
@@ -752,54 +737,10 @@ http://211.245.55.198:1024/m2u/239.192.65.16:49220
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/OCN.kr.png" group-title="한국",OCN
 http://211.245.55.198:1024/m2u/239.192.52.8:49220
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/OCN.kr.png" group-title="한국",OCN
-http://live.yingtaotvapp.com/OCN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f637147909947143853.png" group-title="한국",OCN Movies
 http://211.245.55.198:1024/m2u/239.192.51.7:49220
 #EXTINF:-1 tvg-id="" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f637147910638714018.png" group-title="한국",OCN Thrill
 http://211.245.55.198:1024/m2u/239.192.53.9:49220
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f637147909947143853.png" group-title="한국",OCN Movies
-http://live.yingtaotvapp.com/OCNMOVIE/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://img.lifestyler.co.kr/NewIMG/tving/static/images/gnb/bi/f637147910638714018.png" group-title="한국",OCN Thrill
-http://live.yingtaotvapp.com/124/index.m3u8
-
-
-#EXTINF:-1,OCN
-http://live.yingtaotvapp.com/OCN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",YTN
-http://live.yingtaotvapp.com/YTN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",KBS Drama
-http://live.yingtaotvapp.com/KBSk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",KBS Joy
-http://live.yingtaotvapp.com/KBStv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",EBS Kids
-http://live.yingtaotvapp.com/EBSKIDS/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",KBS Sports
-http://live.yingtaotvapp.com/KBSNSPO/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",CHANNEL A
-http://live.yingtaotvapp.com/CHANNELA/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",MPLEX
-http://live.yingtaotvapp.com/Mplex/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",CNTV
-http://live.yingtaotvapp.com/CNTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",ANIPLUS
-http://live.yingtaotvapp.com/ANIPLUS/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",MBN
-http://live.yingtaotvapp.com/MBN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",TOONIVERSE
-http://live.yingtaotvapp.com/TOONIVERSE/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",SPOTV
-http://live.yingtaotvapp.com/SPOTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",SPOTV2
-http://live.yingtaotvapp.com/SPOTV2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",TVCX
-http://live.yingtaotvapp.com/TVCX/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",FTV
-http://live.yingtaotvapp.com/FTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",LHXW
-http://live.yingtaotvapp.com/LHXW/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="한국",SBS Golf
-http://live.yingtaotvapp.com/SBS100/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/OnStyle.kr.png" group-title="한국",OnStyle
 http://211.245.55.198:1024/m2u/239.192.54.9:49220
