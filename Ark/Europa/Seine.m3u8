@@ -1523,7 +1523,7 @@ https://ocko-live.ssl.cdn.cra.cz/channels/wau/playlist/slo/live_lq.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.vegatv.sk/images/logo.png" group-title="Slovensko",Vega TV
 http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/se/SVT2.se.png" group-title="Sverige",SVT1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/se/SVT1.se.png" group-title="Sverige",SVT1
 http://185.19.191.12:8090/SVT1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/se/SVT2.se.png" group-title="Sverige",SVT2
 http://185.19.191.12:8090/SVT2/index.m3u8
