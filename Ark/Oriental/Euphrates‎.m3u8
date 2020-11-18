@@ -222,6 +222,12 @@ http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.wattan.net/media/assets/images/logo.png" group-title="فلسطين",Wattan
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://pnn.ps/wp-content/uploads/2015/02/logo.gif" group-title="فلسطين",PNN
+http://htvpalsat.mada.ps:8888/pnn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.salam-tv.net/media/images/logo.png" group-title="فلسطين",Salam tv
+http://htvpalsat.mada.ps:8888/salamtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://adwa2tv.com/wp-content/uploads/2019/01/cropped-ee.png" group-title="فلسطين",Adwa
+http://htvpalsat.mada.ps:8888/adwa2tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png" group-title="دولة قطر",Qatar TV
 http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8
