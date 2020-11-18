@@ -80,7 +80,7 @@ http://39.135.139.9:6610/PLTV/88888888/224/3221226203/2/index.m3u8?fmt=ts2hls
 http://teslagram.com/live/channel_630.m3u8
 #EXTINF:-1 tvg-ID="668.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/bf/HKJC_Horse_Racing.jpg" group-title="香港",赛马直击
 http://liveima.utvlive.top/livehls/MOB-HR/index.m3u8
-#EXTINF:-1 tvg-id="AOY.MO" tvg-logo="http://www.imastv.com/img/eqwe12qe2.png" group-title="粵語",澳亞衛視
+#EXTINF:-1 tvg-id="AOY.MO" tvg-logo="http://www.imastv.com/img/eqwe12qe2.png" group-title="香港",澳亞衛視
 http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="台湾",民視
