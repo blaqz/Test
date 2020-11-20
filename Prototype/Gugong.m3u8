@@ -51,11 +51,11 @@ https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
 
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
-http://livetv.dnsfor.me:80/channel.18.m3u8
+http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="香港",J2台                  
-http://livetv.dnsfor.me:80/channel.19.m3u8
+http://61.238.6.49:8001/bysid/82
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="香港",無綫明珠台(TVB Pearl)
-https://cdn.hkdtmb.com/hls/84/index.m3u8
+http://61.238.6.49:8001/bysid/2
 #EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="香港",無綫新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="香港",無綫財經資訊台
@@ -63,9 +63,9 @@ http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:-1 tvg-id="FHX.CN" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="香港",鳳凰衛視香港台
 http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 #EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="香港",ViuTVsix
-https://cdn.hkdtmb.com/hls/96/index.m3u8
+http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="香港",ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
+http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="香港",有線綜合娱乐
 http://livetv.dnsfor.me/channel.7.m3u8
 #EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="香港",有線新闻
