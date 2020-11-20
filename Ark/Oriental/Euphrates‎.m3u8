@@ -1379,3 +1379,8 @@ http://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/index_150_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Rasdtv3.jpg" group-title="الصحراء الغربية",RASD TV
 https://593fa17dec176.streamlock.net/rasdtv/rasdtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.znbc.co.zm/wp-content/uploads/2019/04/TV1-Logo.jpg" group-title="Zambia",ZNBC 1
+https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013574/index_150_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.znbc.co.zm/wp-content/uploads/2019/04/TV2-Logo.jpg" group-title="Zambia",ZNBC 2
+https://dcunilive135-lh.akamaihd.net/i/dclive_1@149239/index_150_av-p.m3u8
