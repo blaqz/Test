@@ -378,6 +378,9 @@ http://202.175.127.77/live/show/ch3/index.m3u8
 http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
 #EXTINF:-1 tvg-id="AOY.MO" tvg-logo="http://www.imastv.com/img/eqwe12qe2.png" group-title="粵語",澳亚卫视
 http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.lotustv.cc/Public/images/top_logo.png" group-title="粵語",Lotus Macau
+http://103.130.186.138:8800/oxygenplay/lotusmacau/index.m3u8
+
 
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="臺灣",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
