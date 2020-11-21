@@ -479,6 +479,8 @@ https://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
 https://live.farsiland.com/varzesh/350822/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="العراق",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png" group-title="العراق",Hispan TV
+https://live1.presstv.com/live/hispan_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://up.vbiran.ir/uploads/33487156717230316870_logo.png" group-title="العراق",4U TV
 http://192.99.102.14:8080/hls/4utv.m3u8
