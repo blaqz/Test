@@ -536,7 +536,7 @@ http://digitalxpress2.gcdn.co/live1/tsn44/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/TSN4.ca.png" group-title="体育",TSN 5
 http://digitalxpress2.gcdn.co/live1/tsn55/index.m3u8
 #EXTINF:-1 tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="体育",Матч
-http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_ROSSIA2/variant.m3u8
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_MATCHTV/variant.m3u8
 
 #EXTINF:-1 tvg-ID="KS1.KR" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="韩国",KBS 1
 http://211.245.55.198:1024/m2u/239.192.67.100:49220
@@ -902,7 +902,7 @@ http://85.25.103.21:8081/live/TVI/playlist.m3u8
 http://digitalxpress.gcdn.co/live1/globo/index.m3u8
 
 #EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="苏联精选",Первый
-http://rt-sib-chita-htlive.cdn.ngenix.net:80/hls/CH_R03_1TV/variant.m3u8
+https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="苏联精选",Russia 1
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="R24.RU" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="苏联精选",Russia 24
