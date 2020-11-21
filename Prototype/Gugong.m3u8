@@ -623,11 +623,11 @@ https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mp
 
 
 #EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="英国",BBC 1
-https://uk.easyview.eu/hls/bbc-london.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-london
+http://digitalxpress.gcdn.co/live1/bbc1/index.m3u8
 #EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="英国",BBC 2
 http://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="英国",BBC 4
-https://uk.easyview.eu/hls/bbc-four.m3u8|Referer=https://easyview.eu/watch.php?stream=bbc-four
+http://digitalxpress.gcdn.co/live1/bbc4/index.m3u8
 #EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="英国",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="BBL.UK" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="英国",BBC Lifestyle
@@ -638,8 +638,6 @@ https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-id="CBB.UK" tvg-logo="https://static.epg.best/gb/CBBC.uk.png" group-title="英国",CBBC
 http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="S4C.UK" tvg-logo="https://static.epg.best/gb/S4C.uk.png" group-title="英国",S4C
-https://uk.easyview.eu/hls/s4c.m3u8|Referer=https://easyview.eu/watch.php?stream=s4c
 #EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="英国",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-id="IT2.UK" tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="英国",ITV2
