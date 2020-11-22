@@ -292,7 +292,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225636/index.m3u8
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="中国",新疆卫视
 http://tv.boye.ml/iptv/xjtv.php?id=1tuan.png
-#EXTINF:-1 tvg-id="" tvg-logo=https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/ws/bingtuan.png group-title="中国",兵团卫视
+#EXTINF:-1 tvg-id="" tvg-logo=https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/ws/bingtuan.png" group-title="中国",兵团卫视
 http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.czlogo.com/uploads/image/2019/09/19/15688776722303.jpg" group-title="中国",农林卫视
 http://39.130.206.213:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8 
@@ -449,7 +449,7 @@ https://tv5stylezho-i.akamaihd.net/hls/live/631676/tv5stylezho/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tvyan.com/uploads/dianshi/anduo.jpg" group-title="少数民族",安多藏语卫视
 http://39.134.157.205/PLTV/88888888/224/3221225541/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png group-title="少数民族",康巴藏语卫视
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="少数民族",康巴藏语卫视
 http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.66zhibo.net/d/file/2019/0124/af2241fbb539921aa3c9c744b5cdc26b.jpg" group-title="少数民族",迪庆藏语
 http://39.130.206.213:6410/gitv_live/G_DIQINGZY/G_DIQINGZY.m3u8
