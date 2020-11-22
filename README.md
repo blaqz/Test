@@ -13,6 +13,7 @@ At the moment I maintain 2 playlists at the GoCast2 section for an Malaysian/Sin
 
 And an very very very very very very experiemental EPG:<br />
 https://exodiver.github.io/IPTV/EPG/guide_71.xml<br />
+https://exodiver.github.io/IPTV/EPG/guide_71.zip (In zip format)<br />
 
 ## Complaints FAQ
 
