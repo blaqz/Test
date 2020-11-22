@@ -27,12 +27,69 @@ https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiI1NzU0MDY1IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=K5QHleHoJp4T8XdlfjAOjm2eSaA%3D&
 https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
 
-#EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="新马",亚洲新闻台(CNA)
+#EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="NEWS",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="NEWS",Al Jazeera(中东)
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-ID="Ari.KR" logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="NEWS",Arirang(韩国)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="AFR.News" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="NEWS",Africa News(非洲)
+https://exodiver.github.io/IPTV/M3U8/Token/AfricaNews.m3u8
+
+#EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="NEWS",BBC World News(英国)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#EXTINF:-1 tvg-id="Blo.News" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="NEWS",Bloomberg(美国)
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="CBSN.US" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f9/CBSN_channel_Logo.png" group-title="NEWS",CBSN(美国)
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="CGN.News" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="NEWS",CGTN(中国)
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGD.News" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="NEWS",CGTN Documentary(中国)
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="NEWS",CNN (美国)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+
+#EXTINF:-1 tvg-id="CNW.News" tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="NEWS",CNBC World(美国)
+http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Dwe.News" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="NEWS",DW(德国)
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8
+#EXTINF:-1 tvg-id="EUR.News" tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="NEWS",EuroNews(欧洲)
+https://exodiver.github.io/IPTV/M3U8/Token/EuroNews.m3u8
+#EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="NEWS",Fox News(美国)
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-ID="Fra.News" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="NEWS",France 24(法国)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="NEWS",鳳凰资讯(中国)
+http://live.centerch.com/fhzx.m3u8
+#EXTINF:-1 tvg-id="FHW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="NEWS",鳳凰衛視中文(中国)
+http://live.centerch.com/fhwx.m3u8
+#EXTINF:-1 tvg-id="NHW.JP" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="NEWS",NHK World(日本)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="N27.IN" tvg-logo="http://static.epg.best/in/NDTV24x7.in.png" group-title="NEWS",NDTV 24X7(印度)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-id="RT.News" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="NEWS",RT(俄罗斯)
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+#EXTINF:-1 tvg-id="Sky.News" tvg-ID="Sky.News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="NEWS",Sky News(英国)
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-id="TLS.News" tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="NEWS",Telesur
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT.News" tvg-logo="http://static.epg.best/tr/TRTWorld.tr.png" group-title="NEWS",TRT World(土耳其)
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
 http://61.238.6.49:8000/bysid/1
-
+#EXTINF:-1 tvg-id="FHW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="NEWS",鳳凰衛視中文
+http://live.centerch.com/fhwx.m3u8
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="台湾",民視
 http://seb.sason.top/ptv/ftv.php?id=ms
 
