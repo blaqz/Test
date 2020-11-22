@@ -715,7 +715,7 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://telefe-static2.akamaized.net/media/143210/logo-santa-fe-368x80.png" group-title="Argentina",Telefe Santa Fe
 http://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png group-title="Argentina",NET TV 
+#EXTINF:-1 tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="Argentina",NET TV 
 https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://caprica.org.ar/wp-content/uploads/2019/09/descarga-1.jpg" group-title="Argentina",5RTV
