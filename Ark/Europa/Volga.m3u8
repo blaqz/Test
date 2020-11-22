@@ -820,7 +820,7 @@ https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ua/UATV.ua.png" group-title="Україна",UA
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ua/1Plus1.ua.png group-title="Україна",1+1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ua/1Plus1.ua.png" group-title="Україна",1+1
 https://live-k2303-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ua/UnianTV.ua.png" group-title="Україна",УНІАН
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
@@ -842,7 +842,7 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://112.international/img/icons/logo.png" group-title="Україна",112 Україна
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ua/ATR.ua.png group-title="Україна",ATR
+#EXTINF:-1 tvg-logo="https://static.epg.best/ua/ATR.ua.png" group-title="Україна",ATR
 http://stream.atr.ua/atr/live/index.m3u8
 #EXTINF:-1 tvg-logo="http://sk1.tv/images/logo.png" group-title="Україна",СК1
 http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
