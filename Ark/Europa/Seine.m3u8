@@ -462,7 +462,9 @@ https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="Français",Gulli
 http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="Français",L'Equipe 21
-http://82.64.13.207:2002/bysid/2562
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/RMCdecouverte.fr.png" group-title="Français",RMC Decouverte
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Français",M6
 http://178.132.3.162:88/M6/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="Français",NRJ_12
@@ -1264,7 +1266,7 @@ http://82.208.151.107:8088/high/tvriasi/index.m3u8
 http://83.103.150.198:8080
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",QTV HD
 http://encoder.inedittv.ro:9090/seconds4hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România", HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",HD
 http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.b1.ro/static/images/b1.jpg" group-title="România",Curier TV
 http://5.2.164.135:1935/live/curiertv/playlist.m3u8
