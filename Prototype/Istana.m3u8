@@ -324,8 +324,6 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 tvg-id="AF1.SA" tvg-logo="https://www.artonline.tv/UploadImages/aflam-1-blue.png" group-title="Movies",ART Aflam 1
 http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
 
-#EXTINF:-1 tvg-id="MB2.SA" tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="Movies",MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 
 #EXTINF:-1 tvg-id="SIN.ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="Movies",Sinema Indonesia
 http://103.130.186.138:8800/oxygenplay/sinemaindonesia-x/index.m3u8
@@ -409,17 +407,20 @@ https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-id="MED.SA" tvg-logo="https://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="عربى",Medina TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
-#EXTINF:-1 tvg-id="CNC.SA" tvg-logo="http://www.cnbcarabia.com/img/logo.png" group-title="عربى",CNBC عربى
-https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ARA.SA" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="عربى",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNC.SA" tvg-logo="http://www.cnbcarabia.com/img/logo.png" group-title="عربى",CNBC عربى
+https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="عربى",MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+#EXTINF:-1 tvg-id="MB2.SA" tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="عربى",MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1 tvg-id="MB2.SA" tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="عربى",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 
-#EXTINF:-1 tvg-id="NAT.AE" tvg-logo="https://static.epg.best/ae/NationalGeographicAbuDhabi.ae.png group-title="عربى",National Geographic Abu Dhabi
+#EXTINF:-1 tvg-id="NAT.AE" tvg-logo="https://static.epg.best/ae/NationalGeographicAbuDhabi.ae.png" group-title="عربى",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SPC.AE" tvg-logo="https://static.epg.best/sa/SpaceToon.sa.png" group-title="عربى",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
