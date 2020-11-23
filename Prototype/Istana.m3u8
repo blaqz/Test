@@ -662,11 +662,10 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/PBSWPSU.us.png" group-title="USA",PBS Pennsylvania(WPSU)
-https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://d1b7flq4e9knh1.cloudfront.net/wp-content/plugins/wnet-station-wrappers/libs/images/NJTV/logo.png" group-title="USA",PBS New Jersey(NJTV)
-https://cdn3.wowza.com/1/Yk9VdzI2QnptdXZ2/YjdacytV/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/themes/wnet/libs/images/WNET-Logo-new.png" group-title="USA",PBS Thirteen(WNET)
-https://cdn3.wowza.com/1/ZE9CSWR3ZDV2WEFQ/VENORDlI/hls/live/playlist.m3u8
+https://live-cdn.pbskids.org/out/u/aim/wpsu.m3u8|X-Forwarded-For=174.224.6.160
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/PBSWPSU.us.png" group-title="USA",PBS Pennsylvania(WPSU)
+https://live-cdn.pbskids.org/out/u/aim/wpsu.m3u8|X-Forwarded-For=209.239.112.104
 
 #EXTINF:-1 tvg-ID="WEA.US" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="USA",Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
