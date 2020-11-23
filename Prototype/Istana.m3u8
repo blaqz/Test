@@ -452,6 +452,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZBVk1lOVg2REVWQ1liVG42OGtUYkloX25jVExRRHdnMTliMkVSek91NUZ4SW5LRVNjNzFUcWZXaFR3aDBneUtYUTVvWUZrY2VSZlpuemxIcEJKRjJYU19hZ0ZqS0FlSENtbF84OV9LeWt0bVBSLVRyb0pyc2NoSmxqU3h1MXRHZnFqdkk0ZU1DQ0NFQ0RDSWFkYWhPRlA4aFNKclJRVllTdTVMY2pibkZhSFd5SjhfZFVMcGxTbUtjRi1GU3Y4akE0VGxvSm9DZXFwMndpdkxBS1NQVVY3amsxR2pjdXZYanFRQjl6OF9CTzZUMkxudnRkSHhERHkzYU9xQkVGNEJtbXBGZWphbm00alFBNm9kT1hRQkhaNkx4VUpubjVjdmVNMDZBcUdINGJkZVJWcUtSclJFSUZKZENSemtqc1I4WXBCWEJnejBzUWE1amhxZWtyRUVBSFhFSzZUUWpxX2UxWGhMYVQyQWxiN1RSVlNOR0N5THBDUDVKMmZ0Nlg1cXBRPT0mY29udGV4dFR5cGU9bm9uZSZpZD04ODQyMzcyIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2hkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZBVk1lOVg2REVWQ1liVG42OGtUYkloX25jVExRRHdnMTliMkVSek91NUZ4SW5LRVNjNzFUcWZXaFR3aDBneUtYUTVvWUZrY2VSZlpuemxIcEJKRjJYU19hZ0ZqS0FlSENtbF84OV9LeWt0bVBSLVRyb0pyc2NoSmxqU3h1MXRHZnFqdkk0ZU1DQ0NFQ0RDSWFkYWhPRlA4aFNKclJRVllTdTVMY2pibkZhSFd5SjhfZFVMcGxTbUtjRi1GU3Y4akE0VGxvSm9DZXFwMndpdkxBS1NQVVY3amsxR2pjdXZYanFRQjl6OF9CTzZUMkxudnRkSHhERHkzYU9xQkVGNEJtbXBGZWphbm00alFBNm9kT1hRQkhaNkx4VUpubjVjdmVNMDZBcUdINGJkZVJWcUtSclJFSUZKZENSemtqc1I4WXBCWEJnejBzUWE1amhxZWtyRUVBSFhFSzZUUWpxX2UxWGhMYVQyQWxiN1RSVlNOR0N5THBDUDVKMmZ0Nlg1cXBRPT0iLCJ1ZGlkIjoiSHJUSVlTUm9NRVd3UlNhZm43TklPWXN5bjVzMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=q%2bY3g5Ki0M%2bHftn%2byV%2b%2fdU14Z4g%3d
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
+
 #EXTINF:-1 group-title="ZTV.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/androidapphover_2.png" group-title="Hindustan(हिन्दी)",Zee TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -459,18 +460,22 @@ https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
 
 #EXTINF:-1 tvg-ID="RAJ.IN" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="Hindustan(தமிழ்)",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-ID="RAD.IN" tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/raj-digital-pllus.png" group-title="Hindustan(தமிழ்)",Raj Digital Plus
-http://45.120.188.179/hdmi
-#EXTINF:-1 tvg-ID="JAM.IN" tvg-logo="https://sc.dish.com/shared/images/station-logos/JMAX.png" group-title="Hindustan(தமிழ்)",Jaya Max
-http://45.120.188.178/hdmi
+#EXTINF:-1 tvg-id="SUN.IN" tvg-logo="https://static.epg.best/in/SunTV.in.png" group-title="Hindustan(தமிழ்)",Sun TV
+https://load.airtelxstream.in/suntv/smil:common.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://static.epg.best/in/SunMusic.in.png" group-title="Hindustan(தமிழ்)",Sun Music
+https://load.airtelxstream.in/sunmusic/smil:common.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="Hindustan(தமிழ்)",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-ID="MAK.IN" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/203_300.png" group-title="Hindustan(தமிழ்)",Makkal
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+
 #EXTINF:-1 tvg-ID="MON.IN" tvg-logo="http://www.moontvlive.com/images/logo.png" group-title="Hindustan(தமிழ்)",Moon TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+
 #EXTINF:-1 tvg-ID="THA.IN" tvg-logo="https://www.thanthitv.com/Images/TTV-800x800.png" group-title="Hindustan(தமிழ்)",Thanthi
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
+
 #EXTINF:-1 tvg-ID="MSE.IN" tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2020/06/Malaimurasu-Seithigal-Logo-Copy-2.png" group-title="Hindustan(தமிழ்)",,MalaiMurasu Seithigal
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/malaimurasu/49992ade0624eda468a31e137996d044.sdp1/chunks.m3u8
 #EXTINF:-1 tvg-ID="SV2.IN" tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png" group-title="Hindustan(தமிழ்)",SVBC 2
@@ -478,22 +483,9 @@ http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/chunks
 
 #EXTINF:-1 tvg-id="ABA.IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="Hindustan(বাংলা)",ABP আনন্দ
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-id="ATN.BD" tvg-logo="https://www.atnbangla.tv/wp-content/uploads/2015/09/atn-bangla-logo-last.png" group-title="Hindustan(বাংলা)",ATN Bangla
-https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="CT1.BD" tvg-logo="http://jio-tv.com/uploads/tv_image/channel-t1.png" group-title="Hindustan(বাংলা)",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
-#EXTINF:-1 tvg-id="COL.BD" tvg-logo="https://static.epg.best/in/ColorsBangla.in.png" group-title="Hindustan(বাংলা)",Colors বাংলা
-https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.BD" tvg-logo="https://fyshnet.files.wordpress.com/2010/08/ntv-logo1.jpg" group-title="Hindustan(বাংলা)",NTV
-https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 tvg-id="SBA.IN" tvg-logo="https://static.epg.best/in/SangeetBangla.in.png" group-title="Hindustan(বাংলা)",Sangeet বাংলা
-https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1 tvg-id="STJ.IN" tvg-logo="https://static.epg.best/in/StarJalsha.in.png" group-title="Hindustan(বাংলা)",Star জলসা
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="JAM.BD" tvg-logo="https://static.epg.best/in/JalshaMovies.in.png" group-title="Hindustan(বাংলা)",Jalsha Movies
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1 tvg-id="ZZB.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="Hindustan(বাংলা)",Zee বাংলা
-https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="BAL.IN" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="Hindustan(ਪੰਜਾਬੀ)",Balle Balle
 https://live.wmncdn.net/balleballe/dfe65ad07232e060b007d2483602c06a.sdp/chunks.m3u8
@@ -508,7 +500,7 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="MHN.IN" tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png" group-title="Hindustan(ਪੰਜਾਬੀ)",MH1 Prime
 http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF:-1 tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="Hindustan(ਪੰਜਾਬੀ)",Pitaara
-http://cdn.smartstream.video/smartstream-us/pitaratv/pitaratv/chunklist.m3u8
+https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ACV.IN" tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title=Hindustan(മലയാളം)",Asianet
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
