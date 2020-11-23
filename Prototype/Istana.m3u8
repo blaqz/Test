@@ -316,13 +316,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3
 #EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="Movies",Sony Movies Action
 http://51.52.156.22:8888/http/009
 
-#EXTINF:-1 tvg-id="SIN.ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="Movies",Sinema Indonesia
-http://103.130.186.138:8800/oxygenplay/sinemaindonesia-x/index.m3u8
-
 #EXTINF:-1 tvg-id="WAR.Asia" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Movies",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#EXTINF:-1 tvg-id="AF1.SA" tvg-logo="https://www.artonline.tv/UploadImages/aflam-1-blue.png" group-title="Movies",ART Aflam 1
+http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
+
+#EXTINF:-1 tvg-id="SIN.ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="Movies",Sinema Indonesia
+http://103.130.186.138:8800/oxygenplay/sinemaindonesia-x/index.m3u8
 
 #EXTINF:-1 tvg-id="ZBI.ID" tvg-logo="https://www.zeeentertainment.com/wp-content/uploads/2017/10/zee_bioskop.png" group-title="Movies",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -399,31 +402,38 @@ https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
 
 
-#EXTINF:-1 tvg-id="SUN.SA" tvg-logo="https://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Timur Tengah",Makkah TV
+#EXTINF:-1 tvg-id="SUN.SA" tvg-logo="https://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="عربى",Makkah TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 tvg-id="MED.SA" tvg-logo="https://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="Timur Tengah",Medina TV
+#EXTINF:-1 tvg-id="MED.SA" tvg-logo="https://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="عربى",Medina TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="عربى",Al Jazeera
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="عربى",Al Araby 1
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="Timur Tengah",MBC 1
+
+#EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="عربى",MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-
-
-
-#EXTINF:-1 tvg-id="AF1.SA" tvg-logo="https://www.artonline.tv/UploadImages/aflam-1-blue.png" group-title="Timur Tengah",ART Aflam 1
-http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
-#EXTINF:-1 tvg-id="ROT.EG" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="Timur Tengah",Rotana Drama
+#EXTINF:-1 tvg-id="SPC.AE" tvg-logo="https://static.epg.best/sa/SpaceToon.sa.png" group-title="عربى",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ROT.EG" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="عربى",Rotana Drama
 https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="Timur Tengah",Abu Dhabi Al Oula
+#EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="عربى",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-id="IR1.IR" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="Timur Tengah",IRIB 1
+#EXTINF:-1 tvg-id="CBC.EG" tvg-logo="https://static.epg.best/eg/CBC.eg.png" group-title="مَصر",CBC
+http://digitalxpress.gcdn.co/live1/CBC/index.m3u8
+#EXTINF:-1 tvg-id="IR1.IR" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="عربى",IRIB 1
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="Timur Tengah",TRT 1
-https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="2MD.MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" group-title="Timur Tengah",2M Monde
+#EXTINF:-1 tvg-id="2MD.MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" group-title="عربى",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1 tvg-id="LBC.LB" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="Timur Tengah",LBC International
+#EXTINF:-1 tvg-id="LBC.LB" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="عربى",LBC International
 https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="DRA.SY" tvg-logo="http://www.ortas.online/DramaTV/images/drama.logo.png" group-title="سوريا",Syria Drama
+http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
+#EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="عربى",TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
+
 
 #EXTINF:-1 tvg-id="AAJ.IN" tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/homeLogo.png" group-title="Hindustan(हिन्दी)",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
