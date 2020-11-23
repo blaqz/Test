@@ -324,6 +324,9 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 tvg-id="AF1.SA" tvg-logo="https://www.artonline.tv/UploadImages/aflam-1-blue.png" group-title="Movies",ART Aflam 1
 http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
 
+#EXTINF:-1 tvg-id="MB2.SA" tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="Movies",MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+
 #EXTINF:-1 tvg-id="SIN.ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest?cb=20181017152803" group-title="Movies",Sinema Indonesia
 http://103.130.186.138:8800/oxygenplay/sinemaindonesia-x/index.m3u8
 
@@ -408,13 +411,16 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 #EXTINF:-1 tvg-id="CNC.SA" tvg-logo="http://www.cnbcarabia.com/img/logo.png" group-title="عربى",CNBC عربى
 https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ARA.SA" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="السعودية",Al Arabiya
+#EXTINF:-1 tvg-id="ARA.SA" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="عربى",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="عربى",MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="عربى",MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF:-1 tvg-id="MB2.SA" tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="عربى",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+
+#EXTINF:-1 tvg-id="NAT.AE" tvg-logo="https://static.epg.best/ae/NationalGeographicAbuDhabi.ae.png group-title="عربى",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SPC.AE" tvg-logo="https://static.epg.best/sa/SpaceToon.sa.png" group-title="عربى",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ROT.EG" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="عربى",Rotana Drama
@@ -425,13 +431,15 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 #EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="عربى",Abu Dhabi Al Oula
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1 tvg-id="SA1.SA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ksa-channel_logo.png" group-title="عربى",Al Saudiya
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="DUB.AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Dubai_TV.png" group-title="عربى",Dubai TV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-id="CBC.EG" tvg-logo="https://static.epg.best/eg/CBC.eg.png" group-title="عربى",CBC
 http://digitalxpress.gcdn.co/live1/CBC/index.m3u8
 #EXTINF:-1 tvg-id="2MD.MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" group-title="عربى",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1 tvg-id="DRA.SY" tvg-logo="http://www.ortas.online/DramaTV/images/drama.logo.png" group-title="عربى",Syria Drama
+#EXTINF:-1 tvg-id="DRA.SY" tvg-logo="https://static.epg.best/sy/SyriaDrama.sy.png" group-title="عربى",Syria Drama
 http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.IQ" tvg-logo="https://static.epg.best/iq/MBCIraq.iq.png" group-title="عربى",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
