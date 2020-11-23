@@ -888,15 +888,14 @@ http://digitalxpress.gcdn.co/live1/polsat/index.m3u8
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="法国精选",France 2
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
-#EXTINF:-1 tvg-id="M6.FR" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="Français",M6
+#EXTINF:-1 tvg-id="M6.FR" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="法国精选",M6
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
-#EXTINF:-1 tvg-id="C8.FR" tvg-id="" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="Français",C8
-https://exodiver.github.io/IPTV/M3U8/M3U8/Token/C8.m3u8
-#EXTINF:-1 tvg-id="N12.FR" tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" group-title="Français",NRJ 12
+#EXTINF:-1 tvg-id="C8.FR" tvg-id="" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="法国精选",C8
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/direct8live-76289/hls/index.m3u8
+#EXTINF:-1 tvg-id="N12.FR" tvg-logo="https://static.epg.best/fr/NRJ12.fr.png" group-title="法国精选",NRJ 12
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
 #EXTINF:-1 tvg-id="GUL.FR" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="法国精选",Gulli
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8
-
 #EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="法国精选",TV5 Monde
 https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
 #EXTINF:-1 tvg-id="BFM.FR" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" group-title="法国精选",BFM 
