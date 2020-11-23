@@ -835,8 +835,17 @@ http://203.162.235.41:16908
 http://203.162.235.41:16905
 #EXTINF:-1 tvg-id="" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="日本",日テレNEWS24
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tv-osaka.co.jp/portal/201610/images/ogp.png" group-title="日本",テレビ大阪
+http://193.42.99.130:23455/2590/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png" group-title="日本",ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png" group-title="日本",ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1920px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="日本",Tokyo MX 1
 http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
@@ -861,16 +870,34 @@ http://220.158.149.28:8180/live/TV00000000000000000072@HHZT
 http://203.162.235.41:16915
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png" group-title="日本",BS 日テレ
 http://203.162.235.41:16912
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cinefilwowow.com/parts/common/img/cinefil_logo.png" group-title="映画",シネフィル WOWOW
+http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.wowow.co.jp/service/fg/img/ch_cinema_logo.png" group-title="映画",WOWOW シネマ
+http://203.162.235.41:16916
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/jp/JapaneseMoviesChannel.jp.png" group-title="映画",日本映画専門チャンネル
+http://193.42.99.130:23455/3730/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://sun-tv.co.jp/wp-content/themes/suntv1/images/h_sun.png" group-title="日本",Sun テレビ
+http://193.42.99.130:23455/2630/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sky-a.co.jp/img/common/logo.png" group-title="スポーツ",スカイA
+http://193.42.99.130:23455/4990/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png" group-title="スポーツ",J Sports 1
+http://193.42.99.130:23455/3640/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png" group-title="スポーツ",J Sports 2
+http://193.42.99.130:23455/3650/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png" group-title="スポーツ",J Sports 3
+http://193.42.99.130:23455/3660/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png" group-title="スポーツ",J Sports 4
+http://193.42.99.130:23455/3670/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportslive-plus.com/_common/img/logo.png" group-title="スポーツ",スポーツライブ
+hhttp://193.42.99.130:23455/7160/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png" group-title="スポーツ",Golf Network
+http://193.42.99.130:23455/4320/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" group-title="日本",CGN 日本
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.japanet.co.jp/shopping/img/senqua/header/logo.gif" group-title="日本",ジャパネットチャンネルDX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cinefilwowow.com/parts/common/img/cinefil_logo.png" group-title="日本",シネフィル WOWOW
-http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.wowow.co.jp/service/fg/img/ch_cinema_logo.png" group-title="日本",WOWOW シネマ
-http://203.162.235.41:16916
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.njpw.co.jp/wp-content/themes/njpw-pc-sc/images/logo-njpwworld.png" group-title="日本",新日本プロレスワールド
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/GolfChannel.us.png" group-title="日本",NBC Golf 日本
-http://203.154.243.89:1208
