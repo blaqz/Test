@@ -35,7 +35,7 @@ https://exodiver.github.io/IPTV/EPG/guide_71.zip (In zip format)<br />
 
 1. Why the links can't work for me? <br />
 
-Ans:
+Ans:<br />
 a) Some links are locked to ip address of specific country. Which means you might been a vpn for the links to work.<br /> 
 b) Some links are intently programmed by the tv station not to be play on media/iptv players like VLC.<br />
 c) The tv station changes their link without notification. (They do all the time)<br />
@@ -43,12 +43,12 @@ d) Some TV station introduced DRM to their link to block non paying customers fr
 
 2. Why the mediacorp links from singapore can't work for me? <br />
 
-Ans:
+Ans:<br />
 Mediacorp have implemented DRM for their links. Please use a IPTV players that supports playing DRM links.<br />
 
 3. Why the links so slow or stuttering?  <br />
 
-Ans:
+Ans:<br />
 That is 100% the problem of the TV station. <br />
 
 They might not have buy enough internet bandwidth to broadcast the links smoothly. <br />
@@ -59,46 +59,47 @@ Please understand the monthly cost of ensuring a smooth watching experience for 
 
 3. Any plans to create playlist in the MITV (chinese player format) that can be played in potplayer or any east asian media player?<br />
 
-Ans:
+Ans:<br />
 I love to but I am looking for a player that support epg in the xmltv format.<br />
 
 4. Any plans to include p2p,rstp,vjms or whatever exotic links in the playlist?<br />
 
-Ans:
+Ans:<br />
 No.<br />
 
 5. Any plans to create a new IPTV player based on the playlist?
 
-Ans: 
+Ans:<br /> 
 No. I am not in the IPTV business. And there is so many players out there. Pick the favourite player or write your own player. <br />
 
 
 6. What players do you recommend?<br />
 
-Ans:
+Ans:<br />
 Kodi with Addons or any player based on Google's Exoplayer <br />
 
 
 7. What is this Referer=https://www.yahoo.com or |X-Forwarded-For<br />
 
-Ans:
-To take advantage of Google's Exoplayer magic ability to create altered HTTP headers so that players can play some links that usually can't be played.<br />
+Ans:<br />
+To take advantage of Google's Exoplayer magic ability to create altered HTTP headers so that players can play some links that usually can't be played. 
+
 They don't work for most IPTV players.<br />
 
 8. Do you want to start an IPTV reseller business with me?<br />
 
-Ans:
+Ans:<br />
 No. I am not in the IPTV business. The profit are quite low plus you might find yourself in legal trouble<br />
 
 
 9. Are you a IPTV reseller using this to promote your business? <br />
 
-Ans:
+Ans:<br />
 No. I am not in the IPTV business. I am just an office worker.<br />
 
 10. Why are you doing all this? <br />
 
-Ans:
+Ans:<br />
 As a hobby<br />
 
 
@@ -106,26 +107,22 @@ As a hobby<br />
 
 1. What software did you use to make the EPGs  <br />
 
-Ans: Webgrabplus. It is 5 Euros a year.<br />
+Ans:<br /> Webgrabplus. It is 5 Euros a year.<br />
 
 2. Why no tv guide for my channel?<br />
 
-Ans: Because no one published a tv guide for your channel on the internet. If there isn't one,I can't do anything.<br />
+Ans:<br /> Because no one published a tv guide for your channel on the internet. If there isn't one,I can't do anything.<br />
 
-3. Any plans for a compressed EPG? The EPG is like 30MB and I am on a internet plan that offers very little data  <br />
+3. Why the tv guide for my channel does not appear,despite it being in the EPG?
 
-Ans: Very soon<br />
-
-4. Why the tv guide for my channel does not appear,despite it being in the EPG?
-
-Ans: 
+Ans:<br /> 
 1) Please check that the address for EPG in your player is https://exodiver.github.io/IPTV/EPG/guide_71.xml <br />
-2) Please keep and don't alter the tvg-id="". It is there for a reason. Only alter the tvg-id="" if you are not using the EPG @ https://exodiver.github.io/IPTV/EPG/guide_71.xml <br />
+2) Please keep and don't alter the tvg-id="". It is there for a reason. Only alter the tvg-id="" if you are not using the EPG @ https://exodiver.github.io/IPTV/EPG/guide_71.xml or https://exodiver.github.io/IPTV/EPG/guide_71.zip <br />
 
 
 5. Why do I have to follow the tvg-id="" value?
 
-Ans: 
+Ans:<br /> 
 To give flexbility to user who might want to use a different channel name.  <br />
 
 Like maybe 動物星球頻道,instead of Animal Planet. <br />
