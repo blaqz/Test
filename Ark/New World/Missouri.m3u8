@@ -280,7 +280,7 @@ https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://static.epg.best/us/PBSWPSU.us.png" group-title="USA/Canada",PBS Pennsylvania(WPSU)
-https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8
+https://live-cdn.pbskids.org/out/u/aim/wpsu.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://d1b7flq4e9knh1.cloudfront.net/wp-content/plugins/wnet-station-wrappers/libs/images/NJTV/logo.png" group-title="USA/Canada",PBS New Jersey(NJTV)
 https://cdn3.wowza.com/1/Yk9VdzI2QnptdXZ2/YjdacytV/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/themes/wnet/libs/images/WNET-Logo-new.png" group-title="USA/Canada",PBS Thirteen(WNET)
