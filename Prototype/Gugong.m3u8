@@ -902,8 +902,10 @@ https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/87
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-ID="ICI.News" tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="法国精选",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-id="Gulli" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="法国精选",Gulli
-http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8|X-Forwarded-For=185.108.106.20
+#EXTINF:-1 tvg-id="GUL.FR" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="法国精选",Gulli
+http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8|X-Forwarded-For=85.3.148.129
+#EXTINF:-1 tvg-id="GUL.FR" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="法国精选",Gulli 2
+http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8|X-Forwarded-For=85.195.192.0
 
 #EXTINF:-1 tvg-id="AZ1.MX" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="拉丁精选",Azteca Uno
 https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8|X-Forwarded-For=194.41.112.22
