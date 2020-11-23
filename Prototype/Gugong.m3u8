@@ -851,10 +851,6 @@ http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="印度精选",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 
-#EXTINF:-1 tvg-id="ZZB.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="印度精选",Zee Bangla
-http://master.beeiptv.com:8081/MB/zeebangla/playlist.m3u8
-#EXTINF:-1 tvg-id="SAA.IN" tvg-logo="https://d1gf51qhpllsl2.cloudfront.net/images/logo.png" group-title="印度精选",Sony Aath
-http://master.beeiptv.com:8081/MB/sonyaath/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="印度精选",Pitaara
 https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
