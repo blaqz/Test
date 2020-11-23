@@ -420,6 +420,8 @@ https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
 https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="Français",France 2
 http://178.132.3.162:88/france2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="Français",France 2
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="Français",France 3
 http://178.132.3.162:88/france3/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="Français",France 3 Rhône-Alpes
