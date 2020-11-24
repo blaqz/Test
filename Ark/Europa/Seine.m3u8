@@ -1141,7 +1141,7 @@ http://digitalxpress.gcdn.co/live1/domo/index.m3u8
 http://digitalxpress.gcdn.co/live1/kuchnia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/Minimini.pl.png" group-title="Polska",Mini Mini +
 http://digitalxpress.gcdn.co/live1/minimini/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/nSport.pl.png group-title="Polska",nSport +
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/nSport.pl.png" group-title="Polska",nSport +
 http://digitalxpress.gcdn.co/live1/nsport/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pl/TVP1.pl.png" group-title="Polska",TVP 1
