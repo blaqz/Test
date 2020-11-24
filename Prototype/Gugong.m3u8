@@ -477,21 +477,35 @@ https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-id="BT2.UK" tvg-logo="https://static.epg.best/gb/BTSport1.uk.png" group-title="体育",BT Sports 2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="体育",beIN Sports 1 Asia (DRM)
+#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="体育",beIN Sports 1 Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
-#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="体育",beIN Sports 1 Asia
-https://oxoo.lk21tvonlineid.com/m3u/bein1.m3u8
-
-#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育",beIN Sports 2 Asia (DRM)
+#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育",beIN Sports 2 Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
 
-#EXTINF:-1 tvg-id="B02.th" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育",beIN Sports 2 Asia
-https://oxoo.lk21tvonlineid.com/m3u/bein2.m3u8
+#EXTINF:-1 tvg-id="B01.qa" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="体育",beIN Sports 1
+http://116.203.40.131:80/hls/bein1.m3u8
+#EXTINF:-1 tvg-id="B02.qa" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育",beIN Sports 2
+http://116.203.40.131:80/hls/bein2.m3u8
+#EXTINF:-1 tvg-id="B03.qa" tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="体育",beIN Sports 3
+http://116.203.40.131:80/hls/bein3.m3u8
+#EXTINF:-1 tvg-id="B04.qa" tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="体育",beIN Sports 4
+http://116.203.40.131:80/hls/bein4.m3u8
+#EXTINF:-1 tvg-id="B05.qa" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育",beIN Sports 5
+http://116.203.40.131:80/hls/bein5.m3u8
+#EXTINF:-1 tvg-id="B06.qa" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育",beIN Sports 6
+http://116.203.40.131:80/hls/bein6.m3u8
+#EXTINF:-1 tvg-id="B07.qa" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育",beIN Sports 7
+http://116.203.40.131:80/hls/bein7.m3u8
+#EXTINF:-1 tvg-id="B08.qa" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育",beIN Sports 8
+http://116.203.40.131:80/hls/bein8.m3u8
+#EXTINF:-1 tvg-id="B09.qa" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="体育",beIN Sports 9
+http://116.203.40.131:80/hls/bein9.m3u8
+
 
 #EXTINF:-1 tvg-id="BXT.US" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="体育",beIN Xtra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
