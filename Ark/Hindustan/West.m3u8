@@ -114,7 +114,7 @@ http://master.beeiptv.com:8081/MB/mohona/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://mytvbd.tv/wp-content/uploads/2019/01/MyTv_Logo_Colored-300x165-300x165.png" group-title="বাংলা",Mytv
 http://master.beeiptv.com:8081/MB/mytv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-vod.wixmp.com/ceb800c0-c2cc-4726-8014-162eec7e4e04/images/e22df72ff92643f6890df7a483359eac~mv2/v1/fill/w_330,h_330/file.png group-title="বাংলা",Orange TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-vod.wixmp.com/ceb800c0-c2cc-4726-8014-162eec7e4e04/images/e22df72ff92643f6890df7a483359eac~mv2/v1/fill/w_330,h_330/file.png" group-title="বাংলা",Orange TV
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://fyshnet.files.wordpress.com/2010/08/ntv-logo1.jpg" group-title="বাংলা",NTV
