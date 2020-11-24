@@ -262,12 +262,16 @@ http://digitalxpress.gcdn.co/live1/beinjeemhd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ksa-channel_logo.png" group-title="السعودية",Al Saudiya
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="السعودية",Al Arabiya
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/Alarabiya.sa.png" group-title="السعودية",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="السعودية",القرآن الكريم
 http://m.live.net.sa:1935/live/quran/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="السعودية",السنة النبوية
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/SaudiSport1.sa.png" group-title="السعودية",Saudi Sport 1
+http://116.203.40.131:80/hls/ksa1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/SaudiSport2.sa.png" group-title="السعودية",Saudi Sport 2
+http://116.203.40.131:80/hls/ksa2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.artonline.tv/UploadImages/aflam-1-blue.png" group-title="السعودية",ART Aflam 1
 http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
