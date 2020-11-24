@@ -219,15 +219,15 @@ http://116.203.40.131:80/hls/bein2.m3u8
 http://116.203.40.131:80/hls/bein3.m3u8
 #EXTINF:-1 tvg-id="B04.qa" tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="Sukan",beIN Sports 4
 http://116.203.40.131:80/hls/bein4.m3u8
-#EXTINF:-1 tvg-id="B05.qa" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sukan",beIN Sports 5
+#EXTINF:-1 tvg-id="B05.qa" tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="Sukan",beIN Sports 5
 http://116.203.40.131:80/hls/bein5.m3u8
-#EXTINF:-1 tvg-id="B06.qa" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sukan",beIN Sports 6
+#EXTINF:-1 tvg-id="B06.qa" tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="Sukan",beIN Sports 6
 http://116.203.40.131:80/hls/bein6.m3u8
-#EXTINF:-1 tvg-id="B07.qa" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sukan",beIN Sports 7
+#EXTINF:-1 tvg-id="B07.qa" tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="Sukan",beIN Sports 7
 http://116.203.40.131:80/hls/bein7.m3u8
-#EXTINF:-1 tvg-id="B08.qa" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sukan",beIN Sports 8
+#EXTINF:-1 tvg-id="B08.qa" tvg-logo="https://static.epg.best/qa/beINSports8.qa.png" group-title="Sukan",beIN Sports 8
 http://116.203.40.131:80/hls/bein8.m3u8
-#EXTINF:-1 tvg-id="B09.qa" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Sukan",beIN Sports 9
+#EXTINF:-1 tvg-id="B09.qa" tvg-logo="https://static.epg.best/qa/beINSports9.qa.png" group-title="Sukan",beIN Sports 9
 http://116.203.40.131:80/hls/bein9.m3u8
 
 #EXTINF:-1 tvg-id="BXT.US" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sukan",beIN Xtra
