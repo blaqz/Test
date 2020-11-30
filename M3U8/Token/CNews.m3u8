@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
-#EXT-X-STREAM-IND:PROGRAM-ID=1,BANDWIDTH=2560000 
-https://stream-02.sg1.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOF_cs-zBu9rrIL1oPIXnnh_vBDCT795a3snEtwHyS2xi)/p/dm/3/x5idxxp/d/live-4.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 
+https://stream-03.sg1.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gcU5bR5LX5UqWqoQasMMBE4)/dm/3/x3b68jn/d/live-4.m3u8
